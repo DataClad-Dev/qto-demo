@@ -1,0 +1,224 @@
+{
+  "C_02_04-CONCRETE_WORK-0002": {
+    "aiQuantity": 176,
+    "aiConfidence": 96,
+    "status": "matched",
+    "drawingRef": "L00-STR-VC4400",
+    "drawingRev": "C",
+    "gridLevel": "B-C / GF",
+    "methodology": "Raft outline traced from reinforcement plan hatch boundary; thickness read from section callout, cross-checked against foundation layout plan.",
+    "reasoning": [
+      "Detected raft foundation pour region on L00-STR-VC4400 Rev C, grid B-C, matching plan hatch for 400mm raft.",
+      "Cross-referenced Section 03 30 00 (Cast-In-Place Concrete) mix designation C40/50 OPC/GGBS against BOQ item C_02_04.",
+      "Computed area from traced boundary x thickness = 176 m³, within 2% of BOQ quantity."
+    ],
+    "specClause": "Section 03 30 00 — Cast-In-Place Concrete (STR)",
+    "overlay": { "page": 1, "xPct": 8, "yPct": 10, "wPct": 34, "hPct": 26 }
+  },
+  "C_02_04-CONCRETE_WORK-0007": {
+    "aiQuantity": 9,
+    "aiConfidence": 58,
+    "status": "flagged",
+    "drawingRef": "L00-STR-VC4400",
+    "drawingRev": "C",
+    "gridLevel": "D-E / GF",
+    "methodology": "1200mm raft thickening zone partially obscured by dimension string overlap; boundary inferred from adjoining grid lines, low confidence on full extent.",
+    "reasoning": [
+      "Detected a thickened raft zone on L00-STR-VC4400 Rev C near grid D-E, but boundary dimensions overlap with a rebar callout leader line.",
+      "BOQ item C_02_04 lists 16 m³ at 1200mm thick; traced region only accounts for roughly half that footprint.",
+      "Flagged for estimator review — recommend confirming against the printed PDF at full zoom before accepting."
+    ],
+    "specClause": "Section 03 30 00 — Cast-In-Place Concrete (STR)",
+    "overlay": { "page": 1, "xPct": 46, "yPct": 42, "wPct": 22, "hPct": 18 }
+  },
+  "C_02_04-CONCRETE_WORK-0003": {
+    "aiQuantity": 19,
+    "aiConfidence": 99,
+    "status": "matched",
+    "drawingRef": "L00-STR-VC4400",
+    "drawingRev": "C",
+    "gridLevel": "A-B / GF",
+    "methodology": "Raft thickening strip clearly hatched and dimensioned on the reinforcement plan; direct area x thickness read.",
+    "reasoning": [
+      "Detected 450mm raft thickening strip on L00-STR-VC4400 Rev C, grid A-B, cleanly bounded with no overlapping annotations.",
+      "Matched against BOQ item C_02_04 (450mm raft) — near-exact area/thickness match."
+    ],
+    "specClause": "Section 03 30 00 — Cast-In-Place Concrete (STR)",
+    "overlay": { "page": 1, "xPct": 8, "yPct": 38, "wPct": 20, "hPct": 14 }
+  },
+  "C_02_08-CONCRETE_WORK-0026": {
+    "aiQuantity": 26.5,
+    "aiConfidence": 93,
+    "status": "matched",
+    "drawingRef": "L00-STR-VC4201",
+    "drawingRev": "B",
+    "gridLevel": "Multiple / GF",
+    "methodology": "Column count and section dimensions read from Columns & Walls Setting Out plan, volume computed per column height from framing plan levels.",
+    "reasoning": [
+      "Counted 18 rectangular column markers on L00-STR-VC4201 Rev B, cross-referenced section sizes against the column schedule note block.",
+      "Height taken from GF-to-1F floor-to-floor dimension on the framing plan.",
+      "Computed total volume 26.5 m³ against BOQ item C_02_08 (Columns, 27 m³)."
+    ],
+    "specClause": "Section 03 30 00 — Cast-In-Place Concrete (STR)",
+    "overlay": { "page": 1, "xPct": 20, "yPct": 15, "wPct": 55, "hPct": 60 }
+  },
+  "C_03_03-CONCRETE_WORK-0032": {
+    "aiQuantity": 41.2,
+    "aiConfidence": 71,
+    "status": "flagged",
+    "drawingRef": "L00-STR-VC4400",
+    "drawingRev": "C",
+    "gridLevel": "Foundation / GF",
+    "methodology": "Rebar tonnage estimated from bar mark schedule note counts; mesh density in raft interior not fully legible at current scan resolution.",
+    "reasoning": [
+      "Read bar marks and spacing callouts from L00-STR-VC4400 Rev C schedule note block.",
+      "Section 03 20 00 (Concrete Reinforcing) minimum yield strength requirements matched to BOQ item C_03_03.",
+      "Estimated 41.2t against BOQ 47.75t — rebar tonnage from 2D plans alone tends to under-count congested zones; flagged for manual check."
+    ],
+    "specClause": "Section 03 20 00 — Concrete Reinforcing (STR)",
+    "overlay": { "page": 1, "xPct": 8, "yPct": 10, "wPct": 34, "hPct": 26 }
+  },
+  "C_02_04-CONCRETE_WORK-0013": {
+    "aiQuantity": 0,
+    "aiConfidence": 0,
+    "status": "missing",
+    "drawingRef": "L00-STR-VC4400",
+    "drawingRev": "C",
+    "gridLevel": "Courtyard / GF",
+    "methodology": "No corresponding slab-on-grade region found within the reviewed structural drawing set.",
+    "reasoning": [
+      "Searched L00-STR-VC4400 and adjoining structural sheets for a courtyard landscape slab-on-grade pour — no matching region found.",
+      "Landscape concrete scope may be documented in a landscape/civil drawing set outside this discipline's reviewed sheets.",
+      "Flagged as missing — estimator should confirm whether landscape drawings need to be added to the take-off scope."
+    ],
+    "specClause": "Section 03 30 00 — Cast-In-Place Concrete (STR)"
+  },
+  "H_01_01-DOORS_AND_WINDOWS-0002": {
+    "aiQuantity": 2,
+    "aiConfidence": 98,
+    "status": "matched",
+    "drawingRef": "ZZZ-ARC-VC4610",
+    "drawingRev": "A",
+    "gridLevel": "GF / Multiple",
+    "methodology": "Door tag DT-03 counted directly from the door schedule sheet, cross-checked against typical door detail.",
+    "reasoning": [
+      "Counted 2 instances of tag DT-03 on Door Sched Sh1 (ZZZ-ARC-VC4610 Rev A).",
+      "Leaf size 1090 x 2870mm confirmed against the typical door detail sheet.",
+      "Matched against BOQ item H_01_01 — exact count match."
+    ],
+    "specClause": "Section 08 14 16 — Flush Wood Doors (ARC)",
+    "overlay": { "page": 1, "xPct": 12, "yPct": 18, "wPct": 28, "hPct": 10 }
+  },
+  "H_01_01-DOORS_AND_WINDOWS-0004": {
+    "aiQuantity": 5,
+    "aiConfidence": 64,
+    "status": "flagged",
+    "drawingRef": "ZZZ-ARC-VC4610",
+    "drawingRev": "A",
+    "gridLevel": "GF-1F / Multiple",
+    "methodology": "Door tag DT-04 counted on the schedule sheet; two instances on Level 1 fall on a torn/low-contrast scan region and were not confidently detected.",
+    "reasoning": [
+      "Counted 5 clear instances of tag DT-04 on Door Sched Sh1/Sh2 (ZZZ-ARC-VC4610/4611 Rev A).",
+      "Scan quality on the Sh2 continuation degrades near the fold line — 2 further instances suspected but not confidently read.",
+      "BOQ item H_01_01 lists 7 Nr. — flagged, likely undercount rather than a genuine discrepancy."
+    ],
+    "specClause": "Section 08 14 16 — Flush Wood Doors (ARC)",
+    "overlay": { "page": 1, "xPct": 45, "yPct": 55, "wPct": 24, "hPct": 10 }
+  },
+  "D_02_01-MASONRY-0005": {
+    "aiQuantity": 24.6,
+    "aiConfidence": 95,
+    "status": "matched",
+    "drawingRef": "L00-ARC-VC4130",
+    "drawingRev": "B",
+    "gridLevel": "GF / Multiple",
+    "methodology": "Wall run length read from Wall Types plan hatch pattern SB150, multiplied by clear floor-to-ceiling height from RCP.",
+    "reasoning": [
+      "Traced SB150 hatch pattern (150mm blockwall, 50dB Rw) on L00-ARC-VC4130 Rev B.",
+      "Height cross-checked against RCP GF Plan ceiling datum.",
+      "Computed 24.6 m² against BOQ item D_02_01 (25 m²)."
+    ],
+    "specClause": "Section 04 22 23 — Architectural Concrete Unit Masonry (ARC)",
+    "overlay": { "page": 1, "xPct": 55, "yPct": 20, "wPct": 30, "hPct": 22 }
+  },
+  "D_02_01-MASONRY-0004": {
+    "aiQuantity": 11.5,
+    "aiConfidence": 68,
+    "status": "flagged",
+    "drawingRef": "L00-ARC-VC4130",
+    "drawingRev": "B",
+    "gridLevel": "GF / Service Core",
+    "methodology": "FR-60 fire-rated wall hatch partially overlaps a services riser annotation, reducing traceable run length.",
+    "reasoning": [
+      "Located FR-60 rated 100mm blockwall hatch (55dB Rw) near the service core on L00-ARC-VC4130 Rev B.",
+      "A services riser callout overlaps roughly a third of the wall run, limiting confident length extraction.",
+      "Computed 11.5 m² against BOQ item D_02_01 (16 m²) — flagged, likely undercount from the obscured segment."
+    ],
+    "specClause": "Section 04 22 23 — Architectural Concrete Unit Masonry (ARC)",
+    "overlay": { "page": 1, "xPct": 30, "yPct": 50, "wPct": 18, "hPct": 16 }
+  },
+  "J_02_01-FINISHES-0002": {
+    "aiQuantity": 549,
+    "aiConfidence": 94,
+    "status": "matched",
+    "drawingRef": "L00-INT-VC4120",
+    "drawingRev": "A",
+    "gridLevel": "GF / All rooms",
+    "methodology": "Room-by-room floor area summed from Floor Finishes Plan polygons tagged 'stone flooring', screed thickness per finish schedule note.",
+    "reasoning": [
+      "Summed all room polygons tagged for stone flooring finish on L00-INT-VC4120 Rev A.",
+      "Screed buildup (80mm) confirmed from the finish schedule note block on the same sheet.",
+      "Computed 549 m² against BOQ item J_02_01 (554 m²) — within 1%."
+    ],
+    "specClause": "Section 09 31 50 — Porcelain Tile (ARC)",
+    "overlay": { "page": 1, "xPct": 5, "yPct": 5, "wPct": 90, "hPct": 90 }
+  },
+  "J_02_01-FINISHES-0004": {
+    "aiQuantity": 142,
+    "aiConfidence": 73,
+    "status": "flagged",
+    "drawingRef": "L00-INT-VC4120",
+    "drawingRev": "A",
+    "gridLevel": "GF / Wet areas",
+    "methodology": "Porcelain tile zones summed from finish plan; one bathroom polygon boundary is ambiguous where it meets a threshold detail callout.",
+    "reasoning": [
+      "Summed room polygons tagged for porcelain tile finish on L00-INT-VC4120 Rev A.",
+      "One ensuite polygon boundary is unclear where it meets an aluminium threshold detail bubble — excluded from the sum pending confirmation.",
+      "Computed 142 m² against BOQ item J_02_01 (187 m²) — flagged for the excluded room."
+    ],
+    "specClause": "Section 09 31 50 — Porcelain Tile (ARC)",
+    "overlay": { "page": 1, "xPct": 40, "yPct": 60, "wPct": 22, "hPct": 18 }
+  },
+  "C_02_09-CONCRETE_WORK-0017": {
+    "aiQuantity": 111,
+    "aiConfidence": 97,
+    "status": "matched",
+    "drawingRef": "L01-STR-VC4401",
+    "drawingRev": "B",
+    "gridLevel": "1F / Full slab",
+    "methodology": "Suspended slab outline traced from reinforcement plan, 220mm thickness read from the slab schedule callout.",
+    "reasoning": [
+      "Traced 1F suspended slab outline on L01-STR-VC4401 Rev B.",
+      "220mm thickness confirmed against the slab schedule note.",
+      "Computed 111 m³ against BOQ item C_02_09 (113 m³)."
+    ],
+    "specClause": "Section 03 30 00 — Cast-In-Place Concrete (STR)",
+    "overlay": { "page": 1, "xPct": 6, "yPct": 6, "wPct": 88, "hPct": 88 }
+  },
+  "E_02_01-METALWORK-0003": {
+    "aiQuantity": 7.4,
+    "aiConfidence": 81,
+    "status": "flagged",
+    "drawingRef": "ROF-STR-VC4303",
+    "drawingRev": "A",
+    "gridLevel": "Roof / Canopy",
+    "methodology": "Steel beam member lengths and section sizes read from the roof framing plan, tonnage computed from S355 section mass tables.",
+    "reasoning": [
+      "Identified roof canopy steel beam layout on ROF-STR-VC4303 Rev A, section sizes per member tag.",
+      "Applied S355 mass-per-metre tables to computed member lengths.",
+      "Computed 7.4t against BOQ item E_02_01 (8.02t) — within normal steelwork take-off tolerance, flagged for rate-sensitive confirmation."
+    ],
+    "specClause": "Section 03 30 00 — Cast-In-Place Concrete (STR)",
+    "overlay": { "page": 1, "xPct": 15, "yPct": 15, "wPct": 60, "hPct": 40 }
+  }
+}

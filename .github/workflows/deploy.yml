@@ -1,0 +1,55 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: npm run build
+      # SPA fallback so React Router deep links work on Pages
+      - run: cp dist/index.html dist/404.html
+      - name: Guard against leaked client material
+        env:
+          # Regex of confidential identifiers, kept in a repo secret so the
+          # terms themselves are not published in this file.
+          LEAK_PATTERNS: ${{ secrets.LEAK_PATTERNS }}
+        run: |
+          if [ -z "$LEAK_PATTERNS" ]; then echo "::error::LEAK_PATTERNS secret not set"; exit 1; fi
+          if grep -rqiE --exclude='*.pdf' --exclude='*.wasm' "$LEAK_PATTERNS" dist; then
+            echo "::error::Confidential identifiers found in build output"; exit 1
+          fi
+          count=$(find dist -name '*.pdf' | wc -l)
+          if [ "$count" -ne 1 ]; then echo "::error::Expected exactly 1 PDF in dist, found $count"; exit 1; fi
+          if [ -n "$(find dist \( -name '*.xlsx' -o -name '*.docx' \))" ]; then echo "::error::Office files in dist"; exit 1; fi
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

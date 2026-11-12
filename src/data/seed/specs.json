@@ -1,0 +1,3298 @@
+[
+  {
+    "id": "spec-5e-zone-e-section-01-81-13-sustainability-requirements-l3-signature-villas-sus",
+    "section": "01 81 13",
+    "title": "Sustainability Requirements - Type C Villas (SUS)",
+    "discipline": "Zone E",
+    "fileName": "Section 01 81 13 - Sustainability Requirements - Type C Villas (SUS).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2001%20-%20GENERAL%20REQUIREMENTS/Section%2001%2081%2013%20-%20Sustainability%20Requirements%20-%20L3%20Signature%20Villas%20%28SUS%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-01-81-13-sustainability-requirements-l4-beach-villas-sus",
+    "section": "01 81 13",
+    "title": "Sustainability Requirements - Type D Villas (SUS)",
+    "discipline": "Zone E",
+    "fileName": "Section 01 81 13 - Sustainability Requirements - Type D Villas (SUS).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2001%20-%20GENERAL%20REQUIREMENTS/Section%2001%2081%2013%20-%20Sustainability%20Requirements%20-%20L4%20Beach%20Villas%20%28SUS%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-01-83-00-facility-shell-performance-requirements-fac",
+    "section": "01 83 00",
+    "title": "Facility Shell Performance Requirements (FAC)",
+    "discipline": "Zone E",
+    "fileName": "Section 01 83 00 - Facility Shell Performance Requirements (FAC).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2001%20-%20GENERAL%20REQUIREMENTS/Section%2001%2083%2000%20-%20Facility%20Shell%20Performance%20Requirements%20%28FAC%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-03-11-00-concrete-forming-str",
+    "section": "03 11 00",
+    "title": "Concrete Forming (STR)",
+    "discipline": "Zone E",
+    "fileName": "Section 03 11 00 - Concrete Forming (STR).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2003%20-%20CONCRETE/Section%2003%2011%2000%20-%20Concrete%20Forming%20%28STR%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-03-15-00-concrete-accessories-str",
+    "section": "03 15 00",
+    "title": "Concrete Accessories (STR)",
+    "discipline": "Zone E",
+    "fileName": "Section 03 15 00 - Concrete Accessories (STR).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2003%20-%20CONCRETE/Section%2003%2015%2000%20-%20Concrete%20Accessories%20%28STR%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-03-15-13-concrete-joints-str",
+    "section": "03 15 13",
+    "title": "Concrete Joints (STR)",
+    "discipline": "Zone E",
+    "fileName": "Section 03 15 13 - Concrete Joints (STR).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2003%20-%20CONCRETE/Section%2003%2015%2013%20-%20Concrete%20Joints%20%28STR%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-03-20-00-concrete-reinforcing-str",
+    "section": "03 20 00",
+    "title": "Concrete Reinforcing (STR)",
+    "discipline": "Zone E",
+    "fileName": "Section 03 20 00 - Concrete Reinforcing (STR).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2003%20-%20CONCRETE/Section%2003%2020%2000%20-%20Concrete%20Reinforcing%20%28STR%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-03-30-00-cast-in-place-concrete-str",
+    "section": "03 30 00",
+    "title": "Cast-In-Place Concrete (STR)",
+    "discipline": "Zone E",
+    "fileName": "Section 03 30 00 - Cast-In-Place Concrete (STR).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2003%20-%20CONCRETE/Section%2003%2030%2000%20-%20Cast-In-Place%20Concrete%20%28STR%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-03-37-13-shotcrete-guniting-str",
+    "section": "03 37 13",
+    "title": "Shotcrete (Guniting) (STR)",
+    "discipline": "Zone E",
+    "fileName": "Section 03 37 13 - Shotcrete (Guniting) (STR).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2003%20-%20CONCRETE/Section%2003%2037%2013%20-%20Shotcrete%20%28Guniting%29%20%28STR%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-03-39-00-concrete-curing-str",
+    "section": "03 39 00",
+    "title": "Concrete Curing (STR)",
+    "discipline": "Zone E",
+    "fileName": "Section 03 39 00 - Concrete Curing (STR).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2003%20-%20CONCRETE/Section%2003%2039%2000%20-%20Concrete%20Curing%20%28STR%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-03-45-00-precast-architectural-concrete-arc",
+    "section": "03 45 00",
+    "title": "Precast Architectural Concrete (ARC)",
+    "discipline": "Zone E",
+    "fileName": "Section 03 45 00 - Precast Architectural Concrete (ARC).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2003%20-%20CONCRETE/Section%2003%2045%2000%20-%20Precast%20Architectural%20Concrete%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-03-49-00-glass-fiber-reinforced-concrete-fac",
+    "section": "03 49 00",
+    "title": "Glass-Fiber Reinforced Concrete (FAC)",
+    "discipline": "Zone E",
+    "fileName": "Section 03 49 00 - Glass-Fiber Reinforced Concrete (FAC).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2003%20-%20CONCRETE/Section%2003%2049%2000%20-%20Glass-Fiber%20Reinforced%20Concrete%20%28FAC%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-03-52-16-lightweight-insulating-concrete-arc",
+    "section": "03 52 16",
+    "title": "Lightweight Insulating Concrete (ARC)",
+    "discipline": "Zone E",
+    "fileName": "Section 03 52 16 - Lightweight Insulating Concrete (ARC).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2003%20-%20CONCRETE/Section%2003%2052%2016%20-%20Lightweight%20Insulating%20Concrete%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-03-53-50-floor-screed-arc",
+    "section": "03 53 50",
+    "title": "Floor Screed (ARC)",
+    "discipline": "Zone E",
+    "fileName": "Section 03 53 50 - Floor Screed (ARC).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2003%20-%20CONCRETE/Section%2003%2053%2050%20-%20Floor%20Screed%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-03-60-00-grouting-str",
+    "section": "03 60 00",
+    "title": "Grouting (STR)",
+    "discipline": "Zone E",
+    "fileName": "Section 03 60 00 - Grouting (STR).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2003%20-%20CONCRETE/Section%2003%2060%2000%20-%20Grouting%20%28STR%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-04-05-13-masonry-mortar-arc",
+    "section": "04 05 13",
+    "title": "Masonry Mortar (ARC)",
+    "discipline": "Zone E",
+    "fileName": "Section 04 05 13 - Masonry Mortar (ARC).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2004%20-%20MASONRY/Section%2004%2005%2013%20-%20Masonry%20Mortar%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-04-20-00-exterior-stone-cladding-fac",
+    "section": "04 20 00",
+    "title": "Exterior Stone Cladding (FAC)",
+    "discipline": "Zone E",
+    "fileName": "Section 04 20 00 - Exterior Stone Cladding (FAC).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2004%20-%20MASONRY/Section%2004%2020%2000%20-%20Exterior%20Stone%20Cladding%20%28FAC%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-04-21-29-terracotta-tiles-fac",
+    "section": "04 21 29",
+    "title": "Terracotta Tiles (FAC)",
+    "discipline": "Zone E",
+    "fileName": "Section 04 21 29 - Terracotta Tiles (FAC).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2004%20-%20MASONRY/Section%2004%2021%2029%20-%20Terracotta%20Tiles%20%28FAC%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-04-22-23-architectural-concrete-unit-masonry-arc",
+    "section": "04 22 23",
+    "title": "Architectural Concrete Unit Masonry (ARC)",
+    "discipline": "Zone E",
+    "fileName": "Section 04 22 23 - Architectural Concrete Unit Masonry (ARC).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2004%20-%20MASONRY/Section%2004%2022%2023%20-%20Architectural%20Concrete%20Unit%20Masonry%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-05-12-00-secondary-steel-framing-fac",
+    "section": "05 12 00",
+    "title": "Secondary Steel Framing (FAC)",
+    "discipline": "Zone E",
+    "fileName": "Section 05 12 00 - Secondary Steel Framing (FAC).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2005%20-%20METALS/Section%2005%2012%2000%20-%20Secondary%20Steel%20Framing%20%28FAC%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-05-12-00-structural-steel-framing-str",
+    "section": "05 12 00",
+    "title": "Structural Steel Framing (STR)",
+    "discipline": "Zone E",
+    "fileName": "Section 05 12 00 - Structural Steel Framing (STR).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2005%20-%20METALS/Section%2005%2012%2000%20-%20Structural%20Steel%20Framing%20%28STR%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-05-50-00-metal-fabrications-arc",
+    "section": "05 50 00",
+    "title": "Metal Fabrications (ARC)",
+    "discipline": "Zone E",
+    "fileName": "Section 05 50 00 - Metal Fabrications (ARC).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2005%20-%20METALS/Section%2005%2050%2000%20-%20Metal%20Fabrications%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-05-52-13-pipe-and-tube-railings-arc",
+    "section": "05 52 13",
+    "title": "Pipe and Tube Railings (ARC)",
+    "discipline": "Zone E",
+    "fileName": "Section 05 52 13 - Pipe and Tube Railings (ARC).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2005%20-%20METALS/Section%2005%2052%2013%20-%20Pipe%20and%20Tube%20Railings%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-05-53-13-bar-gratings-arc",
+    "section": "05 53 13",
+    "title": "Bar Gratings (ARC)",
+    "discipline": "Zone E",
+    "fileName": "Section 05 53 13 - Bar Gratings (ARC).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2005%20-%20METALS/Section%2005%2053%2013%20-%20Bar%20Gratings%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-05-73-13-glazed-decorative-metal-railing-arc",
+    "section": "05 73 13",
+    "title": "Glazed Decorative Metal Railing (ARC)",
+    "discipline": "Zone E",
+    "fileName": "Section 05 73 13 - Glazed Decorative Metal Railing (ARC).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2005%20-%20METALS/Section%2005%2073%2013%20-%20Glazed%20Decorative%20Metal%20Railing%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-05-75-00-decorative-formed-metal-arc",
+    "section": "05 75 00",
+    "title": "Decorative Formed Metal (ARC)",
+    "discipline": "Zone E",
+    "fileName": "Section 05 75 00 - Decorative Formed Metal (ARC).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2005%20-%20METALS/Section%2005%2075%2000%20-%20Decorative%20Formed%20Metal%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-06-10-53-miscellaneous-rough-carpentry-arc",
+    "section": "06 10 53",
+    "title": "Miscellaneous Rough Carpentry (ARC)",
+    "discipline": "Zone E",
+    "fileName": "Section 06 10 53 - Miscellaneous Rough Carpentry (ARC).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2006%20-%20WOOD%2C%20PLASTICS%2C%20AND%20COMPOSITES/Section%2006%2010%2053%20-%20Miscellaneous%20Rough%20Carpentry%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-06-40-23-interior-architectural-woodwork-arc",
+    "section": "06 40 23",
+    "title": "Interior Architectural Woodwork (ARC)",
+    "discipline": "Zone E",
+    "fileName": "Section 06 40 23 - Interior Architectural Woodwork (ARC).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2006%20-%20WOOD%2C%20PLASTICS%2C%20AND%20COMPOSITES/Section%2006%2040%2023%20-%20Interior%20Architectural%20Woodwork%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-06-41-16-plastic-laminate-faced-architectural-casework-arc",
+    "section": "06 41 16",
+    "title": "Plastic-Laminate-Faced Architectural Casework (ARC)",
+    "discipline": "Zone E",
+    "fileName": "Section 06 41 16 - Plastic-Laminate-Faced Architectural Casework (ARC).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2006%20-%20WOOD%2C%20PLASTICS%2C%20AND%20COMPOSITES/Section%2006%2041%2016%20-%20Plastic-Laminate-Faced%20Architectural%20Casework%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-06-83-16-fiber-glass-reinforced-paneling-grp-arc",
+    "section": "06 83 16",
+    "title": "Fiber Glass Reinforced Paneling (GRP) (ARC)",
+    "discipline": "Zone E",
+    "fileName": "Section 06 83 16 - Fiber Glass Reinforced Paneling (GRP) (ARC).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2006%20-%20WOOD%2C%20PLASTICS%2C%20AND%20COMPOSITES/Section%2006%2083%2016%20-%20Fiber%20Glass%20Reinforced%20Paneling%20%28GRP%29%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-07-13-00-sheet-membrane-waterproofing-str",
+    "section": "07 13 00",
+    "title": "Sheet Membrane Waterproofing (STR)",
+    "discipline": "Zone E",
+    "fileName": "Section 07 13 00 - Sheet Membrane Waterproofing (STR).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2007%20-%20THERMAL%20AND%20MOISTURE%20PROTECTION/Section%2007%2013%2000%20-%20Sheet%20Membrane%20Waterproofing%20%28STR%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-07-14-16-cold-fluid-applied-waterproofing-str",
+    "section": "07 14 16",
+    "title": "Cold Fluid-Applied Waterproofing (STR)",
+    "discipline": "Zone E",
+    "fileName": "Section 07 14 16 - Cold Fluid-Applied Waterproofing (STR).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2007%20-%20THERMAL%20AND%20MOISTURE%20PROTECTION/Section%2007%2014%2016%20-%20Cold%20Fluid-Applied%20Waterproofing%20%28STR%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-07-14-16-polyurea-hot-fluid-applied-waterproofing-arc",
+    "section": "07 14 16",
+    "title": "Polyurea Hot-Fluid-Applied Waterproofing (ARC)",
+    "discipline": "Zone E",
+    "fileName": "Section 07 14 16 - Polyurea Hot-Fluid-Applied Waterproofing (ARC).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2007%20-%20THERMAL%20AND%20MOISTURE%20PROTECTION/Section%2007%2014%2016%20-%20Polyurea%20Hot-Fluid-Applied%20Waterproofing%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-07-16-13-cementitious-waterproofing-arc",
+    "section": "07 16 13",
+    "title": "Cementitious Waterproofing (ARC)",
+    "discipline": "Zone E",
+    "fileName": "Section 07 16 13 - Cementitious Waterproofing (ARC).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2007%20-%20THERMAL%20AND%20MOISTURE%20PROTECTION/Section%2007%2016%2013%20-%20Cementitious%20Waterproofing%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-07-16-16-polymer-modified-cementitious-waterproofing-arc",
+    "section": "07 16 16",
+    "title": "Polymer Modified Cementitious Waterproofing (ARC)",
+    "discipline": "Zone E",
+    "fileName": "Section 07 16 16 - Polymer Modified Cementitious Waterproofing (ARC).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2007%20-%20THERMAL%20AND%20MOISTURE%20PROTECTION/Section%2007%2016%2016%20-%20Polymer%20Modified%20Cementitious%20Waterproofing%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-07-21-13-board-insulation-arc",
+    "section": "07 21 13",
+    "title": "Board Insulation (ARC)",
+    "discipline": "Zone E",
+    "fileName": "Section 07 21 13 - Board Insulation (ARC).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2007%20-%20THERMAL%20AND%20MOISTURE%20PROTECTION/Section%2007%2021%2013%20-%20Board%20Insulation%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-07-24-00-external-render-system-fac",
+    "section": "07 24 00",
+    "title": "External Render System (FAC)",
+    "discipline": "Zone E",
+    "fileName": "Section 07 24 00 - External Render System (FAC).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2007%20-%20THERMAL%20AND%20MOISTURE%20PROTECTION/Section%2007%2024%2000%20-%20External%20Render%20System%20%28FAC%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-07-27-13-modified-bituminous-vapor-barrier-arc",
+    "section": "07 27 13",
+    "title": "Modified Bituminous Vapor Barrier (ARC)",
+    "discipline": "Zone E",
+    "fileName": "Section 07 27 13 - Modified Bituminous Vapor Barrier (ARC).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2007%20-%20THERMAL%20AND%20MOISTURE%20PROTECTION/Section%2007%2027%2013%20-%20Modified%20Bituminous%20Vapor%20Barrier%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-07-42-13-metal-cladding-fac",
+    "section": "07 42 13",
+    "title": "Metal Cladding (FAC)",
+    "discipline": "Zone E",
+    "fileName": "Section 07 42 13 - Metal Cladding (FAC).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2007%20-%20THERMAL%20AND%20MOISTURE%20PROTECTION/Section%2007%2042%2013%20-%20Metal%20Cladding%20%28FAC%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-07-62-00-sheet-metal-flashing-and-trim-arc",
+    "section": "07 62 00",
+    "title": "Sheet Metal Flashing and Trim (ARC)",
+    "discipline": "Zone E",
+    "fileName": "Section 07 62 00 - Sheet Metal Flashing and Trim (ARC).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2007%20-%20THERMAL%20AND%20MOISTURE%20PROTECTION/Section%2007%2062%2000%20-%20Sheet%20Metal%20Flashing%20and%20Trim%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-07-81-00-spray-applied-fireproofing-str",
+    "section": "07 81 00",
+    "title": "Spray Applied Fireproofing (STR)",
+    "discipline": "Zone E",
+    "fileName": "Section 07 81 00 - Spray Applied Fireproofing (STR).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2007%20-%20THERMAL%20AND%20MOISTURE%20PROTECTION/Section%2007%2081%2000%20-%20Spray%20Applied%20Fireproofing%20%28STR%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-07-81-23-intumescent-fireproofing-str",
+    "section": "07 81 23",
+    "title": "Intumescent Fireproofing (STR)",
+    "discipline": "Zone E",
+    "fileName": "Section 07 81 23 - Intumescent Fireproofing (STR).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2007%20-%20THERMAL%20AND%20MOISTURE%20PROTECTION/Section%2007%2081%2023%20-%20Intumescent%20Fireproofing%20%28STR%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-07-84-13-penetration-firestopping-arc",
+    "section": "07 84 13",
+    "title": "Penetration Firestopping (ARC)",
+    "discipline": "Zone E",
+    "fileName": "Section 07 84 13 - Penetration Firestopping (ARC).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2007%20-%20THERMAL%20AND%20MOISTURE%20PROTECTION/Section%2007%2084%2013%20-%20Penetration%20Firestopping%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-07-90-06-fa-ade-sealants-fac",
+    "section": "07 90 06",
+    "title": "Façade Sealants (FAC)",
+    "discipline": "Zone E",
+    "fileName": "Section 07 90 06 - Façade Sealants (FAC).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2007%20-%20THERMAL%20AND%20MOISTURE%20PROTECTION/Section%2007%2090%2006%20-%20Fa%C3%A7ade%20Sealants%20%28FAC%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-07-92-00-joint-sealants-arc",
+    "section": "07 92 00",
+    "title": "Joint Sealants (ARC)",
+    "discipline": "Zone E",
+    "fileName": "Section 07 92 00 - Joint Sealants (ARC).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2007%20-%20THERMAL%20AND%20MOISTURE%20PROTECTION/Section%2007%2092%2000%20-%20Joint%20Sealants%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-08-11-13-steel-doors-and-frames-arc",
+    "section": "08 11 13",
+    "title": "Steel Doors and Frames (ARC)",
+    "discipline": "Zone E",
+    "fileName": "Section 08 11 13 - Steel Doors and Frames (ARC).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2008%20-%20OPENINGS/Section%2008%2011%2013%20-%20Steel%20Doors%20and%20Frames%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-08-11-16-swing-glass-doors-fac",
+    "section": "08 11 16",
+    "title": "Swing Glass Doors (FAC)",
+    "discipline": "Zone E",
+    "fileName": "Section 08 11 16 - Swing Glass Doors (FAC).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2008%20-%20OPENINGS/Section%2008%2011%2016%20-%20Swing%20Glass%20Doors%20%28FAC%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-08-13-16-aluminum-doors-and-frames-arc",
+    "section": "08 13 16",
+    "title": "Aluminum Doors and Frames (ARC)",
+    "discipline": "Zone E",
+    "fileName": "Section 08 13 16 - Aluminum Doors and Frames (ARC).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2008%20-%20OPENINGS/Section%2008%2013%2016%20-%20Aluminum%20Doors%20and%20Frames%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-08-14-16-flush-wood-doors-arc",
+    "section": "08 14 16",
+    "title": "Flush Wood Doors (ARC)",
+    "discipline": "Zone E",
+    "fileName": "Section 08 14 16 - Flush Wood Doors (ARC).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2008%20-%20OPENINGS/Section%2008%2014%2016%20-%20Flush%20Wood%20Doors%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-08-31-13-access-doors-and-frames-arc",
+    "section": "08 31 13",
+    "title": "Access Doors and Frames (ARC)",
+    "discipline": "Zone E",
+    "fileName": "Section 08 31 13 - Access Doors and Frames (ARC).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2008%20-%20OPENINGS/Section%2008%2031%2013%20-%20Access%20Doors%20and%20Frames%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-08-32-23-sliding-glass-door-fac",
+    "section": "08 32 23",
+    "title": "Sliding Glass Door (FAC)",
+    "discipline": "Zone E",
+    "fileName": "Section 08 32 23 - Sliding Glass Door (FAC).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2008%20-%20OPENINGS/Section%2008%2032%2023%20-%20Sliding%20Glass%20Door%20%28FAC%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-08-36-13-residential-sectional-doors-arc",
+    "section": "08 36 13",
+    "title": "Residential Sectional Doors (ARC)",
+    "discipline": "Zone E",
+    "fileName": "Section 08 36 13 - Residential Sectional Doors (ARC).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2008%20-%20OPENINGS/Section%2008%2036%2013%20-%20Residential%20Sectional%20Doors%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-08-44-13-glazed-curtain-walls-fac",
+    "section": "08 44 13",
+    "title": "Glazed Curtain Walls (FAC)",
+    "discipline": "Zone E",
+    "fileName": "Section 08 44 13 - Glazed Curtain Walls (FAC).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2008%20-%20OPENINGS/Section%2008%2044%2013%20-%20Glazed%20Curtain%20Walls%20%28FAC%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-08-51-13-aluminium-windows-fac",
+    "section": "08 51 13",
+    "title": "Aluminium Windows (FAC)",
+    "discipline": "Zone E",
+    "fileName": "Section 08 51 13 - Aluminium Windows (FAC).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2008%20-%20OPENINGS/Section%2008%2051%2013%20-%20Aluminium%20Windows%20%28FAC%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-08-63-00-metal-framed-skylights-arc",
+    "section": "08 63 00",
+    "title": "Metal Framed Skylights (ARC)",
+    "discipline": "Zone E",
+    "fileName": "Section 08 63 00 - Metal Framed Skylights (ARC).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2008%20-%20OPENINGS/Section%2008%2063%2000%20-%20Metal%20Framed%20Skylights%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-08-71-00-door-hardware-arc",
+    "section": "08 71 00",
+    "title": "Door Hardware (ARC)",
+    "discipline": "Zone E",
+    "fileName": "Section 08 71 00 - Door Hardware (ARC).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2008%20-%20OPENINGS/Section%2008%2071%2000%20-%20Door%20Hardware%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-08-80-00-glass-and-glazing-fac",
+    "section": "08 80 00",
+    "title": "Glass and Glazing (FAC)",
+    "discipline": "Zone E",
+    "fileName": "Section 08 80 00 - Glass and Glazing (FAC).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2008%20-%20OPENINGS/Section%2008%2080%2000%20-%20Glass%20and%20Glazing%20%28FAC%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-08-81-13-decorative-glass-glazing-arc",
+    "section": "08 81 13",
+    "title": "Decorative Glass Glazing (ARC)",
+    "discipline": "Zone E",
+    "fileName": "Section 08 81 13 - Decorative Glass Glazing (ARC).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2008%20-%20OPENINGS/Section%2008%2081%2013%20-%20Decorative%20Glass%20Glazing%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-08-83-00-mirrored-glass-arc",
+    "section": "08 83 00",
+    "title": "Mirrored Glass (ARC)",
+    "discipline": "Zone E",
+    "fileName": "Section 08 83 00 - Mirrored Glass (ARC).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2008%20-%20OPENINGS/Section%2008%2083%2000%20-%20Mirrored%20Glass%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-08-90-00-aluminum-louvers-arc",
+    "section": "08 90 00",
+    "title": "Aluminum Louvers (ARC)",
+    "discipline": "Zone E",
+    "fileName": "Section 08 90 00 - Aluminum Louvers (ARC).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2008%20-%20OPENINGS/Section%2008%2090%2000%20-%20Aluminum%20Louvers%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-08-91-00-wood-polymer-composites-fac",
+    "section": "08 91 00",
+    "title": "Wood Polymer Composites (FAC)",
+    "discipline": "Zone E",
+    "fileName": "Section 08 91 00 - Wood Polymer Composites (FAC).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2008%20-%20OPENINGS/Section%2008%2091%2000%20-%20Wood%20Polymer%20Composites%20%28FAC%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-09-21-16-gypsum-board-assemblies-arc",
+    "section": "09 21 16",
+    "title": "Gypsum Board Assemblies (ARC)",
+    "discipline": "Zone E",
+    "fileName": "Section 09 21 16 - Gypsum Board Assemblies (ARC).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2009%20-%20FINISHES/Section%2009%2021%2016%20-%20Gypsum%20Board%20Assemblies%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-09-22-16-non-structural-metal-framing-arc",
+    "section": "09 22 16",
+    "title": "Non-Structural Metal Framing (ARC)",
+    "discipline": "Zone E",
+    "fileName": "Section 09 22 16 - Non-Structural Metal Framing (ARC).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2009%20-%20FINISHES/Section%2009%2022%2016%20-%20Non-Structural%20Metal%20Framing%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-09-24-00-cement-plastering-arc",
+    "section": "09 24 00",
+    "title": "Cement Plastering (ARC)",
+    "discipline": "Zone E",
+    "fileName": "Section 09 24 00 - Cement Plastering (ARC).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2009%20-%20FINISHES/Section%2009%2024%2000%20-%20Cement%20Plastering%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-09-25-13-spray-plastering-arc",
+    "section": "09 25 13",
+    "title": "Spray Plastering (ARC)",
+    "discipline": "Zone E",
+    "fileName": "Section 09 25 13 - Spray Plastering (ARC).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2009%20-%20FINISHES/Section%2009%2025%2013%20-%20Spray%20Plastering%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-09-30-00-landscape-tiling-lsc",
+    "section": "09 30 00",
+    "title": "Landscape Tiling (LSC)",
+    "discipline": "Zone E",
+    "fileName": "Section 09 30 00 - Landscape Tiling (LSC).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2009%20-%20FINISHES/Section%2009%2030%2000%20-%20Landscape%20Tiling%20%28LSC%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-09-30-33-stone-tiling-arc",
+    "section": "09 30 33",
+    "title": "Stone Tiling (ARC)",
+    "discipline": "Zone E",
+    "fileName": "Section 09 30 33 - Stone Tiling (ARC).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2009%20-%20FINISHES/Section%2009%2030%2033%20-%20Stone%20Tiling%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-09-31-50-porcelain-tile-arc",
+    "section": "09 31 50",
+    "title": "Porcelain Tile (ARC)",
+    "discipline": "Zone E",
+    "fileName": "Section 09 31 50 - Porcelain Tile (ARC).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2009%20-%20FINISHES/Section%2009%2031%2050%20-%20Porcelain%20Tile%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-09-63-40-stone-flooring-lsc",
+    "section": "09 63 40",
+    "title": "Stone Flooring (LSC)",
+    "discipline": "Zone E",
+    "fileName": "Section 09 63 40 - Stone Flooring (LSC).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2009%20-%20FINISHES/Section%2009%2063%2040%20-%20Stone%20Flooring%20%28LSC%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-09-67-23-resinous-flooring-arc",
+    "section": "09 67 23",
+    "title": "Resinous Flooring (ARC)",
+    "discipline": "Zone E",
+    "fileName": "Section 09 67 23 - Resinous Flooring (ARC).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2009%20-%20FINISHES/Section%2009%2067%2023%20-%20Resinous%20Flooring%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-09-91-13-exterior-painting-arc",
+    "section": "09 91 13",
+    "title": "Exterior Painting (ARC)",
+    "discipline": "Zone E",
+    "fileName": "Section 09 91 13 - Exterior Painting (ARC).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2009%20-%20FINISHES/Section%2009%2091%2013%20-%20Exterior%20Painting%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-09-91-13-exterior-painting-lsc",
+    "section": "09 91 13",
+    "title": "Exterior Painting (LSC)",
+    "discipline": "Zone E",
+    "fileName": "Section 09 91 13 - Exterior Painting (LSC).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2009%20-%20FINISHES/Section%2009%2091%2013%20-%20Exterior%20Painting%20%28LSC%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-09-91-23-interior-painting-arc",
+    "section": "09 91 23",
+    "title": "Interior Painting (ARC)",
+    "discipline": "Zone E",
+    "fileName": "Section 09 91 23 - Interior Painting (ARC).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2009%20-%20FINISHES/Section%2009%2091%2023%20-%20Interior%20Painting%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-09-96-10-high-performance-coatings-str",
+    "section": "09 96 10",
+    "title": "High Performance Coatings (STR)",
+    "discipline": "Zone E",
+    "fileName": "Section 09 96 10 - High Performance Coatings (STR).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2009%20-%20FINISHES/Section%2009%2096%2010%20-%20High%20Performance%20Coatings%20%28STR%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-10-28-00-toilet-bath-and-laundry-accessories-arc",
+    "section": "10 28 00",
+    "title": "Toilet, Bath and Laundry Accessories (ARC)",
+    "discipline": "Zone E",
+    "fileName": "Section 10 28 00 - Toilet, Bath and Laundry Accessories (ARC).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2010%20-%20SPECIALTIES/Section%2010%2028%2000%20-%20Toilet%2C%20Bath%20and%20Laundry%20Accessories%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-11-30-13-residential-appliances-arc",
+    "section": "11 30 13",
+    "title": "Residential Appliances (ARC)",
+    "discipline": "Zone E",
+    "fileName": "Section 11 30 13 - Residential Appliances (ARC).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2011%20-%20EQUIPMENT/Section%2011%2030%2013%20-%20Residential%20Appliances%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-11-81-23-fa-ade-access-and-maintenance-equipment-fac",
+    "section": "11 81 23",
+    "title": "Façade Access and Maintenance Equipment (FAC)",
+    "discipline": "Zone E",
+    "fileName": "Section 11 81 23 - Façade Access and Maintenance Equipment (FAC).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2011%20-%20EQUIPMENT/Section%2011%2081%2023%20-%20Fa%C3%A7ade%20Access%20and%20Maintenance%20Equipment%20%28FAC%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-11-81-29-facility-fall-protection-arc",
+    "section": "11 81 29",
+    "title": "Facility Fall Protection (ARC)",
+    "discipline": "Zone E",
+    "fileName": "Section 11 81 29 - Facility Fall Protection (ARC).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2011%20-%20EQUIPMENT/Section%2011%2081%2029%20-%20Facility%20Fall%20Protection%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-12-36-40-stone-countertops-arc",
+    "section": "12 36 40",
+    "title": "Stone Countertops (ARC)",
+    "discipline": "Zone E",
+    "fileName": "Section 12 36 40 - Stone Countertops (ARC).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2012%20-%20FURNISHINGS/Section%2012%2036%2040%20-%20Stone%20Countertops%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-12-36-61-19-quartz-agglomerate-countertops-arc",
+    "section": "12 36 61",
+    "title": ".19 - Quartz Agglomerate Countertops (ARC)",
+    "discipline": "Zone E",
+    "fileName": "Section 12 36 61.19 - Quartz Agglomerate Countertops (ARC).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2012%20-%20FURNISHINGS/Section%2012%2036%2061.19%20-%20Quartz%20Agglomerate%20Countertops%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-12-36-63-ultracompact-surfacing-countertops-arc",
+    "section": "12 36 63",
+    "title": "Ultracompact Surfacing Countertops (ARC)",
+    "discipline": "Zone E",
+    "fileName": "Section 12 36 63 - Ultracompact Surfacing Countertops (ARC).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2012%20-%20FURNISHINGS/Section%2012%2036%2063%20-%20Ultracompact%20Surfacing%20Countertops%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-12-93-23-trash-and-litter-receptors-arc",
+    "section": "12 93 23",
+    "title": "Trash and Litter Receptors (ARC)",
+    "discipline": "Zone E",
+    "fileName": "Section 12 93 23 - Trash and Litter Receptors (ARC).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2012%20-%20FURNISHINGS/Section%2012%2093%2023%20-%20Trash%20and%20Litter%20Receptors%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-14-21-23-16-vertical-transportation-l3-signature-villas-vtr",
+    "section": "14 21 23",
+    "title": ".16 - Vertical Transportation - Type C Villas (VTR)",
+    "discipline": "Zone E",
+    "fileName": "Section 14 21 23.16 - Vertical Transportation - Type C Villas (VTR).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2014%20-%20CONVEYING%20EQUIPMENT/Section%2014%2021%2023.16%20-%20Vertical%20Transportation%20-%20L3%20Signature%20Villas%20%28VTR%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-14-21-23-16-vertical-transportation-l4-beach-villas-vtr",
+    "section": "14 21 23",
+    "title": ".16 - Vertical Transportation - Type D Villas (VTR)",
+    "discipline": "Zone E",
+    "fileName": "Section 14 21 23.16 - Vertical Transportation - Type D Villas (VTR).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2014%20-%20CONVEYING%20EQUIPMENT/Section%2014%2021%2023.16%20-%20Vertical%20Transportation%20-%20L4%20Beach%20Villas%20%28VTR%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-22-41-00-residential-plumbing-fixture-arc",
+    "section": "22 41 00",
+    "title": "Residential Plumbing Fixture (ARC)",
+    "discipline": "Zone E",
+    "fileName": "Section 22 41 00 - Residential Plumbing Fixture (ARC).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2022%20-%20PLUMBING/Section%2022%2041%2000%20-%20Residential%20Plumbing%20Fixture%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-mec-01-general-requirements-mec",
+    "section": null,
+    "title": "Section MEC-01 - General Requirements (MEC)",
+    "discipline": "Zone E",
+    "fileName": "Section MEC-01 - General Requirements (MEC).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2023%20-%20MECHANICAL%20SERVICES/Section%20MEC-01%20-%20General%20Requirements%20%28MEC%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-mec-02-insulation-mec",
+    "section": null,
+    "title": "Section MEC-02 - Insulation (MEC)",
+    "discipline": "Zone E",
+    "fileName": "Section MEC-02 - Insulation (MEC).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2023%20-%20MECHANICAL%20SERVICES/Section%20MEC-02%20-%20Insulation%20%28MEC%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-mec-03-plumbing-works-mec",
+    "section": null,
+    "title": "Section MEC-03 - Plumbing Works (MEC)",
+    "discipline": "Zone E",
+    "fileName": "Section MEC-03 - Plumbing Works (MEC).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2023%20-%20MECHANICAL%20SERVICES/Section%20MEC-03%20-%20Plumbing%20Works%20%28MEC%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-mec-04-soil-waste-vent-storm-water-systems-mec",
+    "section": null,
+    "title": "Section MEC-04 - Soil, Waste, Vent & Storm Water Systems (MEC)",
+    "discipline": "Zone E",
+    "fileName": "Section MEC-04 - Soil, Waste, Vent & Storm Water Systems (MEC).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2023%20-%20MECHANICAL%20SERVICES/Section%20MEC-04%20-%20Soil%2C%20Waste%2C%20Vent%20%26%20Storm%20Water%20Systems%20%28MEC%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-mec-05-fire-fighting-system-mec",
+    "section": null,
+    "title": "Section MEC-05 - Fire Fighting System (MEC)",
+    "discipline": "Zone E",
+    "fileName": "Section MEC-05 - Fire Fighting System (MEC).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2023%20-%20MECHANICAL%20SERVICES/Section%20MEC-05%20-%20Fire%20Fighting%20System%20%28MEC%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-mec-06-air-conditioning-and-ventilation-works-mec",
+    "section": null,
+    "title": "Section MEC-06 - Air Conditioning and Ventilation Works (MEC)",
+    "discipline": "Zone E",
+    "fileName": "Section MEC-06 - Air Conditioning and Ventilation Works (MEC).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2023%20-%20MECHANICAL%20SERVICES/Section%20MEC-06%20-%20Air%20Conditioning%20and%20Ventilation%20Works%20%28MEC%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-mec-07-ductwork-and-airside-equipment-mec",
+    "section": null,
+    "title": "Section MEC-07 - Ductwork and Airside Equipment (MEC)",
+    "discipline": "Zone E",
+    "fileName": "Section MEC-07 - Ductwork and Airside Equipment (MEC).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2023%20-%20MECHANICAL%20SERVICES/Section%20MEC-07%20-%20Ductwork%20and%20Airside%20Equipment%20%28MEC%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-mec-08-lpg-system-mec",
+    "section": null,
+    "title": "Section MEC-08 - LPG System (MEC)",
+    "discipline": "Zone E",
+    "fileName": "Section MEC-08 - LPG System (MEC).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2023%20-%20MECHANICAL%20SERVICES/Section%20MEC-08%20-%20LPG%20System%20%28MEC%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-mec-09-domestic-hot-water-heat-pump-mec",
+    "section": null,
+    "title": "Section MEC-09 - Domestic Hot Water Heat Pump (MEC)",
+    "discipline": "Zone E",
+    "fileName": "Section MEC-09 - Domestic Hot Water Heat Pump (MEC).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2023%20-%20MECHANICAL%20SERVICES/Section%20MEC-09%20-%20Domestic%20Hot%20Water%20Heat%20Pump%20%28MEC%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-26-05-00-common-work-result-for-electrical-ele",
+    "section": "26 05 00",
+    "title": "Common Work Result for Electrical (ELE)",
+    "discipline": "Zone E",
+    "fileName": "Section 26 05 00 - Common Work Result for Electrical (ELE).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2026%20-%20ELECTRICAL/Section%2026%2005%2000%20-%20Common%20Work%20Result%20for%20Electrical%20%28ELE%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-26-05-19-cables-wires-ele",
+    "section": "26 05 19",
+    "title": "Cables & Wires (ELE)",
+    "discipline": "Zone E",
+    "fileName": "Section 26 05 19 - Cables & Wires (ELE).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2026%20-%20ELECTRICAL/Section%2026%2005%2019%20-%20Cables%20%26%20Wires%20%28ELE%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-26-05-26-earthing-system-ele",
+    "section": "26 05 26",
+    "title": "Earthing System (ELE)",
+    "discipline": "Zone E",
+    "fileName": "Section 26 05 26 - Earthing System (ELE).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2026%20-%20ELECTRICAL/Section%2026%2005%2026%20-%20Earthing%20System%20%28ELE%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-26-05-33-cable-management-system-ele",
+    "section": "26 05 33",
+    "title": "Cable Management System (ELE)",
+    "discipline": "Zone E",
+    "fileName": "Section 26 05 33 - Cable Management System (ELE).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2026%20-%20ELECTRICAL/Section%2026%2005%2033%20-%20Cable%20Management%20System%20%28ELE%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-26-05-43-manholes-and-trenches-ele",
+    "section": "26 05 43",
+    "title": "Manholes and Trenches (ELE)",
+    "discipline": "Zone E",
+    "fileName": "Section 26 05 43 - Manholes and Trenches (ELE).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2026%20-%20ELECTRICAL/Section%2026%2005%2043%20-%20Manholes%20and%20Trenches%20%28ELE%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-26-05-53-identifications-for-electrical-system-ele",
+    "section": "26 05 53",
+    "title": "Identifications for Electrical System (ELE)",
+    "discipline": "Zone E",
+    "fileName": "Section 26 05 53 - Identifications for Electrical System (ELE).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2026%20-%20ELECTRICAL/Section%2026%2005%2053%20-%20Identifications%20for%20Electrical%20System%20%28ELE%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-26-09-23-lighting-control-ele",
+    "section": "26 09 23",
+    "title": "Lighting Control (ELE)",
+    "discipline": "Zone E",
+    "fileName": "Section 26 09 23 - Lighting Control (ELE).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2026%20-%20ELECTRICAL/Section%2026%2009%2023%20-%20Lighting%20Control%20%28ELE%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-26-24-00-low-voltage-distribution-ele",
+    "section": "26 24 00",
+    "title": "Low Voltage Distribution (ELE)",
+    "discipline": "Zone E",
+    "fileName": "Section 26 24 00 - Low Voltage Distribution (ELE).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2026%20-%20ELECTRICAL/Section%2026%2024%2000%20-%20Low%20Voltage%20Distribution%20%28ELE%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-26-27-26-wiring-accessories-ele",
+    "section": "26 27 26",
+    "title": "Wiring Accessories (ELE)",
+    "discipline": "Zone E",
+    "fileName": "Section 26 27 26 - Wiring Accessories (ELE).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2026%20-%20ELECTRICAL/Section%2026%2027%2026%20-%20Wiring%20Accessories%20%28ELE%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-26-51-00-lighting-ele",
+    "section": "26 51 00",
+    "title": "Lighting (ELE)",
+    "discipline": "Zone E",
+    "fileName": "Section 26 51 00 - Lighting (ELE).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2026%20-%20ELECTRICAL/Section%2026%2051%2000%20-%20Lighting%20%28ELE%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-27-10-00-telephone-data-cabling-ele",
+    "section": "27 10 00",
+    "title": "Telephone & Data Cabling (ELE)",
+    "discipline": "Zone E",
+    "fileName": "Section 27 10 00 - Telephone & Data Cabling (ELE).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2027%20-%20COMMUNICATIONS/Section%2027%2010%2000%20-%20Telephone%20%26%20Data%20Cabling%20%28ELE%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-28-15-23-intercomsystem-ele",
+    "section": "28 15 23",
+    "title": "Intercomsystem (ELE)",
+    "discipline": "Zone E",
+    "fileName": "Section 28 15 23 - Intercomsystem (ELE).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2028%20-%20ELECTRONIC%20SAFETY%20AND%20SECURITY/Section%2028%2015%2023%20-%20Intercomsystem%20%28ELE%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-31-20-00-landscape-excavation-and-earthworks-lsc",
+    "section": "31 20 00",
+    "title": "Landscape Excavation and Earthworks (LSC)",
+    "discipline": "Zone E",
+    "fileName": "Section 31 20 00 - Landscape Excavation and Earthworks (LSC).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2031%20-%20EARTHWORK/Section%2031%2020%2000%20-%20Landscape%20Excavation%20and%20Earthworks%20%28LSC%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-31-22-20-earthworks-str",
+    "section": "31 22 20",
+    "title": "Earthworks (STR)",
+    "discipline": "Zone E",
+    "fileName": "Section 31 22 20 - Earthworks (STR).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2031%20-%20EARTHWORK/Section%2031%2022%2020%20-%20Earthworks%20%28STR%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-31-23-19-dewatering-str",
+    "section": "31 23 19",
+    "title": "Dewatering (STR)",
+    "discipline": "Zone E",
+    "fileName": "Section 31 23 19 - Dewatering (STR).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2031%20-%20EARTHWORK/Section%2031%2023%2019%20-%20Dewatering%20%28STR%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-31-31-00-soil-treatment-str",
+    "section": "31 31 00",
+    "title": "Soil Treatment (STR)",
+    "discipline": "Zone E",
+    "fileName": "Section 31 31 00 - Soil Treatment (STR).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2031%20-%20EARTHWORK/Section%2031%2031%2000%20-%20Soil%20Treatment%20%28STR%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-31-50-00-excavation-support-and-protection-str",
+    "section": "31 50 00",
+    "title": "Excavation Support and Protection (STR)",
+    "discipline": "Zone E",
+    "fileName": "Section 31 50 00 - Excavation Support and Protection (STR).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2031%20-%20EARTHWORK/Section%2031%2050%2000%20-%20Excavation%20Support%20and%20Protection%20%28STR%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-32-14-00-unit-paving-arc",
+    "section": "32 14 00",
+    "title": "Unit Paving (ARC)",
+    "discipline": "Zone E",
+    "fileName": "Section 32 14 00 - Unit Paving (ARC).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2032%20-%20EXTERIOR%20IMPROVEMENTS/Section%2032%2014%2000%20-%20Unit%20Paving%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-32-14-13-concrete-unit-paving-lsc",
+    "section": "32 14 13",
+    "title": "Concrete Unit Paving (LSC)",
+    "discipline": "Zone E",
+    "fileName": "Section 32 14 13 - Concrete Unit Paving (LSC).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2032%20-%20EXTERIOR%20IMPROVEMENTS/Section%2032%2014%2013%20-%20Concrete%20Unit%20Paving%20%28LSC%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-32-15-00-aggregate-surfacing-lsc",
+    "section": "32 15 00",
+    "title": "Aggregate Surfacing (LSC)",
+    "discipline": "Zone E",
+    "fileName": "Section 32 15 00 - Aggregate Surfacing (LSC).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/DIVISION%2032%20-%20EXTERIOR%20IMPROVEMENTS/Section%2032%2015%2000%20-%20Aggregate%20Surfacing%20%28LSC%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-appendix-a-erosion-sedimentation-control-esc-plan-l3-signature-villas-sus",
+    "section": null,
+    "title": "Appendix A - Erosion & Sedimentation Control (ESC) Plan - Type C Villas (SUS)",
+    "discipline": "Zone E",
+    "fileName": "Appendix A - Erosion & Sedimentation Control (ESC) Plan - Type C Villas (SUS).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/_APPENDICES/Appendix%20A%20-%20Erosion%20%26%20Sedimentation%20Control%20%28ESC%29%20Plan%20-%20L3%20Signature%20Villas%20%28SUS%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-appendix-a-erosion-sedimentation-control-esc-plan-l4-beach-villas-sus",
+    "section": null,
+    "title": "Appendix A - Erosion & Sedimentation Control (ESC) Plan - Type D Villas (SUS)",
+    "discipline": "Zone E",
+    "fileName": "Appendix A - Erosion & Sedimentation Control (ESC) Plan - Type D Villas (SUS).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/_APPENDICES/Appendix%20A%20-%20Erosion%20%26%20Sedimentation%20Control%20%28ESC%29%20Plan%20-%20L4%20Beach%20Villas%20%28SUS%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-appendix-a-list-of-manufacturers-for-architecural-id-arc",
+    "section": null,
+    "title": "Appendix A - List of Manufacturers for Architecural & ID (ARC)",
+    "discipline": "Zone E",
+    "fileName": "Appendix A - List of Manufacturers for Architecural & ID (ARC).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/_APPENDICES/Appendix%20A%20-%20List%20of%20Manufacturers%20for%20Architecural%20%26%20ID%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-appendix-a-list-of-manufacturers-for-structural-str",
+    "section": null,
+    "title": "Appendix A - List of Manufacturers for Structural (STR)",
+    "discipline": "Zone E",
+    "fileName": "Appendix A - List of Manufacturers for Structural (STR).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/_APPENDICES/Appendix%20A%20-%20List%20of%20Manufacturers%20for%20Structural%20%28STR%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-appendix-a-schedule-of-manufacturers-electrical-ele",
+    "section": null,
+    "title": "Appendix A - Schedule of Manufacturers (Electrical) (ELE)",
+    "discipline": "Zone E",
+    "fileName": "Appendix A - Schedule of Manufacturers (Electrical) (ELE).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/_APPENDICES/Appendix%20A%20-%20Schedule%20of%20Manufacturers%20%28Electrical%29%20%28ELE%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-appendix-a-schedule-of-manufacturers-mec",
+    "section": null,
+    "title": "Appendix A - Schedule of Manufacturers (MEC)",
+    "discipline": "Zone E",
+    "fileName": "Appendix A - Schedule of Manufacturers (MEC).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/_APPENDICES/Appendix%20A%20-%20Schedule%20of%20Manufacturers%20%28MEC%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-appendix-a-schedule-of-manufacturers-for-landscape-lsc",
+    "section": null,
+    "title": "Appendix A - Schedule of Manufacturers for Landscape (LSC)",
+    "discipline": "Zone E",
+    "fileName": "Appendix A - Schedule of Manufacturers for Landscape (LSC).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/_APPENDICES/Appendix%20A%20-%20Schedule%20of%20Manufacturers%20for%20Landscape%20%28LSC%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-appendix-b-construction-waste-management-plan-l3-signature-villas-sus",
+    "section": null,
+    "title": "Appendix B - Construction Waste Management Plan - Type C Villas (SUS)",
+    "discipline": "Zone E",
+    "fileName": "Appendix B - Construction Waste Management Plan - Type C Villas (SUS).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/_APPENDICES/Appendix%20B%20-%20Construction%20Waste%20Management%20Plan%20-%20L3%20Signature%20Villas%20%28SUS%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-appendix-b-construction-waste-management-plan-l4-beach-villas-sus",
+    "section": null,
+    "title": "Appendix B - Construction Waste Management Plan - Type D Villas (SUS)",
+    "discipline": "Zone E",
+    "fileName": "Appendix B - Construction Waste Management Plan - Type D Villas (SUS).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/_APPENDICES/Appendix%20B%20-%20Construction%20Waste%20Management%20Plan%20-%20L4%20Beach%20Villas%20%28SUS%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-appendix-b-list-of-warranties-architectural-and-id-arc",
+    "section": null,
+    "title": "Appendix B - List of Warranties - Architectural and ID (ARC)",
+    "discipline": "Zone E",
+    "fileName": "Appendix B - List of Warranties - Architectural and ID (ARC).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/_APPENDICES/Appendix%20B%20-%20List%20of%20Warranties%20-%20Architectural%20and%20ID%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-appendix-b-list-of-warranties-structural-str",
+    "section": null,
+    "title": "Appendix B - List of Warranties - Structural (STR)",
+    "discipline": "Zone E",
+    "fileName": "Appendix B - List of Warranties - Structural (STR).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/_APPENDICES/Appendix%20B%20-%20List%20of%20Warranties%20-%20Structural%20%28STR%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-appendix-b-schedule-of-warranties-ele",
+    "section": null,
+    "title": "Appendix B - Schedule of Warranties (ELE)",
+    "discipline": "Zone E",
+    "fileName": "Appendix B - Schedule of Warranties (ELE).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/_APPENDICES/Appendix%20B%20-%20Schedule%20of%20Warranties%20%28ELE%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-appendix-b-schedule-of-warranties-lsc",
+    "section": null,
+    "title": "Appendix B - Schedule of Warranties (LSC)",
+    "discipline": "Zone E",
+    "fileName": "Appendix B - Schedule of Warranties (LSC).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/_APPENDICES/Appendix%20B%20-%20Schedule%20of%20Warranties%20%28LSC%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-appendix-c-indoor-air-quality-iaq-plan-during-construction-l3-signature-villas-sus",
+    "section": null,
+    "title": "Appendix C - Indoor Air Quality (IAQ) Plan - During Construction - Type C Villas (SUS)",
+    "discipline": "Zone E",
+    "fileName": "Appendix C - Indoor Air Quality (IAQ) Plan - During Construction - Type C Villas (SUS).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/_APPENDICES/Appendix%20C%20-%20Indoor%20Air%20Quality%20%28IAQ%29%20Plan%20-%20During%20Construction%20-%20L3%20Signature%20Villas%20%28SUS%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-appendix-c-indoor-air-quality-iaq-plan-during-construction-l4-beach-villas-sus",
+    "section": null,
+    "title": "Appendix C - Indoor Air Quality (IAQ) Plan - During Construction - Type D Villas (SUS)",
+    "discipline": "Zone E",
+    "fileName": "Appendix C - Indoor Air Quality (IAQ) Plan - During Construction - Type D Villas (SUS).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/_APPENDICES/Appendix%20C%20-%20Indoor%20Air%20Quality%20%28IAQ%29%20Plan%20-%20During%20Construction%20-%20L4%20Beach%20Villas%20%28SUS%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-appendix-c-schedule-of-spare-parts-list-ele",
+    "section": null,
+    "title": "Appendix C - Schedule of Spare Parts List (ELE)",
+    "discipline": "Zone E",
+    "fileName": "Appendix C - Schedule of Spare Parts List (ELE).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/_APPENDICES/Appendix%20C%20-%20Schedule%20of%20Spare%20Parts%20List%20%28ELE%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-appendix-a-employer-s-offices-and-facilities-gen",
+    "section": null,
+    "title": "Appendix A - Employer's Offices and Facilities (GEN)",
+    "discipline": "Zone E",
+    "fileName": "Appendix A - Employer's Offices and Facilities (GEN).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/_DIV%2001%20GENERAL%20REQUIREMENTS%20%28Zones%20A-D%20-%20scope%20to%20confirm%29/Appendix%20A%20-%20Employer%27s%20Offices%20and%20Facilities%20%28GEN%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-gen-div-01-general-requirements-turner-sopr-front-matter-index",
+    "section": null,
+    "title": "GEN - Div 01 General Requirements (Turner SOPR) - Front Matter & Index",
+    "discipline": "Zone E",
+    "fileName": "GEN - Div 01 General Requirements (Turner SOPR) - Front Matter & Index.pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/_DIV%2001%20GENERAL%20REQUIREMENTS%20%28Zones%20A-D%20-%20scope%20to%20confirm%29/GEN%20-%20Div%2001%20General%20Requirements%20%28Turner%20SOPR%29%20-%20Front%20Matter%20%26%20Index.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-01-11-00-summary-of-works-gen",
+    "section": "01 11 00",
+    "title": "Summary of Works (GEN)",
+    "discipline": "Zone E",
+    "fileName": "Section 01 11 00 - Summary of Works (GEN).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/_DIV%2001%20GENERAL%20REQUIREMENTS%20%28Zones%20A-D%20-%20scope%20to%20confirm%29/Section%2001%2011%2000%20-%20Summary%20of%20Works%20%28GEN%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-01-14-00-work-restriction-gen",
+    "section": "01 14 00",
+    "title": "Work Restriction (GEN)",
+    "discipline": "Zone E",
+    "fileName": "Section 01 14 00 - Work Restriction (GEN).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/_DIV%2001%20GENERAL%20REQUIREMENTS%20%28Zones%20A-D%20-%20scope%20to%20confirm%29/Section%2001%2014%2000%20-%20Work%20Restriction%20%28GEN%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-01-18-00-project-utility-sources-gen",
+    "section": "01 18 00",
+    "title": "Project Utility Sources (GEN)",
+    "discipline": "Zone E",
+    "fileName": "Section 01 18 00 - Project Utility Sources (GEN).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/_DIV%2001%20GENERAL%20REQUIREMENTS%20%28Zones%20A-D%20-%20scope%20to%20confirm%29/Section%2001%2018%2000%20-%20Project%20Utility%20Sources%20%28GEN%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-01-20-00-price-and-payment-procedures-gen",
+    "section": "01 20 00",
+    "title": "Price and Payment Procedures (GEN)",
+    "discipline": "Zone E",
+    "fileName": "Section 01 20 00 - Price and Payment Procedures (GEN).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/_DIV%2001%20GENERAL%20REQUIREMENTS%20%28Zones%20A-D%20-%20scope%20to%20confirm%29/Section%2001%2020%2000%20-%20Price%20and%20Payment%20Procedures%20%28GEN%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-01-23-00-alternates-gen",
+    "section": "01 23 00",
+    "title": "Alternates (GEN)",
+    "discipline": "Zone E",
+    "fileName": "Section 01 23 00 - Alternates (GEN).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/_DIV%2001%20GENERAL%20REQUIREMENTS%20%28Zones%20A-D%20-%20scope%20to%20confirm%29/Section%2001%2023%2000%20-%20Alternates%20%28GEN%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-01-30-00-administrative-requirements-gen",
+    "section": "01 30 00",
+    "title": "Administrative Requirements (GEN)",
+    "discipline": "Zone E",
+    "fileName": "Section 01 30 00 - Administrative Requirements (GEN).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/_DIV%2001%20GENERAL%20REQUIREMENTS%20%28Zones%20A-D%20-%20scope%20to%20confirm%29/Section%2001%2030%2000%20-%20Administrative%20Requirements%20%28GEN%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-01-31-00-project-management-and-coordination-gen",
+    "section": "01 31 00",
+    "title": "Project Management and Coordination (GEN)",
+    "discipline": "Zone E",
+    "fileName": "Section 01 31 00 - Project Management and Coordination (GEN).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/_DIV%2001%20GENERAL%20REQUIREMENTS%20%28Zones%20A-D%20-%20scope%20to%20confirm%29/Section%2001%2031%2000%20-%20Project%20Management%20and%20Coordination%20%28GEN%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-01-32-00-construction-progress-documentation-gen",
+    "section": "01 32 00",
+    "title": "Construction Progress Documentation (GEN)",
+    "discipline": "Zone E",
+    "fileName": "Section 01 32 00 - Construction Progress Documentation (GEN).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/_DIV%2001%20GENERAL%20REQUIREMENTS%20%28Zones%20A-D%20-%20scope%20to%20confirm%29/Section%2001%2032%2000%20-%20Construction%20Progress%20Documentation%20%28GEN%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-01-33-00-submittal-procedures-gen",
+    "section": "01 33 00",
+    "title": "Submittal Procedures (GEN)",
+    "discipline": "Zone E",
+    "fileName": "Section 01 33 00 - Submittal Procedures (GEN).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/_DIV%2001%20GENERAL%20REQUIREMENTS%20%28Zones%20A-D%20-%20scope%20to%20confirm%29/Section%2001%2033%2000%20-%20Submittal%20Procedures%20%28GEN%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-01-40-00-quality-requirements-gen",
+    "section": "01 40 00",
+    "title": "Quality Requirements (GEN)",
+    "discipline": "Zone E",
+    "fileName": "Section 01 40 00 - Quality Requirements (GEN).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/_DIV%2001%20GENERAL%20REQUIREMENTS%20%28Zones%20A-D%20-%20scope%20to%20confirm%29/Section%2001%2040%2000%20-%20Quality%20Requirements%20%28GEN%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-01-41-00-regulatory-requirements-gen",
+    "section": "01 41 00",
+    "title": "Regulatory Requirements (GEN)",
+    "discipline": "Zone E",
+    "fileName": "Section 01 41 00 - Regulatory Requirements (GEN).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/_DIV%2001%20GENERAL%20REQUIREMENTS%20%28Zones%20A-D%20-%20scope%20to%20confirm%29/Section%2001%2041%2000%20-%20Regulatory%20Requirements%20%28GEN%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-01-42-00-references-gen",
+    "section": "01 42 00",
+    "title": "References (GEN)",
+    "discipline": "Zone E",
+    "fileName": "Section 01 42 00 - References (GEN).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/_DIV%2001%20GENERAL%20REQUIREMENTS%20%28Zones%20A-D%20-%20scope%20to%20confirm%29/Section%2001%2042%2000%20-%20References%20%28GEN%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-01-43-00-quality-assurance-gen",
+    "section": "01 43 00",
+    "title": "Quality Assurance (GEN)",
+    "discipline": "Zone E",
+    "fileName": "Section 01 43 00 - Quality Assurance (GEN).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/_DIV%2001%20GENERAL%20REQUIREMENTS%20%28Zones%20A-D%20-%20scope%20to%20confirm%29/Section%2001%2043%2000%20-%20Quality%20Assurance%20%28GEN%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-01-45-00-quality-control-gen",
+    "section": "01 45 00",
+    "title": "Quality Control (GEN)",
+    "discipline": "Zone E",
+    "fileName": "Section 01 45 00 - Quality Control (GEN).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/_DIV%2001%20GENERAL%20REQUIREMENTS%20%28Zones%20A-D%20-%20scope%20to%20confirm%29/Section%2001%2045%2000%20-%20Quality%20Control%20%28GEN%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-01-50-00-temporary-facilities-and-control-gen",
+    "section": "01 50 00",
+    "title": "Temporary Facilities and Control (GEN)",
+    "discipline": "Zone E",
+    "fileName": "Section 01 50 00 - Temporary Facilities and Control (GEN).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/_DIV%2001%20GENERAL%20REQUIREMENTS%20%28Zones%20A-D%20-%20scope%20to%20confirm%29/Section%2001%2050%2000%20-%20Temporary%20Facilities%20and%20Control%20%28GEN%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-01-51-00-temporary-utilities-gen",
+    "section": "01 51 00",
+    "title": "Temporary Utilities (GEN)",
+    "discipline": "Zone E",
+    "fileName": "Section 01 51 00 - Temporary Utilities (GEN).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/_DIV%2001%20GENERAL%20REQUIREMENTS%20%28Zones%20A-D%20-%20scope%20to%20confirm%29/Section%2001%2051%2000%20-%20Temporary%20Utilities%20%28GEN%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-01-52-00-construction-facilities-gen",
+    "section": "01 52 00",
+    "title": "Construction Facilities (GEN)",
+    "discipline": "Zone E",
+    "fileName": "Section 01 52 00 - Construction Facilities (GEN).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/_DIV%2001%20GENERAL%20REQUIREMENTS%20%28Zones%20A-D%20-%20scope%20to%20confirm%29/Section%2001%2052%2000%20-%20Construction%20Facilities%20%28GEN%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-01-54-00-construction-aids-gen",
+    "section": "01 54 00",
+    "title": "Construction Aids (GEN)",
+    "discipline": "Zone E",
+    "fileName": "Section 01 54 00 - Construction Aids (GEN).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/_DIV%2001%20GENERAL%20REQUIREMENTS%20%28Zones%20A-D%20-%20scope%20to%20confirm%29/Section%2001%2054%2000%20-%20Construction%20Aids%20%28GEN%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-01-54-23-temporary-scaffolding-platforms-gen",
+    "section": "01 54 23",
+    "title": "Temporary Scaffolding & Platforms (GEN)",
+    "discipline": "Zone E",
+    "fileName": "Section 01 54 23 - Temporary Scaffolding & Platforms (GEN).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/_DIV%2001%20GENERAL%20REQUIREMENTS%20%28Zones%20A-D%20-%20scope%20to%20confirm%29/Section%2001%2054%2023%20-%20Temporary%20Scaffolding%20%26%20Platforms%20%28GEN%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-01-55-00-vehicular-access-and-parking-gen",
+    "section": "01 55 00",
+    "title": "Vehicular Access and Parking (GEN)",
+    "discipline": "Zone E",
+    "fileName": "Section 01 55 00 - Vehicular Access and Parking (GEN).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/_DIV%2001%20GENERAL%20REQUIREMENTS%20%28Zones%20A-D%20-%20scope%20to%20confirm%29/Section%2001%2055%2000%20-%20Vehicular%20Access%20and%20Parking%20%28GEN%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-01-56-00-temporary-barriers-and-security-gen",
+    "section": "01 56 00",
+    "title": "Temporary Barriers and Security (GEN)",
+    "discipline": "Zone E",
+    "fileName": "Section 01 56 00 - Temporary Barriers and Security (GEN).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/_DIV%2001%20GENERAL%20REQUIREMENTS%20%28Zones%20A-D%20-%20scope%20to%20confirm%29/Section%2001%2056%2000%20-%20Temporary%20Barriers%20and%20Security%20%28GEN%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-01-57-00-temporary-controls-gen",
+    "section": "01 57 00",
+    "title": "Temporary Controls (GEN)",
+    "discipline": "Zone E",
+    "fileName": "Section 01 57 00 - Temporary Controls (GEN).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/_DIV%2001%20GENERAL%20REQUIREMENTS%20%28Zones%20A-D%20-%20scope%20to%20confirm%29/Section%2001%2057%2000%20-%20Temporary%20Controls%20%28GEN%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-01-60-00-product-requirements-gen",
+    "section": "01 60 00",
+    "title": "Product Requirements (GEN)",
+    "discipline": "Zone E",
+    "fileName": "Section 01 60 00 - Product Requirements (GEN).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/_DIV%2001%20GENERAL%20REQUIREMENTS%20%28Zones%20A-D%20-%20scope%20to%20confirm%29/Section%2001%2060%2000%20-%20Product%20Requirements%20%28GEN%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-01-61-00-common-product-requirements-gen",
+    "section": "01 61 00",
+    "title": "Common Product Requirements (GEN)",
+    "discipline": "Zone E",
+    "fileName": "Section 01 61 00 - Common Product Requirements (GEN).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/_DIV%2001%20GENERAL%20REQUIREMENTS%20%28Zones%20A-D%20-%20scope%20to%20confirm%29/Section%2001%2061%2000%20-%20Common%20Product%20Requirements%20%28GEN%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-01-65-00-product-delivery-requirements-gen",
+    "section": "01 65 00",
+    "title": "Product Delivery Requirements (GEN)",
+    "discipline": "Zone E",
+    "fileName": "Section 01 65 00 - Product Delivery Requirements (GEN).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/_DIV%2001%20GENERAL%20REQUIREMENTS%20%28Zones%20A-D%20-%20scope%20to%20confirm%29/Section%2001%2065%2000%20-%20Product%20Delivery%20Requirements%20%28GEN%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-01-66-00-product-storage-and-handling-requirements-gen",
+    "section": "01 66 00",
+    "title": "Product Storage and Handling Requirements (GEN)",
+    "discipline": "Zone E",
+    "fileName": "Section 01 66 00 - Product Storage and Handling Requirements (GEN).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/_DIV%2001%20GENERAL%20REQUIREMENTS%20%28Zones%20A-D%20-%20scope%20to%20confirm%29/Section%2001%2066%2000%20-%20Product%20Storage%20and%20Handling%20Requirements%20%28GEN%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-01-70-00-execution-closeout-requirements-gen",
+    "section": "01 70 00",
+    "title": "Execution & Closeout Requirements (GEN)",
+    "discipline": "Zone E",
+    "fileName": "Section 01 70 00 - Execution & Closeout Requirements (GEN).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/_DIV%2001%20GENERAL%20REQUIREMENTS%20%28Zones%20A-D%20-%20scope%20to%20confirm%29/Section%2001%2070%2000%20-%20Execution%20%26%20Closeout%20Requirements%20%28GEN%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-01-72-00-examination-preparation-gen",
+    "section": "01 72 00",
+    "title": "Examination & Preparation (GEN)",
+    "discipline": "Zone E",
+    "fileName": "Section 01 72 00 - Examination & Preparation (GEN).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/_DIV%2001%20GENERAL%20REQUIREMENTS%20%28Zones%20A-D%20-%20scope%20to%20confirm%29/Section%2001%2072%2000%20-%20Examination%20%26%20Preparation%20%28GEN%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-01-73-00-execution-gen",
+    "section": "01 73 00",
+    "title": "Execution (GEN)",
+    "discipline": "Zone E",
+    "fileName": "Section 01 73 00 - Execution (GEN).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/_DIV%2001%20GENERAL%20REQUIREMENTS%20%28Zones%20A-D%20-%20scope%20to%20confirm%29/Section%2001%2073%2000%20-%20Execution%20%28GEN%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-01-73-19-health-safety-requirements-gen",
+    "section": "01 73 19",
+    "title": "Health & Safety Requirements (GEN)",
+    "discipline": "Zone E",
+    "fileName": "Section 01 73 19 - Health & Safety Requirements (GEN).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/_DIV%2001%20GENERAL%20REQUIREMENTS%20%28Zones%20A-D%20-%20scope%20to%20confirm%29/Section%2001%2073%2019%20-%20Health%20%26%20Safety%20Requirements%20%28GEN%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-01-74-00-cleaning-waste-management-gen",
+    "section": "01 74 00",
+    "title": "Cleaning & Waste Management (GEN)",
+    "discipline": "Zone E",
+    "fileName": "Section 01 74 00 - Cleaning & Waste Management (GEN).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/_DIV%2001%20GENERAL%20REQUIREMENTS%20%28Zones%20A-D%20-%20scope%20to%20confirm%29/Section%2001%2074%2000%20-%20Cleaning%20%26%20Waste%20Management%20%28GEN%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-01-78-00-closeout-submittals-gen",
+    "section": "01 78 00",
+    "title": "Closeout Submittals (GEN)",
+    "discipline": "Zone E",
+    "fileName": "Section 01 78 00 - Closeout Submittals (GEN).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/_DIV%2001%20GENERAL%20REQUIREMENTS%20%28Zones%20A-D%20-%20scope%20to%20confirm%29/Section%2001%2078%2000%20-%20Closeout%20Submittals%20%28GEN%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-01-78-23-operation-and-maintenance-data-gen",
+    "section": "01 78 23",
+    "title": "Operation and Maintenance Data (GEN)",
+    "discipline": "Zone E",
+    "fileName": "Section 01 78 23 - Operation and Maintenance Data (GEN).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/_DIV%2001%20GENERAL%20REQUIREMENTS%20%28Zones%20A-D%20-%20scope%20to%20confirm%29/Section%2001%2078%2023%20-%20Operation%20and%20Maintenance%20Data%20%28GEN%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-01-79-00-demonstration-training-gen",
+    "section": "01 79 00",
+    "title": "Demonstration & Training (GEN)",
+    "discipline": "Zone E",
+    "fileName": "Section 01 79 00 - Demonstration & Training (GEN).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/_DIV%2001%20GENERAL%20REQUIREMENTS%20%28Zones%20A-D%20-%20scope%20to%20confirm%29/Section%2001%2079%2000%20-%20Demonstration%20%26%20Training%20%28GEN%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-01-80-00-performance-requirements-gen",
+    "section": "01 80 00",
+    "title": "Performance Requirements (GEN)",
+    "discipline": "Zone E",
+    "fileName": "Section 01 80 00 - Performance Requirements (GEN).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/_DIV%2001%20GENERAL%20REQUIREMENTS%20%28Zones%20A-D%20-%20scope%20to%20confirm%29/Section%2001%2080%2000%20-%20Performance%20Requirements%20%28GEN%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-01-81-00-facility-performance-requirements-gen",
+    "section": "01 81 00",
+    "title": "Facility Performance Requirements (GEN)",
+    "discipline": "Zone E",
+    "fileName": "Section 01 81 00 - Facility Performance Requirements (GEN).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/_DIV%2001%20GENERAL%20REQUIREMENTS%20%28Zones%20A-D%20-%20scope%20to%20confirm%29/Section%2001%2081%2000%20-%20Facility%20Performance%20Requirements%20%28GEN%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-01-83-00-to-01-89-00-operation-and-maintenance-of-all-building-systems-gen",
+    "section": "01 83 00",
+    "title": "to 01 89 00 - Operation and Maintenance of All Building Systems (GEN)",
+    "discipline": "Zone E",
+    "fileName": "Section 01 83 00 to 01 89 00 - Operation and Maintenance of All Building Systems (GEN).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/_DIV%2001%20GENERAL%20REQUIREMENTS%20%28Zones%20A-D%20-%20scope%20to%20confirm%29/Section%2001%2083%2000%20to%2001%2089%2000%20-%20Operation%20and%20Maintenance%20of%20All%20Building%20Systems%20%28GEN%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-section-01-93-00-contractor-s-building-information-model-bim-gen",
+    "section": "01 93 00",
+    "title": "Contractor’s Building Information Model (BIM) (GEN)",
+    "discipline": "Zone E",
+    "fileName": "Section 01 93 00 - Contractor’s Building Information Model (BIM) (GEN).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/_DIV%2001%20GENERAL%20REQUIREMENTS%20%28Zones%20A-D%20-%20scope%20to%20confirm%29/Section%2001%2093%2000%20-%20Contractor%E2%80%99s%20Building%20Information%20Model%20%28BIM%29%20%28GEN%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-fixed-finishes-appendix",
+    "section": null,
+    "title": "Fixed Finishes - Appendix",
+    "discipline": "Zone E",
+    "fileName": "Fixed Finishes - Appendix.pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/_FIXED%20FINISHES%20%28ARC%29/By%20Element%20-%20L3%20Signature%20Villas/Fixed%20Finishes%20-%20Appendix.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-fixed-finishes-balustrades-handrails",
+    "section": null,
+    "title": "Fixed Finishes - Balustrades Handrails",
+    "discipline": "Zone E",
+    "fileName": "Fixed Finishes - Balustrades Handrails.pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/_FIXED%20FINISHES%20%28ARC%29/By%20Element%20-%20L3%20Signature%20Villas/Fixed%20Finishes%20-%20Balustrades%20Handrails.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-fixed-finishes-canopies-louvers-sheeting",
+    "section": null,
+    "title": "Fixed Finishes - Canopies & Louvers & Sheeting",
+    "discipline": "Zone E",
+    "fileName": "Fixed Finishes - Canopies & Louvers & Sheeting.pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/_FIXED%20FINISHES%20%28ARC%29/By%20Element%20-%20L3%20Signature%20Villas/Fixed%20Finishes%20-%20Canopies%20%26%20Louvers%20%26%20Sheeting.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-fixed-finishes-ceilings-external-internal-facade-integrated",
+    "section": null,
+    "title": "Fixed Finishes - Ceilings - External, Internal & Facade Integrated",
+    "discipline": "Zone E",
+    "fileName": "Fixed Finishes - Ceilings - External, Internal & Facade Integrated.pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/_FIXED%20FINISHES%20%28ARC%29/By%20Element%20-%20L3%20Signature%20Villas/Fixed%20Finishes%20-%20Ceilings%20-%20External%2C%20Internal%20%26%20Facade%20Integrated.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-fixed-finishes-drywall-internal-wall",
+    "section": null,
+    "title": "Fixed Finishes - Drywall (Internal Wall)",
+    "discipline": "Zone E",
+    "fileName": "Fixed Finishes - Drywall (Internal Wall).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/_FIXED%20FINISHES%20%28ARC%29/By%20Element%20-%20L3%20Signature%20Villas/Fixed%20Finishes%20-%20Drywall%20%28Internal%20Wall%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-fixed-finishes-external-cladding-panelling-facade-features",
+    "section": null,
+    "title": "Fixed Finishes - External Cladding, Panelling & Facade Features",
+    "discipline": "Zone E",
+    "fileName": "Fixed Finishes - External Cladding, Panelling & Facade Features.pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/_FIXED%20FINISHES%20%28ARC%29/By%20Element%20-%20L3%20Signature%20Villas/Fixed%20Finishes%20-%20External%20Cladding%2C%20Panelling%20%26%20Facade%20Features.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-fixed-finishes-external-doors-finishes",
+    "section": null,
+    "title": "Fixed Finishes - External Doors Finishes",
+    "discipline": "Zone E",
+    "fileName": "Fixed Finishes - External Doors Finishes.pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/_FIXED%20FINISHES%20%28ARC%29/By%20Element%20-%20L3%20Signature%20Villas/Fixed%20Finishes%20-%20External%20Doors%20Finishes.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-fixed-finishes-external-floor-finishes",
+    "section": null,
+    "title": "Fixed Finishes - External Floor Finishes",
+    "discipline": "Zone E",
+    "fileName": "Fixed Finishes - External Floor Finishes.pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/_FIXED%20FINISHES%20%28ARC%29/By%20Element%20-%20L3%20Signature%20Villas/Fixed%20Finishes%20-%20External%20Floor%20Finishes.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-fixed-finishes-external-thermal-wall",
+    "section": null,
+    "title": "Fixed Finishes - External Thermal Wall",
+    "discipline": "Zone E",
+    "fileName": "Fixed Finishes - External Thermal Wall.pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/_FIXED%20FINISHES%20%28ARC%29/By%20Element%20-%20L3%20Signature%20Villas/Fixed%20Finishes%20-%20External%20Thermal%20Wall.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-fixed-finishes-external-wall-paints-source-caption-reads-masonry-blockwork",
+    "section": null,
+    "title": "Fixed Finishes - External Wall Paints (source caption reads Masonry Blockwork)",
+    "discipline": "Zone E",
+    "fileName": "Fixed Finishes - External Wall Paints (source caption reads Masonry Blockwork).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/_FIXED%20FINISHES%20%28ARC%29/By%20Element%20-%20L3%20Signature%20Villas/Fixed%20Finishes%20-%20External%20Wall%20Paints%20%28source%20caption%20reads%20Masonry%20Blockwork%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-fixed-finishes-masonry-blockwork",
+    "section": null,
+    "title": "Fixed Finishes - Masonry Blockwork",
+    "discipline": "Zone E",
+    "fileName": "Fixed Finishes - Masonry Blockwork.pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/_FIXED%20FINISHES%20%28ARC%29/By%20Element%20-%20L3%20Signature%20Villas/Fixed%20Finishes%20-%20Masonry%20Blockwork.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-fixed-finishes-steel-ladders-covers",
+    "section": null,
+    "title": "Fixed Finishes - Steel Ladders & Covers",
+    "discipline": "Zone E",
+    "fileName": "Fixed Finishes - Steel Ladders & Covers.pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/_FIXED%20FINISHES%20%28ARC%29/By%20Element%20-%20L3%20Signature%20Villas/Fixed%20Finishes%20-%20Steel%20Ladders%20%26%20Covers.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-fixed-finishes-appendix",
+    "section": null,
+    "title": "Fixed Finishes - Appendix",
+    "discipline": "Zone E",
+    "fileName": "Fixed Finishes - Appendix.pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/_FIXED%20FINISHES%20%28ARC%29/By%20Element%20-%20L4%20Beach%20Villas/Fixed%20Finishes%20-%20Appendix.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-fixed-finishes-balustrades-handrails",
+    "section": null,
+    "title": "Fixed Finishes - Balustrades Handrails",
+    "discipline": "Zone E",
+    "fileName": "Fixed Finishes - Balustrades Handrails.pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/_FIXED%20FINISHES%20%28ARC%29/By%20Element%20-%20L4%20Beach%20Villas/Fixed%20Finishes%20-%20Balustrades%20Handrails.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-fixed-finishes-canopies-louvers-sheeting",
+    "section": null,
+    "title": "Fixed Finishes - Canopies & Louvers & Sheeting",
+    "discipline": "Zone E",
+    "fileName": "Fixed Finishes - Canopies & Louvers & Sheeting.pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/_FIXED%20FINISHES%20%28ARC%29/By%20Element%20-%20L4%20Beach%20Villas/Fixed%20Finishes%20-%20Canopies%20%26%20Louvers%20%26%20Sheeting.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-fixed-finishes-ceilings-external-internal-facade-integrated",
+    "section": null,
+    "title": "Fixed Finishes - Ceilings - External, Internal & Facade Integrated",
+    "discipline": "Zone E",
+    "fileName": "Fixed Finishes - Ceilings - External, Internal & Facade Integrated.pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/_FIXED%20FINISHES%20%28ARC%29/By%20Element%20-%20L4%20Beach%20Villas/Fixed%20Finishes%20-%20Ceilings%20-%20External%2C%20Internal%20%26%20Facade%20Integrated.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-fixed-finishes-drywall-internal-wall",
+    "section": null,
+    "title": "Fixed Finishes - Drywall (Internal Wall)",
+    "discipline": "Zone E",
+    "fileName": "Fixed Finishes - Drywall (Internal Wall).pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/_FIXED%20FINISHES%20%28ARC%29/By%20Element%20-%20L4%20Beach%20Villas/Fixed%20Finishes%20-%20Drywall%20%28Internal%20Wall%29.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-fixed-finishes-external-cladding-panelling-facade-features",
+    "section": null,
+    "title": "Fixed Finishes - External Cladding, Panelling & Facade Features",
+    "discipline": "Zone E",
+    "fileName": "Fixed Finishes - External Cladding, Panelling & Facade Features.pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/_FIXED%20FINISHES%20%28ARC%29/By%20Element%20-%20L4%20Beach%20Villas/Fixed%20Finishes%20-%20External%20Cladding%2C%20Panelling%20%26%20Facade%20Features.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-fixed-finishes-external-doors-finishes",
+    "section": null,
+    "title": "Fixed Finishes - External Doors Finishes",
+    "discipline": "Zone E",
+    "fileName": "Fixed Finishes - External Doors Finishes.pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/_FIXED%20FINISHES%20%28ARC%29/By%20Element%20-%20L4%20Beach%20Villas/Fixed%20Finishes%20-%20External%20Doors%20Finishes.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-fixed-finishes-external-floor-finishes",
+    "section": null,
+    "title": "Fixed Finishes - External Floor Finishes",
+    "discipline": "Zone E",
+    "fileName": "Fixed Finishes - External Floor Finishes.pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/_FIXED%20FINISHES%20%28ARC%29/By%20Element%20-%20L4%20Beach%20Villas/Fixed%20Finishes%20-%20External%20Floor%20Finishes.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-fixed-finishes-external-openings",
+    "section": null,
+    "title": "Fixed Finishes - External Openings",
+    "discipline": "Zone E",
+    "fileName": "Fixed Finishes - External Openings.pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/_FIXED%20FINISHES%20%28ARC%29/By%20Element%20-%20L4%20Beach%20Villas/Fixed%20Finishes%20-%20External%20Openings.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-fixed-finishes-external-thermal-wall",
+    "section": null,
+    "title": "Fixed Finishes - External Thermal Wall",
+    "discipline": "Zone E",
+    "fileName": "Fixed Finishes - External Thermal Wall.pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/_FIXED%20FINISHES%20%28ARC%29/By%20Element%20-%20L4%20Beach%20Villas/Fixed%20Finishes%20-%20External%20Thermal%20Wall.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-fixed-finishes-external-wall-paints",
+    "section": null,
+    "title": "Fixed Finishes - External Wall Paints",
+    "discipline": "Zone E",
+    "fileName": "Fixed Finishes - External Wall Paints.pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/_FIXED%20FINISHES%20%28ARC%29/By%20Element%20-%20L4%20Beach%20Villas/Fixed%20Finishes%20-%20External%20Wall%20Paints.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-fixed-finishes-general-material",
+    "section": null,
+    "title": "Fixed Finishes - General Material",
+    "discipline": "Zone E",
+    "fileName": "Fixed Finishes - General Material.pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/_FIXED%20FINISHES%20%28ARC%29/By%20Element%20-%20L4%20Beach%20Villas/Fixed%20Finishes%20-%20General%20Material.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-fixed-finishes-masonry-blockwork",
+    "section": null,
+    "title": "Fixed Finishes - Masonry Blockwork",
+    "discipline": "Zone E",
+    "fileName": "Fixed Finishes - Masonry Blockwork.pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/_FIXED%20FINISHES%20%28ARC%29/By%20Element%20-%20L4%20Beach%20Villas/Fixed%20Finishes%20-%20Masonry%20Blockwork.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-fixed-finishes-steel-ladders-covers",
+    "section": null,
+    "title": "Fixed Finishes - Steel Ladders & Covers",
+    "discipline": "Zone E",
+    "fileName": "Fixed Finishes - Steel Ladders & Covers.pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/_FIXED%20FINISHES%20%28ARC%29/By%20Element%20-%20L4%20Beach%20Villas/Fixed%20Finishes%20-%20Steel%20Ladders%20%26%20Covers.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-fixed-finishes-specification-l3-signature-villas-complete-book",
+    "section": null,
+    "title": "Fixed Finishes Specification - Type C Villas - COMPLETE BOOK",
+    "discipline": "Zone E",
+    "fileName": "Fixed Finishes Specification - Type C Villas - COMPLETE BOOK.pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/_FIXED%20FINISHES%20%28ARC%29/Fixed%20Finishes%20Specification%20-%20L3%20Signature%20Villas%20-%20COMPLETE%20BOOK.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-fixed-finishes-specification-l4-beach-villas-complete-book",
+    "section": null,
+    "title": "Fixed Finishes Specification - Type D Villas - COMPLETE BOOK",
+    "discipline": "Zone E",
+    "fileName": "Fixed Finishes Specification - Type D Villas - COMPLETE BOOK.pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/_FIXED%20FINISHES%20%28ARC%29/Fixed%20Finishes%20Specification%20-%20L4%20Beach%20Villas%20-%20COMPLETE%20BOOK.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-arc-architectural-id-specification-front-matter-index",
+    "section": null,
+    "title": "ARC - Architectural & ID Specification - Front Matter & Index",
+    "discipline": "Zone E",
+    "fileName": "ARC - Architectural & ID Specification - Front Matter & Index.pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/_FRONT%20MATTER%20%26%20INDEX/ARC%20-%20Architectural%20%26%20ID%20Specification%20-%20Front%20Matter%20%26%20Index.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-ele-electrical-specification-front-matter-index",
+    "section": null,
+    "title": "ELE - Electrical Specification - Front Matter & Index",
+    "discipline": "Zone E",
+    "fileName": "ELE - Electrical Specification - Front Matter & Index.pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/_FRONT%20MATTER%20%26%20INDEX/ELE%20-%20Electrical%20Specification%20-%20Front%20Matter%20%26%20Index.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-fac-facade-performance-specification-front-matter-index",
+    "section": null,
+    "title": "FAC - Facade Performance Specification - Front Matter & Index",
+    "discipline": "Zone E",
+    "fileName": "FAC - Facade Performance Specification - Front Matter & Index.pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/_FRONT%20MATTER%20%26%20INDEX/FAC%20-%20Facade%20Performance%20Specification%20-%20Front%20Matter%20%26%20Index.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-lsc-landscape-specification-front-matter-index",
+    "section": null,
+    "title": "LSC - Landscape Specification - Front Matter & Index",
+    "discipline": "Zone E",
+    "fileName": "LSC - Landscape Specification - Front Matter & Index.pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/_FRONT%20MATTER%20%26%20INDEX/LSC%20-%20Landscape%20Specification%20-%20Front%20Matter%20%26%20Index.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-mec-mechanical-specification-front-matter-index",
+    "section": null,
+    "title": "MEC - Mechanical Specification - Front Matter & Index",
+    "discipline": "Zone E",
+    "fileName": "MEC - Mechanical Specification - Front Matter & Index.pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/_FRONT%20MATTER%20%26%20INDEX/MEC%20-%20Mechanical%20Specification%20-%20Front%20Matter%20%26%20Index.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-str-structural-specification-front-matter-index",
+    "section": null,
+    "title": "STR - Structural Specification - Front Matter & Index",
+    "discipline": "Zone E",
+    "fileName": "STR - Structural Specification - Front Matter & Index.pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/_FRONT%20MATTER%20%26%20INDEX/STR%20-%20Structural%20Specification%20-%20Front%20Matter%20%26%20Index.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-sustainability-specification-l3-signature-villas-front-matter",
+    "section": null,
+    "title": "Sustainability Specification - Type C Villas - Front Matter",
+    "discipline": "Zone E",
+    "fileName": "Sustainability Specification - Type C Villas - Front Matter.pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/_FRONT%20MATTER%20%26%20INDEX/Sustainability%20Specification%20-%20L3%20Signature%20Villas%20-%20Front%20Matter.pdf"
+  },
+  {
+    "id": "spec-5e-zone-e-sustainability-specification-l4-beach-villas-front-matter",
+    "section": null,
+    "title": "Sustainability Specification - Type D Villas - Front Matter",
+    "discipline": "Zone E",
+    "fileName": "Sustainability Specification - Type D Villas - Front Matter.pdf",
+    "publicPath": "/specs/5e.%20Zone%20E/_FRONT%20MATTER%20%26%20INDEX/Sustainability%20Specification%20-%20L4%20Beach%20Villas%20-%20Front%20Matter.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-01-81-13-sustainability-requirements-l3-signature-villas-sus",
+    "section": "01 81 13",
+    "title": "Sustainability Requirements - Type C Villas (SUS)",
+    "discipline": "Zone F",
+    "fileName": "Section 01 81 13 - Sustainability Requirements - Type C Villas (SUS).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2001%20-%20GENERAL%20REQUIREMENTS/Section%2001%2081%2013%20-%20Sustainability%20Requirements%20-%20L3%20Signature%20Villas%20%28SUS%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-01-81-13-sustainability-requirements-l4-beach-villas-sus",
+    "section": "01 81 13",
+    "title": "Sustainability Requirements - Type D Villas (SUS)",
+    "discipline": "Zone F",
+    "fileName": "Section 01 81 13 - Sustainability Requirements - Type D Villas (SUS).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2001%20-%20GENERAL%20REQUIREMENTS/Section%2001%2081%2013%20-%20Sustainability%20Requirements%20-%20L4%20Beach%20Villas%20%28SUS%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-01-83-00-facility-shell-performance-requirements-fac",
+    "section": "01 83 00",
+    "title": "Facility Shell Performance Requirements (FAC)",
+    "discipline": "Zone F",
+    "fileName": "Section 01 83 00 - Facility Shell Performance Requirements (FAC).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2001%20-%20GENERAL%20REQUIREMENTS/Section%2001%2083%2000%20-%20Facility%20Shell%20Performance%20Requirements%20%28FAC%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-03-11-00-concrete-forming-str",
+    "section": "03 11 00",
+    "title": "Concrete Forming (STR)",
+    "discipline": "Zone F",
+    "fileName": "Section 03 11 00 - Concrete Forming (STR).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2003%20-%20CONCRETE/Section%2003%2011%2000%20-%20Concrete%20Forming%20%28STR%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-03-15-00-concrete-accessories-str",
+    "section": "03 15 00",
+    "title": "Concrete Accessories (STR)",
+    "discipline": "Zone F",
+    "fileName": "Section 03 15 00 - Concrete Accessories (STR).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2003%20-%20CONCRETE/Section%2003%2015%2000%20-%20Concrete%20Accessories%20%28STR%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-03-15-13-concrete-joints-str",
+    "section": "03 15 13",
+    "title": "Concrete Joints (STR)",
+    "discipline": "Zone F",
+    "fileName": "Section 03 15 13 - Concrete Joints (STR).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2003%20-%20CONCRETE/Section%2003%2015%2013%20-%20Concrete%20Joints%20%28STR%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-03-20-00-concrete-reinforcing-str",
+    "section": "03 20 00",
+    "title": "Concrete Reinforcing (STR)",
+    "discipline": "Zone F",
+    "fileName": "Section 03 20 00 - Concrete Reinforcing (STR).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2003%20-%20CONCRETE/Section%2003%2020%2000%20-%20Concrete%20Reinforcing%20%28STR%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-03-30-00-cast-in-place-concrete-str",
+    "section": "03 30 00",
+    "title": "Cast-In-Place Concrete (STR)",
+    "discipline": "Zone F",
+    "fileName": "Section 03 30 00 - Cast-In-Place Concrete (STR).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2003%20-%20CONCRETE/Section%2003%2030%2000%20-%20Cast-In-Place%20Concrete%20%28STR%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-03-37-13-shotcrete-guniting-str",
+    "section": "03 37 13",
+    "title": "Shotcrete (Guniting) (STR)",
+    "discipline": "Zone F",
+    "fileName": "Section 03 37 13 - Shotcrete (Guniting) (STR).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2003%20-%20CONCRETE/Section%2003%2037%2013%20-%20Shotcrete%20%28Guniting%29%20%28STR%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-03-39-00-concrete-curing-str",
+    "section": "03 39 00",
+    "title": "Concrete Curing (STR)",
+    "discipline": "Zone F",
+    "fileName": "Section 03 39 00 - Concrete Curing (STR).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2003%20-%20CONCRETE/Section%2003%2039%2000%20-%20Concrete%20Curing%20%28STR%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-03-45-00-precast-architectural-concrete-arc",
+    "section": "03 45 00",
+    "title": "Precast Architectural Concrete (ARC)",
+    "discipline": "Zone F",
+    "fileName": "Section 03 45 00 - Precast Architectural Concrete (ARC).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2003%20-%20CONCRETE/Section%2003%2045%2000%20-%20Precast%20Architectural%20Concrete%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-03-49-00-glass-fiber-reinforced-concrete-fac",
+    "section": "03 49 00",
+    "title": "Glass-Fiber Reinforced Concrete (FAC)",
+    "discipline": "Zone F",
+    "fileName": "Section 03 49 00 - Glass-Fiber Reinforced Concrete (FAC).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2003%20-%20CONCRETE/Section%2003%2049%2000%20-%20Glass-Fiber%20Reinforced%20Concrete%20%28FAC%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-03-52-16-lightweight-insulating-concrete-arc",
+    "section": "03 52 16",
+    "title": "Lightweight Insulating Concrete (ARC)",
+    "discipline": "Zone F",
+    "fileName": "Section 03 52 16 - Lightweight Insulating Concrete (ARC).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2003%20-%20CONCRETE/Section%2003%2052%2016%20-%20Lightweight%20Insulating%20Concrete%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-03-53-50-floor-screed-arc",
+    "section": "03 53 50",
+    "title": "Floor Screed (ARC)",
+    "discipline": "Zone F",
+    "fileName": "Section 03 53 50 - Floor Screed (ARC).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2003%20-%20CONCRETE/Section%2003%2053%2050%20-%20Floor%20Screed%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-03-60-00-grouting-str",
+    "section": "03 60 00",
+    "title": "Grouting (STR)",
+    "discipline": "Zone F",
+    "fileName": "Section 03 60 00 - Grouting (STR).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2003%20-%20CONCRETE/Section%2003%2060%2000%20-%20Grouting%20%28STR%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-04-05-13-masonry-mortar-arc",
+    "section": "04 05 13",
+    "title": "Masonry Mortar (ARC)",
+    "discipline": "Zone F",
+    "fileName": "Section 04 05 13 - Masonry Mortar (ARC).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2004%20-%20MASONRY/Section%2004%2005%2013%20-%20Masonry%20Mortar%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-04-20-00-exterior-stone-cladding-fac",
+    "section": "04 20 00",
+    "title": "Exterior Stone Cladding (FAC)",
+    "discipline": "Zone F",
+    "fileName": "Section 04 20 00 - Exterior Stone Cladding (FAC).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2004%20-%20MASONRY/Section%2004%2020%2000%20-%20Exterior%20Stone%20Cladding%20%28FAC%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-04-21-29-terracotta-tiles-fac",
+    "section": "04 21 29",
+    "title": "Terracotta Tiles (FAC)",
+    "discipline": "Zone F",
+    "fileName": "Section 04 21 29 - Terracotta Tiles (FAC).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2004%20-%20MASONRY/Section%2004%2021%2029%20-%20Terracotta%20Tiles%20%28FAC%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-04-22-23-architectural-concrete-unit-masonry-arc",
+    "section": "04 22 23",
+    "title": "Architectural Concrete Unit Masonry (ARC)",
+    "discipline": "Zone F",
+    "fileName": "Section 04 22 23 - Architectural Concrete Unit Masonry (ARC).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2004%20-%20MASONRY/Section%2004%2022%2023%20-%20Architectural%20Concrete%20Unit%20Masonry%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-05-12-00-secondary-steel-framing-fac",
+    "section": "05 12 00",
+    "title": "Secondary Steel Framing (FAC)",
+    "discipline": "Zone F",
+    "fileName": "Section 05 12 00 - Secondary Steel Framing (FAC).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2005%20-%20METALS/Section%2005%2012%2000%20-%20Secondary%20Steel%20Framing%20%28FAC%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-05-12-00-structural-steel-framing-str",
+    "section": "05 12 00",
+    "title": "Structural Steel Framing (STR)",
+    "discipline": "Zone F",
+    "fileName": "Section 05 12 00 - Structural Steel Framing (STR).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2005%20-%20METALS/Section%2005%2012%2000%20-%20Structural%20Steel%20Framing%20%28STR%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-05-50-00-metal-fabrications-arc",
+    "section": "05 50 00",
+    "title": "Metal Fabrications (ARC)",
+    "discipline": "Zone F",
+    "fileName": "Section 05 50 00 - Metal Fabrications (ARC).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2005%20-%20METALS/Section%2005%2050%2000%20-%20Metal%20Fabrications%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-05-52-13-pipe-and-tube-railings-arc",
+    "section": "05 52 13",
+    "title": "Pipe and Tube Railings (ARC)",
+    "discipline": "Zone F",
+    "fileName": "Section 05 52 13 - Pipe and Tube Railings (ARC).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2005%20-%20METALS/Section%2005%2052%2013%20-%20Pipe%20and%20Tube%20Railings%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-05-53-13-bar-gratings-arc",
+    "section": "05 53 13",
+    "title": "Bar Gratings (ARC)",
+    "discipline": "Zone F",
+    "fileName": "Section 05 53 13 - Bar Gratings (ARC).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2005%20-%20METALS/Section%2005%2053%2013%20-%20Bar%20Gratings%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-05-73-13-glazed-decorative-metal-railing-arc",
+    "section": "05 73 13",
+    "title": "Glazed Decorative Metal Railing (ARC)",
+    "discipline": "Zone F",
+    "fileName": "Section 05 73 13 - Glazed Decorative Metal Railing (ARC).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2005%20-%20METALS/Section%2005%2073%2013%20-%20Glazed%20Decorative%20Metal%20Railing%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-05-75-00-decorative-formed-metal-arc",
+    "section": "05 75 00",
+    "title": "Decorative Formed Metal (ARC)",
+    "discipline": "Zone F",
+    "fileName": "Section 05 75 00 - Decorative Formed Metal (ARC).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2005%20-%20METALS/Section%2005%2075%2000%20-%20Decorative%20Formed%20Metal%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-06-10-53-miscellaneous-rough-carpentry-arc",
+    "section": "06 10 53",
+    "title": "Miscellaneous Rough Carpentry (ARC)",
+    "discipline": "Zone F",
+    "fileName": "Section 06 10 53 - Miscellaneous Rough Carpentry (ARC).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2006%20-%20WOOD%2C%20PLASTICS%2C%20AND%20COMPOSITES/Section%2006%2010%2053%20-%20Miscellaneous%20Rough%20Carpentry%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-06-40-23-interior-architectural-woodwork-arc",
+    "section": "06 40 23",
+    "title": "Interior Architectural Woodwork (ARC)",
+    "discipline": "Zone F",
+    "fileName": "Section 06 40 23 - Interior Architectural Woodwork (ARC).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2006%20-%20WOOD%2C%20PLASTICS%2C%20AND%20COMPOSITES/Section%2006%2040%2023%20-%20Interior%20Architectural%20Woodwork%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-06-41-16-plastic-laminate-faced-architectural-casework-arc",
+    "section": "06 41 16",
+    "title": "Plastic-Laminate-Faced Architectural Casework (ARC)",
+    "discipline": "Zone F",
+    "fileName": "Section 06 41 16 - Plastic-Laminate-Faced Architectural Casework (ARC).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2006%20-%20WOOD%2C%20PLASTICS%2C%20AND%20COMPOSITES/Section%2006%2041%2016%20-%20Plastic-Laminate-Faced%20Architectural%20Casework%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-06-83-16-fiber-glass-reinforced-paneling-grp-arc",
+    "section": "06 83 16",
+    "title": "Fiber Glass Reinforced Paneling (GRP) (ARC)",
+    "discipline": "Zone F",
+    "fileName": "Section 06 83 16 - Fiber Glass Reinforced Paneling (GRP) (ARC).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2006%20-%20WOOD%2C%20PLASTICS%2C%20AND%20COMPOSITES/Section%2006%2083%2016%20-%20Fiber%20Glass%20Reinforced%20Paneling%20%28GRP%29%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-07-13-00-sheet-membrane-waterproofing-str",
+    "section": "07 13 00",
+    "title": "Sheet Membrane Waterproofing (STR)",
+    "discipline": "Zone F",
+    "fileName": "Section 07 13 00 - Sheet Membrane Waterproofing (STR).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2007%20-%20THERMAL%20AND%20MOISTURE%20PROTECTION/Section%2007%2013%2000%20-%20Sheet%20Membrane%20Waterproofing%20%28STR%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-07-14-16-cold-fluid-applied-waterproofing-str",
+    "section": "07 14 16",
+    "title": "Cold Fluid-Applied Waterproofing (STR)",
+    "discipline": "Zone F",
+    "fileName": "Section 07 14 16 - Cold Fluid-Applied Waterproofing (STR).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2007%20-%20THERMAL%20AND%20MOISTURE%20PROTECTION/Section%2007%2014%2016%20-%20Cold%20Fluid-Applied%20Waterproofing%20%28STR%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-07-14-16-polyurea-hot-fluid-applied-waterproofing-arc",
+    "section": "07 14 16",
+    "title": "Polyurea Hot-Fluid-Applied Waterproofing (ARC)",
+    "discipline": "Zone F",
+    "fileName": "Section 07 14 16 - Polyurea Hot-Fluid-Applied Waterproofing (ARC).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2007%20-%20THERMAL%20AND%20MOISTURE%20PROTECTION/Section%2007%2014%2016%20-%20Polyurea%20Hot-Fluid-Applied%20Waterproofing%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-07-16-13-cementitious-waterproofing-arc",
+    "section": "07 16 13",
+    "title": "Cementitious Waterproofing (ARC)",
+    "discipline": "Zone F",
+    "fileName": "Section 07 16 13 - Cementitious Waterproofing (ARC).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2007%20-%20THERMAL%20AND%20MOISTURE%20PROTECTION/Section%2007%2016%2013%20-%20Cementitious%20Waterproofing%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-07-16-16-polymer-modified-cementitious-waterproofing-arc",
+    "section": "07 16 16",
+    "title": "Polymer Modified Cementitious Waterproofing (ARC)",
+    "discipline": "Zone F",
+    "fileName": "Section 07 16 16 - Polymer Modified Cementitious Waterproofing (ARC).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2007%20-%20THERMAL%20AND%20MOISTURE%20PROTECTION/Section%2007%2016%2016%20-%20Polymer%20Modified%20Cementitious%20Waterproofing%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-07-21-13-board-insulation-arc",
+    "section": "07 21 13",
+    "title": "Board Insulation (ARC)",
+    "discipline": "Zone F",
+    "fileName": "Section 07 21 13 - Board Insulation (ARC).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2007%20-%20THERMAL%20AND%20MOISTURE%20PROTECTION/Section%2007%2021%2013%20-%20Board%20Insulation%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-07-24-00-external-render-system-fac",
+    "section": "07 24 00",
+    "title": "External Render System (FAC)",
+    "discipline": "Zone F",
+    "fileName": "Section 07 24 00 - External Render System (FAC).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2007%20-%20THERMAL%20AND%20MOISTURE%20PROTECTION/Section%2007%2024%2000%20-%20External%20Render%20System%20%28FAC%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-07-27-13-modified-bituminous-vapor-barrier-arc",
+    "section": "07 27 13",
+    "title": "Modified Bituminous Vapor Barrier (ARC)",
+    "discipline": "Zone F",
+    "fileName": "Section 07 27 13 - Modified Bituminous Vapor Barrier (ARC).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2007%20-%20THERMAL%20AND%20MOISTURE%20PROTECTION/Section%2007%2027%2013%20-%20Modified%20Bituminous%20Vapor%20Barrier%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-07-42-13-metal-cladding-fac",
+    "section": "07 42 13",
+    "title": "Metal Cladding (FAC)",
+    "discipline": "Zone F",
+    "fileName": "Section 07 42 13 - Metal Cladding (FAC).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2007%20-%20THERMAL%20AND%20MOISTURE%20PROTECTION/Section%2007%2042%2013%20-%20Metal%20Cladding%20%28FAC%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-07-62-00-sheet-metal-flashing-and-trim-arc",
+    "section": "07 62 00",
+    "title": "Sheet Metal Flashing and Trim (ARC)",
+    "discipline": "Zone F",
+    "fileName": "Section 07 62 00 - Sheet Metal Flashing and Trim (ARC).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2007%20-%20THERMAL%20AND%20MOISTURE%20PROTECTION/Section%2007%2062%2000%20-%20Sheet%20Metal%20Flashing%20and%20Trim%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-07-81-00-spray-applied-fireproofing-str",
+    "section": "07 81 00",
+    "title": "Spray Applied Fireproofing (STR)",
+    "discipline": "Zone F",
+    "fileName": "Section 07 81 00 - Spray Applied Fireproofing (STR).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2007%20-%20THERMAL%20AND%20MOISTURE%20PROTECTION/Section%2007%2081%2000%20-%20Spray%20Applied%20Fireproofing%20%28STR%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-07-81-23-intumescent-fireproofing-str",
+    "section": "07 81 23",
+    "title": "Intumescent Fireproofing (STR)",
+    "discipline": "Zone F",
+    "fileName": "Section 07 81 23 - Intumescent Fireproofing (STR).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2007%20-%20THERMAL%20AND%20MOISTURE%20PROTECTION/Section%2007%2081%2023%20-%20Intumescent%20Fireproofing%20%28STR%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-07-84-13-penetration-firestopping-arc",
+    "section": "07 84 13",
+    "title": "Penetration Firestopping (ARC)",
+    "discipline": "Zone F",
+    "fileName": "Section 07 84 13 - Penetration Firestopping (ARC).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2007%20-%20THERMAL%20AND%20MOISTURE%20PROTECTION/Section%2007%2084%2013%20-%20Penetration%20Firestopping%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-07-90-06-fa-ade-sealants-fac",
+    "section": "07 90 06",
+    "title": "Façade Sealants (FAC)",
+    "discipline": "Zone F",
+    "fileName": "Section 07 90 06 - Façade Sealants (FAC).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2007%20-%20THERMAL%20AND%20MOISTURE%20PROTECTION/Section%2007%2090%2006%20-%20Fa%C3%A7ade%20Sealants%20%28FAC%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-07-92-00-joint-sealants-arc",
+    "section": "07 92 00",
+    "title": "Joint Sealants (ARC)",
+    "discipline": "Zone F",
+    "fileName": "Section 07 92 00 - Joint Sealants (ARC).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2007%20-%20THERMAL%20AND%20MOISTURE%20PROTECTION/Section%2007%2092%2000%20-%20Joint%20Sealants%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-08-11-13-steel-doors-and-frames-arc",
+    "section": "08 11 13",
+    "title": "Steel Doors and Frames (ARC)",
+    "discipline": "Zone F",
+    "fileName": "Section 08 11 13 - Steel Doors and Frames (ARC).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2008%20-%20OPENINGS/Section%2008%2011%2013%20-%20Steel%20Doors%20and%20Frames%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-08-11-16-swing-glass-doors-fac",
+    "section": "08 11 16",
+    "title": "Swing Glass Doors (FAC)",
+    "discipline": "Zone F",
+    "fileName": "Section 08 11 16 - Swing Glass Doors (FAC).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2008%20-%20OPENINGS/Section%2008%2011%2016%20-%20Swing%20Glass%20Doors%20%28FAC%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-08-13-16-aluminum-doors-and-frames-arc",
+    "section": "08 13 16",
+    "title": "Aluminum Doors and Frames (ARC)",
+    "discipline": "Zone F",
+    "fileName": "Section 08 13 16 - Aluminum Doors and Frames (ARC).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2008%20-%20OPENINGS/Section%2008%2013%2016%20-%20Aluminum%20Doors%20and%20Frames%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-08-14-16-flush-wood-doors-arc",
+    "section": "08 14 16",
+    "title": "Flush Wood Doors (ARC)",
+    "discipline": "Zone F",
+    "fileName": "Section 08 14 16 - Flush Wood Doors (ARC).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2008%20-%20OPENINGS/Section%2008%2014%2016%20-%20Flush%20Wood%20Doors%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-08-31-13-access-doors-and-frames-arc",
+    "section": "08 31 13",
+    "title": "Access Doors and Frames (ARC)",
+    "discipline": "Zone F",
+    "fileName": "Section 08 31 13 - Access Doors and Frames (ARC).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2008%20-%20OPENINGS/Section%2008%2031%2013%20-%20Access%20Doors%20and%20Frames%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-08-32-23-sliding-glass-door-fac",
+    "section": "08 32 23",
+    "title": "Sliding Glass Door (FAC)",
+    "discipline": "Zone F",
+    "fileName": "Section 08 32 23 - Sliding Glass Door (FAC).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2008%20-%20OPENINGS/Section%2008%2032%2023%20-%20Sliding%20Glass%20Door%20%28FAC%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-08-36-13-residential-sectional-doors-arc",
+    "section": "08 36 13",
+    "title": "Residential Sectional Doors (ARC)",
+    "discipline": "Zone F",
+    "fileName": "Section 08 36 13 - Residential Sectional Doors (ARC).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2008%20-%20OPENINGS/Section%2008%2036%2013%20-%20Residential%20Sectional%20Doors%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-08-44-13-glazed-curtain-walls-fac",
+    "section": "08 44 13",
+    "title": "Glazed Curtain Walls (FAC)",
+    "discipline": "Zone F",
+    "fileName": "Section 08 44 13 - Glazed Curtain Walls (FAC).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2008%20-%20OPENINGS/Section%2008%2044%2013%20-%20Glazed%20Curtain%20Walls%20%28FAC%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-08-51-13-aluminium-windows-fac",
+    "section": "08 51 13",
+    "title": "Aluminium Windows (FAC)",
+    "discipline": "Zone F",
+    "fileName": "Section 08 51 13 - Aluminium Windows (FAC).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2008%20-%20OPENINGS/Section%2008%2051%2013%20-%20Aluminium%20Windows%20%28FAC%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-08-63-00-metal-framed-skylights-arc",
+    "section": "08 63 00",
+    "title": "Metal Framed Skylights (ARC)",
+    "discipline": "Zone F",
+    "fileName": "Section 08 63 00 - Metal Framed Skylights (ARC).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2008%20-%20OPENINGS/Section%2008%2063%2000%20-%20Metal%20Framed%20Skylights%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-08-71-00-door-hardware-arc",
+    "section": "08 71 00",
+    "title": "Door Hardware (ARC)",
+    "discipline": "Zone F",
+    "fileName": "Section 08 71 00 - Door Hardware (ARC).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2008%20-%20OPENINGS/Section%2008%2071%2000%20-%20Door%20Hardware%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-08-80-00-glass-and-glazing-fac",
+    "section": "08 80 00",
+    "title": "Glass and Glazing (FAC)",
+    "discipline": "Zone F",
+    "fileName": "Section 08 80 00 - Glass and Glazing (FAC).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2008%20-%20OPENINGS/Section%2008%2080%2000%20-%20Glass%20and%20Glazing%20%28FAC%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-08-81-13-decorative-glass-glazing-arc",
+    "section": "08 81 13",
+    "title": "Decorative Glass Glazing (ARC)",
+    "discipline": "Zone F",
+    "fileName": "Section 08 81 13 - Decorative Glass Glazing (ARC).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2008%20-%20OPENINGS/Section%2008%2081%2013%20-%20Decorative%20Glass%20Glazing%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-08-83-00-mirrored-glass-arc",
+    "section": "08 83 00",
+    "title": "Mirrored Glass (ARC)",
+    "discipline": "Zone F",
+    "fileName": "Section 08 83 00 - Mirrored Glass (ARC).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2008%20-%20OPENINGS/Section%2008%2083%2000%20-%20Mirrored%20Glass%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-08-90-00-aluminum-louvers-arc",
+    "section": "08 90 00",
+    "title": "Aluminum Louvers (ARC)",
+    "discipline": "Zone F",
+    "fileName": "Section 08 90 00 - Aluminum Louvers (ARC).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2008%20-%20OPENINGS/Section%2008%2090%2000%20-%20Aluminum%20Louvers%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-08-91-00-wood-polymer-composites-fac",
+    "section": "08 91 00",
+    "title": "Wood Polymer Composites (FAC)",
+    "discipline": "Zone F",
+    "fileName": "Section 08 91 00 - Wood Polymer Composites (FAC).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2008%20-%20OPENINGS/Section%2008%2091%2000%20-%20Wood%20Polymer%20Composites%20%28FAC%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-09-21-16-gypsum-board-assemblies-arc",
+    "section": "09 21 16",
+    "title": "Gypsum Board Assemblies (ARC)",
+    "discipline": "Zone F",
+    "fileName": "Section 09 21 16 - Gypsum Board Assemblies (ARC).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2009%20-%20FINISHES/Section%2009%2021%2016%20-%20Gypsum%20Board%20Assemblies%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-09-22-16-non-structural-metal-framing-arc",
+    "section": "09 22 16",
+    "title": "Non-Structural Metal Framing (ARC)",
+    "discipline": "Zone F",
+    "fileName": "Section 09 22 16 - Non-Structural Metal Framing (ARC).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2009%20-%20FINISHES/Section%2009%2022%2016%20-%20Non-Structural%20Metal%20Framing%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-09-24-00-cement-plastering-arc",
+    "section": "09 24 00",
+    "title": "Cement Plastering (ARC)",
+    "discipline": "Zone F",
+    "fileName": "Section 09 24 00 - Cement Plastering (ARC).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2009%20-%20FINISHES/Section%2009%2024%2000%20-%20Cement%20Plastering%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-09-25-13-spray-plastering-arc",
+    "section": "09 25 13",
+    "title": "Spray Plastering (ARC)",
+    "discipline": "Zone F",
+    "fileName": "Section 09 25 13 - Spray Plastering (ARC).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2009%20-%20FINISHES/Section%2009%2025%2013%20-%20Spray%20Plastering%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-09-30-00-landscape-tiling-lsc",
+    "section": "09 30 00",
+    "title": "Landscape Tiling (LSC)",
+    "discipline": "Zone F",
+    "fileName": "Section 09 30 00 - Landscape Tiling (LSC).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2009%20-%20FINISHES/Section%2009%2030%2000%20-%20Landscape%20Tiling%20%28LSC%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-09-30-33-stone-tiling-arc",
+    "section": "09 30 33",
+    "title": "Stone Tiling (ARC)",
+    "discipline": "Zone F",
+    "fileName": "Section 09 30 33 - Stone Tiling (ARC).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2009%20-%20FINISHES/Section%2009%2030%2033%20-%20Stone%20Tiling%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-09-31-50-porcelain-tile-arc",
+    "section": "09 31 50",
+    "title": "Porcelain Tile (ARC)",
+    "discipline": "Zone F",
+    "fileName": "Section 09 31 50 - Porcelain Tile (ARC).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2009%20-%20FINISHES/Section%2009%2031%2050%20-%20Porcelain%20Tile%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-09-63-40-stone-flooring-lsc",
+    "section": "09 63 40",
+    "title": "Stone Flooring (LSC)",
+    "discipline": "Zone F",
+    "fileName": "Section 09 63 40 - Stone Flooring (LSC).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2009%20-%20FINISHES/Section%2009%2063%2040%20-%20Stone%20Flooring%20%28LSC%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-09-67-23-resinous-flooring-arc",
+    "section": "09 67 23",
+    "title": "Resinous Flooring (ARC)",
+    "discipline": "Zone F",
+    "fileName": "Section 09 67 23 - Resinous Flooring (ARC).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2009%20-%20FINISHES/Section%2009%2067%2023%20-%20Resinous%20Flooring%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-09-91-13-exterior-painting-arc",
+    "section": "09 91 13",
+    "title": "Exterior Painting (ARC)",
+    "discipline": "Zone F",
+    "fileName": "Section 09 91 13 - Exterior Painting (ARC).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2009%20-%20FINISHES/Section%2009%2091%2013%20-%20Exterior%20Painting%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-09-91-13-exterior-painting-lsc",
+    "section": "09 91 13",
+    "title": "Exterior Painting (LSC)",
+    "discipline": "Zone F",
+    "fileName": "Section 09 91 13 - Exterior Painting (LSC).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2009%20-%20FINISHES/Section%2009%2091%2013%20-%20Exterior%20Painting%20%28LSC%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-09-91-23-interior-painting-arc",
+    "section": "09 91 23",
+    "title": "Interior Painting (ARC)",
+    "discipline": "Zone F",
+    "fileName": "Section 09 91 23 - Interior Painting (ARC).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2009%20-%20FINISHES/Section%2009%2091%2023%20-%20Interior%20Painting%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-09-96-10-high-performance-coatings-str",
+    "section": "09 96 10",
+    "title": "High Performance Coatings (STR)",
+    "discipline": "Zone F",
+    "fileName": "Section 09 96 10 - High Performance Coatings (STR).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2009%20-%20FINISHES/Section%2009%2096%2010%20-%20High%20Performance%20Coatings%20%28STR%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-10-28-00-toilet-bath-and-laundry-accessories-arc",
+    "section": "10 28 00",
+    "title": "Toilet, Bath and Laundry Accessories (ARC)",
+    "discipline": "Zone F",
+    "fileName": "Section 10 28 00 - Toilet, Bath and Laundry Accessories (ARC).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2010%20-%20SPECIALTIES/Section%2010%2028%2000%20-%20Toilet%2C%20Bath%20and%20Laundry%20Accessories%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-11-30-13-residential-appliances-arc",
+    "section": "11 30 13",
+    "title": "Residential Appliances (ARC)",
+    "discipline": "Zone F",
+    "fileName": "Section 11 30 13 - Residential Appliances (ARC).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2011%20-%20EQUIPMENT/Section%2011%2030%2013%20-%20Residential%20Appliances%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-11-81-23-fa-ade-access-and-maintenance-equipment-fac",
+    "section": "11 81 23",
+    "title": "Façade Access and Maintenance Equipment (FAC)",
+    "discipline": "Zone F",
+    "fileName": "Section 11 81 23 - Façade Access and Maintenance Equipment (FAC).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2011%20-%20EQUIPMENT/Section%2011%2081%2023%20-%20Fa%C3%A7ade%20Access%20and%20Maintenance%20Equipment%20%28FAC%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-11-81-29-facility-fall-protection-arc",
+    "section": "11 81 29",
+    "title": "Facility Fall Protection (ARC)",
+    "discipline": "Zone F",
+    "fileName": "Section 11 81 29 - Facility Fall Protection (ARC).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2011%20-%20EQUIPMENT/Section%2011%2081%2029%20-%20Facility%20Fall%20Protection%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-12-36-40-stone-countertops-arc",
+    "section": "12 36 40",
+    "title": "Stone Countertops (ARC)",
+    "discipline": "Zone F",
+    "fileName": "Section 12 36 40 - Stone Countertops (ARC).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2012%20-%20FURNISHINGS/Section%2012%2036%2040%20-%20Stone%20Countertops%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-12-36-61-19-quartz-agglomerate-countertops-arc",
+    "section": "12 36 61",
+    "title": ".19 - Quartz Agglomerate Countertops (ARC)",
+    "discipline": "Zone F",
+    "fileName": "Section 12 36 61.19 - Quartz Agglomerate Countertops (ARC).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2012%20-%20FURNISHINGS/Section%2012%2036%2061.19%20-%20Quartz%20Agglomerate%20Countertops%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-12-36-63-ultracompact-surfacing-countertops-arc",
+    "section": "12 36 63",
+    "title": "Ultracompact Surfacing Countertops (ARC)",
+    "discipline": "Zone F",
+    "fileName": "Section 12 36 63 - Ultracompact Surfacing Countertops (ARC).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2012%20-%20FURNISHINGS/Section%2012%2036%2063%20-%20Ultracompact%20Surfacing%20Countertops%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-12-93-23-trash-and-litter-receptors-arc",
+    "section": "12 93 23",
+    "title": "Trash and Litter Receptors (ARC)",
+    "discipline": "Zone F",
+    "fileName": "Section 12 93 23 - Trash and Litter Receptors (ARC).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2012%20-%20FURNISHINGS/Section%2012%2093%2023%20-%20Trash%20and%20Litter%20Receptors%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-14-21-23-16-vertical-transportation-l3-signature-villas-vtr",
+    "section": "14 21 23",
+    "title": ".16 - Vertical Transportation - Type C Villas (VTR)",
+    "discipline": "Zone F",
+    "fileName": "Section 14 21 23.16 - Vertical Transportation - Type C Villas (VTR).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2014%20-%20CONVEYING%20EQUIPMENT/Section%2014%2021%2023.16%20-%20Vertical%20Transportation%20-%20L3%20Signature%20Villas%20%28VTR%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-14-21-23-16-vertical-transportation-l4-beach-villas-vtr",
+    "section": "14 21 23",
+    "title": ".16 - Vertical Transportation - Type D Villas (VTR)",
+    "discipline": "Zone F",
+    "fileName": "Section 14 21 23.16 - Vertical Transportation - Type D Villas (VTR).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2014%20-%20CONVEYING%20EQUIPMENT/Section%2014%2021%2023.16%20-%20Vertical%20Transportation%20-%20L4%20Beach%20Villas%20%28VTR%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-22-41-00-residential-plumbing-fixture-arc",
+    "section": "22 41 00",
+    "title": "Residential Plumbing Fixture (ARC)",
+    "discipline": "Zone F",
+    "fileName": "Section 22 41 00 - Residential Plumbing Fixture (ARC).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2022%20-%20PLUMBING/Section%2022%2041%2000%20-%20Residential%20Plumbing%20Fixture%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-mec-01-general-requirements-mec",
+    "section": null,
+    "title": "Section MEC-01 - General Requirements (MEC)",
+    "discipline": "Zone F",
+    "fileName": "Section MEC-01 - General Requirements (MEC).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2023%20-%20MECHANICAL%20SERVICES/Section%20MEC-01%20-%20General%20Requirements%20%28MEC%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-mec-02-insulation-mec",
+    "section": null,
+    "title": "Section MEC-02 - Insulation (MEC)",
+    "discipline": "Zone F",
+    "fileName": "Section MEC-02 - Insulation (MEC).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2023%20-%20MECHANICAL%20SERVICES/Section%20MEC-02%20-%20Insulation%20%28MEC%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-mec-03-plumbing-works-mec",
+    "section": null,
+    "title": "Section MEC-03 - Plumbing Works (MEC)",
+    "discipline": "Zone F",
+    "fileName": "Section MEC-03 - Plumbing Works (MEC).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2023%20-%20MECHANICAL%20SERVICES/Section%20MEC-03%20-%20Plumbing%20Works%20%28MEC%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-mec-04-soil-waste-vent-storm-water-systems-mec",
+    "section": null,
+    "title": "Section MEC-04 - Soil, Waste, Vent & Storm Water Systems (MEC)",
+    "discipline": "Zone F",
+    "fileName": "Section MEC-04 - Soil, Waste, Vent & Storm Water Systems (MEC).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2023%20-%20MECHANICAL%20SERVICES/Section%20MEC-04%20-%20Soil%2C%20Waste%2C%20Vent%20%26%20Storm%20Water%20Systems%20%28MEC%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-mec-05-fire-fighting-system-mec",
+    "section": null,
+    "title": "Section MEC-05 - Fire Fighting System (MEC)",
+    "discipline": "Zone F",
+    "fileName": "Section MEC-05 - Fire Fighting System (MEC).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2023%20-%20MECHANICAL%20SERVICES/Section%20MEC-05%20-%20Fire%20Fighting%20System%20%28MEC%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-mec-06-air-conditioning-and-ventilation-works-mec",
+    "section": null,
+    "title": "Section MEC-06 - Air Conditioning and Ventilation Works (MEC)",
+    "discipline": "Zone F",
+    "fileName": "Section MEC-06 - Air Conditioning and Ventilation Works (MEC).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2023%20-%20MECHANICAL%20SERVICES/Section%20MEC-06%20-%20Air%20Conditioning%20and%20Ventilation%20Works%20%28MEC%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-mec-07-ductwork-and-airside-equipment-mec",
+    "section": null,
+    "title": "Section MEC-07 - Ductwork and Airside Equipment (MEC)",
+    "discipline": "Zone F",
+    "fileName": "Section MEC-07 - Ductwork and Airside Equipment (MEC).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2023%20-%20MECHANICAL%20SERVICES/Section%20MEC-07%20-%20Ductwork%20and%20Airside%20Equipment%20%28MEC%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-mec-08-lpg-system-mec",
+    "section": null,
+    "title": "Section MEC-08 - LPG System (MEC)",
+    "discipline": "Zone F",
+    "fileName": "Section MEC-08 - LPG System (MEC).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2023%20-%20MECHANICAL%20SERVICES/Section%20MEC-08%20-%20LPG%20System%20%28MEC%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-mec-09-domestic-hot-water-heat-pump-mec",
+    "section": null,
+    "title": "Section MEC-09 - Domestic Hot Water Heat Pump (MEC)",
+    "discipline": "Zone F",
+    "fileName": "Section MEC-09 - Domestic Hot Water Heat Pump (MEC).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2023%20-%20MECHANICAL%20SERVICES/Section%20MEC-09%20-%20Domestic%20Hot%20Water%20Heat%20Pump%20%28MEC%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-26-05-00-common-work-result-for-electrical-ele",
+    "section": "26 05 00",
+    "title": "Common Work Result for Electrical (ELE)",
+    "discipline": "Zone F",
+    "fileName": "Section 26 05 00 - Common Work Result for Electrical (ELE).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2026%20-%20ELECTRICAL/Section%2026%2005%2000%20-%20Common%20Work%20Result%20for%20Electrical%20%28ELE%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-26-05-19-cables-wires-ele",
+    "section": "26 05 19",
+    "title": "Cables & Wires (ELE)",
+    "discipline": "Zone F",
+    "fileName": "Section 26 05 19 - Cables & Wires (ELE).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2026%20-%20ELECTRICAL/Section%2026%2005%2019%20-%20Cables%20%26%20Wires%20%28ELE%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-26-05-26-earthing-system-ele",
+    "section": "26 05 26",
+    "title": "Earthing System (ELE)",
+    "discipline": "Zone F",
+    "fileName": "Section 26 05 26 - Earthing System (ELE).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2026%20-%20ELECTRICAL/Section%2026%2005%2026%20-%20Earthing%20System%20%28ELE%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-26-05-33-cable-management-system-ele",
+    "section": "26 05 33",
+    "title": "Cable Management System (ELE)",
+    "discipline": "Zone F",
+    "fileName": "Section 26 05 33 - Cable Management System (ELE).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2026%20-%20ELECTRICAL/Section%2026%2005%2033%20-%20Cable%20Management%20System%20%28ELE%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-26-05-43-manholes-and-trenches-ele",
+    "section": "26 05 43",
+    "title": "Manholes and Trenches (ELE)",
+    "discipline": "Zone F",
+    "fileName": "Section 26 05 43 - Manholes and Trenches (ELE).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2026%20-%20ELECTRICAL/Section%2026%2005%2043%20-%20Manholes%20and%20Trenches%20%28ELE%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-26-05-53-identifications-for-electrical-system-ele",
+    "section": "26 05 53",
+    "title": "Identifications for Electrical System (ELE)",
+    "discipline": "Zone F",
+    "fileName": "Section 26 05 53 - Identifications for Electrical System (ELE).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2026%20-%20ELECTRICAL/Section%2026%2005%2053%20-%20Identifications%20for%20Electrical%20System%20%28ELE%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-26-09-23-lighting-control-ele",
+    "section": "26 09 23",
+    "title": "Lighting Control (ELE)",
+    "discipline": "Zone F",
+    "fileName": "Section 26 09 23 - Lighting Control (ELE).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2026%20-%20ELECTRICAL/Section%2026%2009%2023%20-%20Lighting%20Control%20%28ELE%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-26-24-00-low-voltage-distribution-ele",
+    "section": "26 24 00",
+    "title": "Low Voltage Distribution (ELE)",
+    "discipline": "Zone F",
+    "fileName": "Section 26 24 00 - Low Voltage Distribution (ELE).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2026%20-%20ELECTRICAL/Section%2026%2024%2000%20-%20Low%20Voltage%20Distribution%20%28ELE%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-26-27-26-wiring-accessories-ele",
+    "section": "26 27 26",
+    "title": "Wiring Accessories (ELE)",
+    "discipline": "Zone F",
+    "fileName": "Section 26 27 26 - Wiring Accessories (ELE).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2026%20-%20ELECTRICAL/Section%2026%2027%2026%20-%20Wiring%20Accessories%20%28ELE%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-26-51-00-lighting-ele",
+    "section": "26 51 00",
+    "title": "Lighting (ELE)",
+    "discipline": "Zone F",
+    "fileName": "Section 26 51 00 - Lighting (ELE).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2026%20-%20ELECTRICAL/Section%2026%2051%2000%20-%20Lighting%20%28ELE%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-27-10-00-telephone-data-cabling-ele",
+    "section": "27 10 00",
+    "title": "Telephone & Data Cabling (ELE)",
+    "discipline": "Zone F",
+    "fileName": "Section 27 10 00 - Telephone & Data Cabling (ELE).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2027%20-%20COMMUNICATIONS/Section%2027%2010%2000%20-%20Telephone%20%26%20Data%20Cabling%20%28ELE%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-28-15-23-intercomsystem-ele",
+    "section": "28 15 23",
+    "title": "Intercomsystem (ELE)",
+    "discipline": "Zone F",
+    "fileName": "Section 28 15 23 - Intercomsystem (ELE).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2028%20-%20ELECTRONIC%20SAFETY%20AND%20SECURITY/Section%2028%2015%2023%20-%20Intercomsystem%20%28ELE%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-31-20-00-landscape-excavation-and-earthworks-lsc",
+    "section": "31 20 00",
+    "title": "Landscape Excavation and Earthworks (LSC)",
+    "discipline": "Zone F",
+    "fileName": "Section 31 20 00 - Landscape Excavation and Earthworks (LSC).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2031%20-%20EARTHWORK/Section%2031%2020%2000%20-%20Landscape%20Excavation%20and%20Earthworks%20%28LSC%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-31-22-20-earthworks-str",
+    "section": "31 22 20",
+    "title": "Earthworks (STR)",
+    "discipline": "Zone F",
+    "fileName": "Section 31 22 20 - Earthworks (STR).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2031%20-%20EARTHWORK/Section%2031%2022%2020%20-%20Earthworks%20%28STR%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-31-23-19-dewatering-str",
+    "section": "31 23 19",
+    "title": "Dewatering (STR)",
+    "discipline": "Zone F",
+    "fileName": "Section 31 23 19 - Dewatering (STR).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2031%20-%20EARTHWORK/Section%2031%2023%2019%20-%20Dewatering%20%28STR%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-31-31-00-soil-treatment-str",
+    "section": "31 31 00",
+    "title": "Soil Treatment (STR)",
+    "discipline": "Zone F",
+    "fileName": "Section 31 31 00 - Soil Treatment (STR).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2031%20-%20EARTHWORK/Section%2031%2031%2000%20-%20Soil%20Treatment%20%28STR%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-31-50-00-excavation-support-and-protection-str",
+    "section": "31 50 00",
+    "title": "Excavation Support and Protection (STR)",
+    "discipline": "Zone F",
+    "fileName": "Section 31 50 00 - Excavation Support and Protection (STR).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2031%20-%20EARTHWORK/Section%2031%2050%2000%20-%20Excavation%20Support%20and%20Protection%20%28STR%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-32-14-00-unit-paving-arc",
+    "section": "32 14 00",
+    "title": "Unit Paving (ARC)",
+    "discipline": "Zone F",
+    "fileName": "Section 32 14 00 - Unit Paving (ARC).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2032%20-%20EXTERIOR%20IMPROVEMENTS/Section%2032%2014%2000%20-%20Unit%20Paving%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-32-14-13-concrete-unit-paving-lsc",
+    "section": "32 14 13",
+    "title": "Concrete Unit Paving (LSC)",
+    "discipline": "Zone F",
+    "fileName": "Section 32 14 13 - Concrete Unit Paving (LSC).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2032%20-%20EXTERIOR%20IMPROVEMENTS/Section%2032%2014%2013%20-%20Concrete%20Unit%20Paving%20%28LSC%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-32-15-00-aggregate-surfacing-lsc",
+    "section": "32 15 00",
+    "title": "Aggregate Surfacing (LSC)",
+    "discipline": "Zone F",
+    "fileName": "Section 32 15 00 - Aggregate Surfacing (LSC).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/DIVISION%2032%20-%20EXTERIOR%20IMPROVEMENTS/Section%2032%2015%2000%20-%20Aggregate%20Surfacing%20%28LSC%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-appendix-a-erosion-sedimentation-control-esc-plan-l3-signature-villas-sus",
+    "section": null,
+    "title": "Appendix A - Erosion & Sedimentation Control (ESC) Plan - Type C Villas (SUS)",
+    "discipline": "Zone F",
+    "fileName": "Appendix A - Erosion & Sedimentation Control (ESC) Plan - Type C Villas (SUS).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/_APPENDICES/Appendix%20A%20-%20Erosion%20%26%20Sedimentation%20Control%20%28ESC%29%20Plan%20-%20L3%20Signature%20Villas%20%28SUS%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-appendix-a-erosion-sedimentation-control-esc-plan-l4-beach-villas-sus",
+    "section": null,
+    "title": "Appendix A - Erosion & Sedimentation Control (ESC) Plan - Type D Villas (SUS)",
+    "discipline": "Zone F",
+    "fileName": "Appendix A - Erosion & Sedimentation Control (ESC) Plan - Type D Villas (SUS).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/_APPENDICES/Appendix%20A%20-%20Erosion%20%26%20Sedimentation%20Control%20%28ESC%29%20Plan%20-%20L4%20Beach%20Villas%20%28SUS%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-appendix-a-list-of-manufacturers-for-architecural-id-arc",
+    "section": null,
+    "title": "Appendix A - List of Manufacturers for Architecural & ID (ARC)",
+    "discipline": "Zone F",
+    "fileName": "Appendix A - List of Manufacturers for Architecural & ID (ARC).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/_APPENDICES/Appendix%20A%20-%20List%20of%20Manufacturers%20for%20Architecural%20%26%20ID%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-appendix-a-list-of-manufacturers-for-structural-str",
+    "section": null,
+    "title": "Appendix A - List of Manufacturers for Structural (STR)",
+    "discipline": "Zone F",
+    "fileName": "Appendix A - List of Manufacturers for Structural (STR).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/_APPENDICES/Appendix%20A%20-%20List%20of%20Manufacturers%20for%20Structural%20%28STR%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-appendix-a-schedule-of-manufacturers-electrical-ele",
+    "section": null,
+    "title": "Appendix A - Schedule of Manufacturers (Electrical) (ELE)",
+    "discipline": "Zone F",
+    "fileName": "Appendix A - Schedule of Manufacturers (Electrical) (ELE).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/_APPENDICES/Appendix%20A%20-%20Schedule%20of%20Manufacturers%20%28Electrical%29%20%28ELE%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-appendix-a-schedule-of-manufacturers-mec",
+    "section": null,
+    "title": "Appendix A - Schedule of Manufacturers (MEC)",
+    "discipline": "Zone F",
+    "fileName": "Appendix A - Schedule of Manufacturers (MEC).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/_APPENDICES/Appendix%20A%20-%20Schedule%20of%20Manufacturers%20%28MEC%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-appendix-a-schedule-of-manufacturers-for-landscape-lsc",
+    "section": null,
+    "title": "Appendix A - Schedule of Manufacturers for Landscape (LSC)",
+    "discipline": "Zone F",
+    "fileName": "Appendix A - Schedule of Manufacturers for Landscape (LSC).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/_APPENDICES/Appendix%20A%20-%20Schedule%20of%20Manufacturers%20for%20Landscape%20%28LSC%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-appendix-b-construction-waste-management-plan-l3-signature-villas-sus",
+    "section": null,
+    "title": "Appendix B - Construction Waste Management Plan - Type C Villas (SUS)",
+    "discipline": "Zone F",
+    "fileName": "Appendix B - Construction Waste Management Plan - Type C Villas (SUS).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/_APPENDICES/Appendix%20B%20-%20Construction%20Waste%20Management%20Plan%20-%20L3%20Signature%20Villas%20%28SUS%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-appendix-b-construction-waste-management-plan-l4-beach-villas-sus",
+    "section": null,
+    "title": "Appendix B - Construction Waste Management Plan - Type D Villas (SUS)",
+    "discipline": "Zone F",
+    "fileName": "Appendix B - Construction Waste Management Plan - Type D Villas (SUS).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/_APPENDICES/Appendix%20B%20-%20Construction%20Waste%20Management%20Plan%20-%20L4%20Beach%20Villas%20%28SUS%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-appendix-b-list-of-warranties-architectural-and-id-arc",
+    "section": null,
+    "title": "Appendix B - List of Warranties - Architectural and ID (ARC)",
+    "discipline": "Zone F",
+    "fileName": "Appendix B - List of Warranties - Architectural and ID (ARC).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/_APPENDICES/Appendix%20B%20-%20List%20of%20Warranties%20-%20Architectural%20and%20ID%20%28ARC%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-appendix-b-list-of-warranties-structural-str",
+    "section": null,
+    "title": "Appendix B - List of Warranties - Structural (STR)",
+    "discipline": "Zone F",
+    "fileName": "Appendix B - List of Warranties - Structural (STR).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/_APPENDICES/Appendix%20B%20-%20List%20of%20Warranties%20-%20Structural%20%28STR%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-appendix-b-schedule-of-warranties-ele",
+    "section": null,
+    "title": "Appendix B - Schedule of Warranties (ELE)",
+    "discipline": "Zone F",
+    "fileName": "Appendix B - Schedule of Warranties (ELE).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/_APPENDICES/Appendix%20B%20-%20Schedule%20of%20Warranties%20%28ELE%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-appendix-b-schedule-of-warranties-lsc",
+    "section": null,
+    "title": "Appendix B - Schedule of Warranties (LSC)",
+    "discipline": "Zone F",
+    "fileName": "Appendix B - Schedule of Warranties (LSC).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/_APPENDICES/Appendix%20B%20-%20Schedule%20of%20Warranties%20%28LSC%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-appendix-c-indoor-air-quality-iaq-plan-during-construction-l3-signature-villas-sus",
+    "section": null,
+    "title": "Appendix C - Indoor Air Quality (IAQ) Plan - During Construction - Type C Villas (SUS)",
+    "discipline": "Zone F",
+    "fileName": "Appendix C - Indoor Air Quality (IAQ) Plan - During Construction - Type C Villas (SUS).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/_APPENDICES/Appendix%20C%20-%20Indoor%20Air%20Quality%20%28IAQ%29%20Plan%20-%20During%20Construction%20-%20L3%20Signature%20Villas%20%28SUS%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-appendix-c-indoor-air-quality-iaq-plan-during-construction-l4-beach-villas-sus",
+    "section": null,
+    "title": "Appendix C - Indoor Air Quality (IAQ) Plan - During Construction - Type D Villas (SUS)",
+    "discipline": "Zone F",
+    "fileName": "Appendix C - Indoor Air Quality (IAQ) Plan - During Construction - Type D Villas (SUS).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/_APPENDICES/Appendix%20C%20-%20Indoor%20Air%20Quality%20%28IAQ%29%20Plan%20-%20During%20Construction%20-%20L4%20Beach%20Villas%20%28SUS%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-appendix-c-schedule-of-spare-parts-list-ele",
+    "section": null,
+    "title": "Appendix C - Schedule of Spare Parts List (ELE)",
+    "discipline": "Zone F",
+    "fileName": "Appendix C - Schedule of Spare Parts List (ELE).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/_APPENDICES/Appendix%20C%20-%20Schedule%20of%20Spare%20Parts%20List%20%28ELE%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-appendix-a-employer-s-offices-and-facilities-gen",
+    "section": null,
+    "title": "Appendix A - Employer's Offices and Facilities (GEN)",
+    "discipline": "Zone F",
+    "fileName": "Appendix A - Employer's Offices and Facilities (GEN).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/_DIV%2001%20GENERAL%20REQUIREMENTS%20%28Zones%20A-D%20-%20scope%20to%20confirm%29/Appendix%20A%20-%20Employer%27s%20Offices%20and%20Facilities%20%28GEN%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-gen-div-01-general-requirements-turner-sopr-front-matter-index",
+    "section": null,
+    "title": "GEN - Div 01 General Requirements (Turner SOPR) - Front Matter & Index",
+    "discipline": "Zone F",
+    "fileName": "GEN - Div 01 General Requirements (Turner SOPR) - Front Matter & Index.pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/_DIV%2001%20GENERAL%20REQUIREMENTS%20%28Zones%20A-D%20-%20scope%20to%20confirm%29/GEN%20-%20Div%2001%20General%20Requirements%20%28Turner%20SOPR%29%20-%20Front%20Matter%20%26%20Index.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-01-11-00-summary-of-works-gen",
+    "section": "01 11 00",
+    "title": "Summary of Works (GEN)",
+    "discipline": "Zone F",
+    "fileName": "Section 01 11 00 - Summary of Works (GEN).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/_DIV%2001%20GENERAL%20REQUIREMENTS%20%28Zones%20A-D%20-%20scope%20to%20confirm%29/Section%2001%2011%2000%20-%20Summary%20of%20Works%20%28GEN%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-01-14-00-work-restriction-gen",
+    "section": "01 14 00",
+    "title": "Work Restriction (GEN)",
+    "discipline": "Zone F",
+    "fileName": "Section 01 14 00 - Work Restriction (GEN).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/_DIV%2001%20GENERAL%20REQUIREMENTS%20%28Zones%20A-D%20-%20scope%20to%20confirm%29/Section%2001%2014%2000%20-%20Work%20Restriction%20%28GEN%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-01-18-00-project-utility-sources-gen",
+    "section": "01 18 00",
+    "title": "Project Utility Sources (GEN)",
+    "discipline": "Zone F",
+    "fileName": "Section 01 18 00 - Project Utility Sources (GEN).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/_DIV%2001%20GENERAL%20REQUIREMENTS%20%28Zones%20A-D%20-%20scope%20to%20confirm%29/Section%2001%2018%2000%20-%20Project%20Utility%20Sources%20%28GEN%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-01-20-00-price-and-payment-procedures-gen",
+    "section": "01 20 00",
+    "title": "Price and Payment Procedures (GEN)",
+    "discipline": "Zone F",
+    "fileName": "Section 01 20 00 - Price and Payment Procedures (GEN).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/_DIV%2001%20GENERAL%20REQUIREMENTS%20%28Zones%20A-D%20-%20scope%20to%20confirm%29/Section%2001%2020%2000%20-%20Price%20and%20Payment%20Procedures%20%28GEN%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-01-23-00-alternates-gen",
+    "section": "01 23 00",
+    "title": "Alternates (GEN)",
+    "discipline": "Zone F",
+    "fileName": "Section 01 23 00 - Alternates (GEN).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/_DIV%2001%20GENERAL%20REQUIREMENTS%20%28Zones%20A-D%20-%20scope%20to%20confirm%29/Section%2001%2023%2000%20-%20Alternates%20%28GEN%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-01-30-00-administrative-requirements-gen",
+    "section": "01 30 00",
+    "title": "Administrative Requirements (GEN)",
+    "discipline": "Zone F",
+    "fileName": "Section 01 30 00 - Administrative Requirements (GEN).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/_DIV%2001%20GENERAL%20REQUIREMENTS%20%28Zones%20A-D%20-%20scope%20to%20confirm%29/Section%2001%2030%2000%20-%20Administrative%20Requirements%20%28GEN%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-01-31-00-project-management-and-coordination-gen",
+    "section": "01 31 00",
+    "title": "Project Management and Coordination (GEN)",
+    "discipline": "Zone F",
+    "fileName": "Section 01 31 00 - Project Management and Coordination (GEN).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/_DIV%2001%20GENERAL%20REQUIREMENTS%20%28Zones%20A-D%20-%20scope%20to%20confirm%29/Section%2001%2031%2000%20-%20Project%20Management%20and%20Coordination%20%28GEN%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-01-32-00-construction-progress-documentation-gen",
+    "section": "01 32 00",
+    "title": "Construction Progress Documentation (GEN)",
+    "discipline": "Zone F",
+    "fileName": "Section 01 32 00 - Construction Progress Documentation (GEN).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/_DIV%2001%20GENERAL%20REQUIREMENTS%20%28Zones%20A-D%20-%20scope%20to%20confirm%29/Section%2001%2032%2000%20-%20Construction%20Progress%20Documentation%20%28GEN%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-01-33-00-submittal-procedures-gen",
+    "section": "01 33 00",
+    "title": "Submittal Procedures (GEN)",
+    "discipline": "Zone F",
+    "fileName": "Section 01 33 00 - Submittal Procedures (GEN).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/_DIV%2001%20GENERAL%20REQUIREMENTS%20%28Zones%20A-D%20-%20scope%20to%20confirm%29/Section%2001%2033%2000%20-%20Submittal%20Procedures%20%28GEN%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-01-40-00-quality-requirements-gen",
+    "section": "01 40 00",
+    "title": "Quality Requirements (GEN)",
+    "discipline": "Zone F",
+    "fileName": "Section 01 40 00 - Quality Requirements (GEN).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/_DIV%2001%20GENERAL%20REQUIREMENTS%20%28Zones%20A-D%20-%20scope%20to%20confirm%29/Section%2001%2040%2000%20-%20Quality%20Requirements%20%28GEN%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-01-41-00-regulatory-requirements-gen",
+    "section": "01 41 00",
+    "title": "Regulatory Requirements (GEN)",
+    "discipline": "Zone F",
+    "fileName": "Section 01 41 00 - Regulatory Requirements (GEN).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/_DIV%2001%20GENERAL%20REQUIREMENTS%20%28Zones%20A-D%20-%20scope%20to%20confirm%29/Section%2001%2041%2000%20-%20Regulatory%20Requirements%20%28GEN%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-01-42-00-references-gen",
+    "section": "01 42 00",
+    "title": "References (GEN)",
+    "discipline": "Zone F",
+    "fileName": "Section 01 42 00 - References (GEN).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/_DIV%2001%20GENERAL%20REQUIREMENTS%20%28Zones%20A-D%20-%20scope%20to%20confirm%29/Section%2001%2042%2000%20-%20References%20%28GEN%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-01-43-00-quality-assurance-gen",
+    "section": "01 43 00",
+    "title": "Quality Assurance (GEN)",
+    "discipline": "Zone F",
+    "fileName": "Section 01 43 00 - Quality Assurance (GEN).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/_DIV%2001%20GENERAL%20REQUIREMENTS%20%28Zones%20A-D%20-%20scope%20to%20confirm%29/Section%2001%2043%2000%20-%20Quality%20Assurance%20%28GEN%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-01-45-00-quality-control-gen",
+    "section": "01 45 00",
+    "title": "Quality Control (GEN)",
+    "discipline": "Zone F",
+    "fileName": "Section 01 45 00 - Quality Control (GEN).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/_DIV%2001%20GENERAL%20REQUIREMENTS%20%28Zones%20A-D%20-%20scope%20to%20confirm%29/Section%2001%2045%2000%20-%20Quality%20Control%20%28GEN%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-01-50-00-temporary-facilities-and-control-gen",
+    "section": "01 50 00",
+    "title": "Temporary Facilities and Control (GEN)",
+    "discipline": "Zone F",
+    "fileName": "Section 01 50 00 - Temporary Facilities and Control (GEN).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/_DIV%2001%20GENERAL%20REQUIREMENTS%20%28Zones%20A-D%20-%20scope%20to%20confirm%29/Section%2001%2050%2000%20-%20Temporary%20Facilities%20and%20Control%20%28GEN%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-01-51-00-temporary-utilities-gen",
+    "section": "01 51 00",
+    "title": "Temporary Utilities (GEN)",
+    "discipline": "Zone F",
+    "fileName": "Section 01 51 00 - Temporary Utilities (GEN).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/_DIV%2001%20GENERAL%20REQUIREMENTS%20%28Zones%20A-D%20-%20scope%20to%20confirm%29/Section%2001%2051%2000%20-%20Temporary%20Utilities%20%28GEN%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-01-52-00-construction-facilities-gen",
+    "section": "01 52 00",
+    "title": "Construction Facilities (GEN)",
+    "discipline": "Zone F",
+    "fileName": "Section 01 52 00 - Construction Facilities (GEN).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/_DIV%2001%20GENERAL%20REQUIREMENTS%20%28Zones%20A-D%20-%20scope%20to%20confirm%29/Section%2001%2052%2000%20-%20Construction%20Facilities%20%28GEN%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-01-54-00-construction-aids-gen",
+    "section": "01 54 00",
+    "title": "Construction Aids (GEN)",
+    "discipline": "Zone F",
+    "fileName": "Section 01 54 00 - Construction Aids (GEN).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/_DIV%2001%20GENERAL%20REQUIREMENTS%20%28Zones%20A-D%20-%20scope%20to%20confirm%29/Section%2001%2054%2000%20-%20Construction%20Aids%20%28GEN%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-01-54-23-temporary-scaffolding-platforms-gen",
+    "section": "01 54 23",
+    "title": "Temporary Scaffolding & Platforms (GEN)",
+    "discipline": "Zone F",
+    "fileName": "Section 01 54 23 - Temporary Scaffolding & Platforms (GEN).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/_DIV%2001%20GENERAL%20REQUIREMENTS%20%28Zones%20A-D%20-%20scope%20to%20confirm%29/Section%2001%2054%2023%20-%20Temporary%20Scaffolding%20%26%20Platforms%20%28GEN%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-01-55-00-vehicular-access-and-parking-gen",
+    "section": "01 55 00",
+    "title": "Vehicular Access and Parking (GEN)",
+    "discipline": "Zone F",
+    "fileName": "Section 01 55 00 - Vehicular Access and Parking (GEN).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/_DIV%2001%20GENERAL%20REQUIREMENTS%20%28Zones%20A-D%20-%20scope%20to%20confirm%29/Section%2001%2055%2000%20-%20Vehicular%20Access%20and%20Parking%20%28GEN%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-01-56-00-temporary-barriers-and-security-gen",
+    "section": "01 56 00",
+    "title": "Temporary Barriers and Security (GEN)",
+    "discipline": "Zone F",
+    "fileName": "Section 01 56 00 - Temporary Barriers and Security (GEN).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/_DIV%2001%20GENERAL%20REQUIREMENTS%20%28Zones%20A-D%20-%20scope%20to%20confirm%29/Section%2001%2056%2000%20-%20Temporary%20Barriers%20and%20Security%20%28GEN%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-01-57-00-temporary-controls-gen",
+    "section": "01 57 00",
+    "title": "Temporary Controls (GEN)",
+    "discipline": "Zone F",
+    "fileName": "Section 01 57 00 - Temporary Controls (GEN).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/_DIV%2001%20GENERAL%20REQUIREMENTS%20%28Zones%20A-D%20-%20scope%20to%20confirm%29/Section%2001%2057%2000%20-%20Temporary%20Controls%20%28GEN%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-01-60-00-product-requirements-gen",
+    "section": "01 60 00",
+    "title": "Product Requirements (GEN)",
+    "discipline": "Zone F",
+    "fileName": "Section 01 60 00 - Product Requirements (GEN).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/_DIV%2001%20GENERAL%20REQUIREMENTS%20%28Zones%20A-D%20-%20scope%20to%20confirm%29/Section%2001%2060%2000%20-%20Product%20Requirements%20%28GEN%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-01-61-00-common-product-requirements-gen",
+    "section": "01 61 00",
+    "title": "Common Product Requirements (GEN)",
+    "discipline": "Zone F",
+    "fileName": "Section 01 61 00 - Common Product Requirements (GEN).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/_DIV%2001%20GENERAL%20REQUIREMENTS%20%28Zones%20A-D%20-%20scope%20to%20confirm%29/Section%2001%2061%2000%20-%20Common%20Product%20Requirements%20%28GEN%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-01-65-00-product-delivery-requirements-gen",
+    "section": "01 65 00",
+    "title": "Product Delivery Requirements (GEN)",
+    "discipline": "Zone F",
+    "fileName": "Section 01 65 00 - Product Delivery Requirements (GEN).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/_DIV%2001%20GENERAL%20REQUIREMENTS%20%28Zones%20A-D%20-%20scope%20to%20confirm%29/Section%2001%2065%2000%20-%20Product%20Delivery%20Requirements%20%28GEN%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-01-66-00-product-storage-and-handling-requirements-gen",
+    "section": "01 66 00",
+    "title": "Product Storage and Handling Requirements (GEN)",
+    "discipline": "Zone F",
+    "fileName": "Section 01 66 00 - Product Storage and Handling Requirements (GEN).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/_DIV%2001%20GENERAL%20REQUIREMENTS%20%28Zones%20A-D%20-%20scope%20to%20confirm%29/Section%2001%2066%2000%20-%20Product%20Storage%20and%20Handling%20Requirements%20%28GEN%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-01-70-00-execution-closeout-requirements-gen",
+    "section": "01 70 00",
+    "title": "Execution & Closeout Requirements (GEN)",
+    "discipline": "Zone F",
+    "fileName": "Section 01 70 00 - Execution & Closeout Requirements (GEN).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/_DIV%2001%20GENERAL%20REQUIREMENTS%20%28Zones%20A-D%20-%20scope%20to%20confirm%29/Section%2001%2070%2000%20-%20Execution%20%26%20Closeout%20Requirements%20%28GEN%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-01-72-00-examination-preparation-gen",
+    "section": "01 72 00",
+    "title": "Examination & Preparation (GEN)",
+    "discipline": "Zone F",
+    "fileName": "Section 01 72 00 - Examination & Preparation (GEN).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/_DIV%2001%20GENERAL%20REQUIREMENTS%20%28Zones%20A-D%20-%20scope%20to%20confirm%29/Section%2001%2072%2000%20-%20Examination%20%26%20Preparation%20%28GEN%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-01-73-00-execution-gen",
+    "section": "01 73 00",
+    "title": "Execution (GEN)",
+    "discipline": "Zone F",
+    "fileName": "Section 01 73 00 - Execution (GEN).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/_DIV%2001%20GENERAL%20REQUIREMENTS%20%28Zones%20A-D%20-%20scope%20to%20confirm%29/Section%2001%2073%2000%20-%20Execution%20%28GEN%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-01-73-19-health-safety-requirements-gen",
+    "section": "01 73 19",
+    "title": "Health & Safety Requirements (GEN)",
+    "discipline": "Zone F",
+    "fileName": "Section 01 73 19 - Health & Safety Requirements (GEN).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/_DIV%2001%20GENERAL%20REQUIREMENTS%20%28Zones%20A-D%20-%20scope%20to%20confirm%29/Section%2001%2073%2019%20-%20Health%20%26%20Safety%20Requirements%20%28GEN%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-01-74-00-cleaning-waste-management-gen",
+    "section": "01 74 00",
+    "title": "Cleaning & Waste Management (GEN)",
+    "discipline": "Zone F",
+    "fileName": "Section 01 74 00 - Cleaning & Waste Management (GEN).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/_DIV%2001%20GENERAL%20REQUIREMENTS%20%28Zones%20A-D%20-%20scope%20to%20confirm%29/Section%2001%2074%2000%20-%20Cleaning%20%26%20Waste%20Management%20%28GEN%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-01-78-00-closeout-submittals-gen",
+    "section": "01 78 00",
+    "title": "Closeout Submittals (GEN)",
+    "discipline": "Zone F",
+    "fileName": "Section 01 78 00 - Closeout Submittals (GEN).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/_DIV%2001%20GENERAL%20REQUIREMENTS%20%28Zones%20A-D%20-%20scope%20to%20confirm%29/Section%2001%2078%2000%20-%20Closeout%20Submittals%20%28GEN%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-01-78-23-operation-and-maintenance-data-gen",
+    "section": "01 78 23",
+    "title": "Operation and Maintenance Data (GEN)",
+    "discipline": "Zone F",
+    "fileName": "Section 01 78 23 - Operation and Maintenance Data (GEN).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/_DIV%2001%20GENERAL%20REQUIREMENTS%20%28Zones%20A-D%20-%20scope%20to%20confirm%29/Section%2001%2078%2023%20-%20Operation%20and%20Maintenance%20Data%20%28GEN%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-01-79-00-demonstration-training-gen",
+    "section": "01 79 00",
+    "title": "Demonstration & Training (GEN)",
+    "discipline": "Zone F",
+    "fileName": "Section 01 79 00 - Demonstration & Training (GEN).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/_DIV%2001%20GENERAL%20REQUIREMENTS%20%28Zones%20A-D%20-%20scope%20to%20confirm%29/Section%2001%2079%2000%20-%20Demonstration%20%26%20Training%20%28GEN%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-01-80-00-performance-requirements-gen",
+    "section": "01 80 00",
+    "title": "Performance Requirements (GEN)",
+    "discipline": "Zone F",
+    "fileName": "Section 01 80 00 - Performance Requirements (GEN).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/_DIV%2001%20GENERAL%20REQUIREMENTS%20%28Zones%20A-D%20-%20scope%20to%20confirm%29/Section%2001%2080%2000%20-%20Performance%20Requirements%20%28GEN%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-01-81-00-facility-performance-requirements-gen",
+    "section": "01 81 00",
+    "title": "Facility Performance Requirements (GEN)",
+    "discipline": "Zone F",
+    "fileName": "Section 01 81 00 - Facility Performance Requirements (GEN).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/_DIV%2001%20GENERAL%20REQUIREMENTS%20%28Zones%20A-D%20-%20scope%20to%20confirm%29/Section%2001%2081%2000%20-%20Facility%20Performance%20Requirements%20%28GEN%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-01-83-00-to-01-89-00-operation-and-maintenance-of-all-building-systems-gen",
+    "section": "01 83 00",
+    "title": "to 01 89 00 - Operation and Maintenance of All Building Systems (GEN)",
+    "discipline": "Zone F",
+    "fileName": "Section 01 83 00 to 01 89 00 - Operation and Maintenance of All Building Systems (GEN).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/_DIV%2001%20GENERAL%20REQUIREMENTS%20%28Zones%20A-D%20-%20scope%20to%20confirm%29/Section%2001%2083%2000%20to%2001%2089%2000%20-%20Operation%20and%20Maintenance%20of%20All%20Building%20Systems%20%28GEN%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-section-01-93-00-contractor-s-building-information-model-bim-gen",
+    "section": "01 93 00",
+    "title": "Contractor’s Building Information Model (BIM) (GEN)",
+    "discipline": "Zone F",
+    "fileName": "Section 01 93 00 - Contractor’s Building Information Model (BIM) (GEN).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/_DIV%2001%20GENERAL%20REQUIREMENTS%20%28Zones%20A-D%20-%20scope%20to%20confirm%29/Section%2001%2093%2000%20-%20Contractor%E2%80%99s%20Building%20Information%20Model%20%28BIM%29%20%28GEN%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-fixed-finishes-appendix",
+    "section": null,
+    "title": "Fixed Finishes - Appendix",
+    "discipline": "Zone F",
+    "fileName": "Fixed Finishes - Appendix.pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/_FIXED%20FINISHES%20%28ARC%29/By%20Element%20-%20L3%20Signature%20Villas/Fixed%20Finishes%20-%20Appendix.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-fixed-finishes-balustrades-handrails",
+    "section": null,
+    "title": "Fixed Finishes - Balustrades Handrails",
+    "discipline": "Zone F",
+    "fileName": "Fixed Finishes - Balustrades Handrails.pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/_FIXED%20FINISHES%20%28ARC%29/By%20Element%20-%20L3%20Signature%20Villas/Fixed%20Finishes%20-%20Balustrades%20Handrails.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-fixed-finishes-canopies-louvers-sheeting",
+    "section": null,
+    "title": "Fixed Finishes - Canopies & Louvers & Sheeting",
+    "discipline": "Zone F",
+    "fileName": "Fixed Finishes - Canopies & Louvers & Sheeting.pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/_FIXED%20FINISHES%20%28ARC%29/By%20Element%20-%20L3%20Signature%20Villas/Fixed%20Finishes%20-%20Canopies%20%26%20Louvers%20%26%20Sheeting.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-fixed-finishes-ceilings-external-internal-facade-integrated",
+    "section": null,
+    "title": "Fixed Finishes - Ceilings - External, Internal & Facade Integrated",
+    "discipline": "Zone F",
+    "fileName": "Fixed Finishes - Ceilings - External, Internal & Facade Integrated.pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/_FIXED%20FINISHES%20%28ARC%29/By%20Element%20-%20L3%20Signature%20Villas/Fixed%20Finishes%20-%20Ceilings%20-%20External%2C%20Internal%20%26%20Facade%20Integrated.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-fixed-finishes-drywall-internal-wall",
+    "section": null,
+    "title": "Fixed Finishes - Drywall (Internal Wall)",
+    "discipline": "Zone F",
+    "fileName": "Fixed Finishes - Drywall (Internal Wall).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/_FIXED%20FINISHES%20%28ARC%29/By%20Element%20-%20L3%20Signature%20Villas/Fixed%20Finishes%20-%20Drywall%20%28Internal%20Wall%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-fixed-finishes-external-cladding-panelling-facade-features",
+    "section": null,
+    "title": "Fixed Finishes - External Cladding, Panelling & Facade Features",
+    "discipline": "Zone F",
+    "fileName": "Fixed Finishes - External Cladding, Panelling & Facade Features.pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/_FIXED%20FINISHES%20%28ARC%29/By%20Element%20-%20L3%20Signature%20Villas/Fixed%20Finishes%20-%20External%20Cladding%2C%20Panelling%20%26%20Facade%20Features.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-fixed-finishes-external-doors-finishes",
+    "section": null,
+    "title": "Fixed Finishes - External Doors Finishes",
+    "discipline": "Zone F",
+    "fileName": "Fixed Finishes - External Doors Finishes.pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/_FIXED%20FINISHES%20%28ARC%29/By%20Element%20-%20L3%20Signature%20Villas/Fixed%20Finishes%20-%20External%20Doors%20Finishes.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-fixed-finishes-external-floor-finishes",
+    "section": null,
+    "title": "Fixed Finishes - External Floor Finishes",
+    "discipline": "Zone F",
+    "fileName": "Fixed Finishes - External Floor Finishes.pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/_FIXED%20FINISHES%20%28ARC%29/By%20Element%20-%20L3%20Signature%20Villas/Fixed%20Finishes%20-%20External%20Floor%20Finishes.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-fixed-finishes-external-thermal-wall",
+    "section": null,
+    "title": "Fixed Finishes - External Thermal Wall",
+    "discipline": "Zone F",
+    "fileName": "Fixed Finishes - External Thermal Wall.pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/_FIXED%20FINISHES%20%28ARC%29/By%20Element%20-%20L3%20Signature%20Villas/Fixed%20Finishes%20-%20External%20Thermal%20Wall.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-fixed-finishes-external-wall-paints-source-caption-reads-masonry-blockwork",
+    "section": null,
+    "title": "Fixed Finishes - External Wall Paints (source caption reads Masonry Blockwork)",
+    "discipline": "Zone F",
+    "fileName": "Fixed Finishes - External Wall Paints (source caption reads Masonry Blockwork).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/_FIXED%20FINISHES%20%28ARC%29/By%20Element%20-%20L3%20Signature%20Villas/Fixed%20Finishes%20-%20External%20Wall%20Paints%20%28source%20caption%20reads%20Masonry%20Blockwork%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-fixed-finishes-masonry-blockwork",
+    "section": null,
+    "title": "Fixed Finishes - Masonry Blockwork",
+    "discipline": "Zone F",
+    "fileName": "Fixed Finishes - Masonry Blockwork.pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/_FIXED%20FINISHES%20%28ARC%29/By%20Element%20-%20L3%20Signature%20Villas/Fixed%20Finishes%20-%20Masonry%20Blockwork.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-fixed-finishes-steel-ladders-covers",
+    "section": null,
+    "title": "Fixed Finishes - Steel Ladders & Covers",
+    "discipline": "Zone F",
+    "fileName": "Fixed Finishes - Steel Ladders & Covers.pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/_FIXED%20FINISHES%20%28ARC%29/By%20Element%20-%20L3%20Signature%20Villas/Fixed%20Finishes%20-%20Steel%20Ladders%20%26%20Covers.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-fixed-finishes-appendix",
+    "section": null,
+    "title": "Fixed Finishes - Appendix",
+    "discipline": "Zone F",
+    "fileName": "Fixed Finishes - Appendix.pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/_FIXED%20FINISHES%20%28ARC%29/By%20Element%20-%20L4%20Beach%20Villas/Fixed%20Finishes%20-%20Appendix.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-fixed-finishes-balustrades-handrails",
+    "section": null,
+    "title": "Fixed Finishes - Balustrades Handrails",
+    "discipline": "Zone F",
+    "fileName": "Fixed Finishes - Balustrades Handrails.pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/_FIXED%20FINISHES%20%28ARC%29/By%20Element%20-%20L4%20Beach%20Villas/Fixed%20Finishes%20-%20Balustrades%20Handrails.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-fixed-finishes-canopies-louvers-sheeting",
+    "section": null,
+    "title": "Fixed Finishes - Canopies & Louvers & Sheeting",
+    "discipline": "Zone F",
+    "fileName": "Fixed Finishes - Canopies & Louvers & Sheeting.pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/_FIXED%20FINISHES%20%28ARC%29/By%20Element%20-%20L4%20Beach%20Villas/Fixed%20Finishes%20-%20Canopies%20%26%20Louvers%20%26%20Sheeting.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-fixed-finishes-ceilings-external-internal-facade-integrated",
+    "section": null,
+    "title": "Fixed Finishes - Ceilings - External, Internal & Facade Integrated",
+    "discipline": "Zone F",
+    "fileName": "Fixed Finishes - Ceilings - External, Internal & Facade Integrated.pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/_FIXED%20FINISHES%20%28ARC%29/By%20Element%20-%20L4%20Beach%20Villas/Fixed%20Finishes%20-%20Ceilings%20-%20External%2C%20Internal%20%26%20Facade%20Integrated.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-fixed-finishes-drywall-internal-wall",
+    "section": null,
+    "title": "Fixed Finishes - Drywall (Internal Wall)",
+    "discipline": "Zone F",
+    "fileName": "Fixed Finishes - Drywall (Internal Wall).pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/_FIXED%20FINISHES%20%28ARC%29/By%20Element%20-%20L4%20Beach%20Villas/Fixed%20Finishes%20-%20Drywall%20%28Internal%20Wall%29.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-fixed-finishes-external-cladding-panelling-facade-features",
+    "section": null,
+    "title": "Fixed Finishes - External Cladding, Panelling & Facade Features",
+    "discipline": "Zone F",
+    "fileName": "Fixed Finishes - External Cladding, Panelling & Facade Features.pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/_FIXED%20FINISHES%20%28ARC%29/By%20Element%20-%20L4%20Beach%20Villas/Fixed%20Finishes%20-%20External%20Cladding%2C%20Panelling%20%26%20Facade%20Features.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-fixed-finishes-external-doors-finishes",
+    "section": null,
+    "title": "Fixed Finishes - External Doors Finishes",
+    "discipline": "Zone F",
+    "fileName": "Fixed Finishes - External Doors Finishes.pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/_FIXED%20FINISHES%20%28ARC%29/By%20Element%20-%20L4%20Beach%20Villas/Fixed%20Finishes%20-%20External%20Doors%20Finishes.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-fixed-finishes-external-floor-finishes",
+    "section": null,
+    "title": "Fixed Finishes - External Floor Finishes",
+    "discipline": "Zone F",
+    "fileName": "Fixed Finishes - External Floor Finishes.pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/_FIXED%20FINISHES%20%28ARC%29/By%20Element%20-%20L4%20Beach%20Villas/Fixed%20Finishes%20-%20External%20Floor%20Finishes.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-fixed-finishes-external-openings",
+    "section": null,
+    "title": "Fixed Finishes - External Openings",
+    "discipline": "Zone F",
+    "fileName": "Fixed Finishes - External Openings.pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/_FIXED%20FINISHES%20%28ARC%29/By%20Element%20-%20L4%20Beach%20Villas/Fixed%20Finishes%20-%20External%20Openings.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-fixed-finishes-external-thermal-wall",
+    "section": null,
+    "title": "Fixed Finishes - External Thermal Wall",
+    "discipline": "Zone F",
+    "fileName": "Fixed Finishes - External Thermal Wall.pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/_FIXED%20FINISHES%20%28ARC%29/By%20Element%20-%20L4%20Beach%20Villas/Fixed%20Finishes%20-%20External%20Thermal%20Wall.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-fixed-finishes-external-wall-paints",
+    "section": null,
+    "title": "Fixed Finishes - External Wall Paints",
+    "discipline": "Zone F",
+    "fileName": "Fixed Finishes - External Wall Paints.pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/_FIXED%20FINISHES%20%28ARC%29/By%20Element%20-%20L4%20Beach%20Villas/Fixed%20Finishes%20-%20External%20Wall%20Paints.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-fixed-finishes-general-material",
+    "section": null,
+    "title": "Fixed Finishes - General Material",
+    "discipline": "Zone F",
+    "fileName": "Fixed Finishes - General Material.pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/_FIXED%20FINISHES%20%28ARC%29/By%20Element%20-%20L4%20Beach%20Villas/Fixed%20Finishes%20-%20General%20Material.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-fixed-finishes-masonry-blockwork",
+    "section": null,
+    "title": "Fixed Finishes - Masonry Blockwork",
+    "discipline": "Zone F",
+    "fileName": "Fixed Finishes - Masonry Blockwork.pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/_FIXED%20FINISHES%20%28ARC%29/By%20Element%20-%20L4%20Beach%20Villas/Fixed%20Finishes%20-%20Masonry%20Blockwork.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-fixed-finishes-steel-ladders-covers",
+    "section": null,
+    "title": "Fixed Finishes - Steel Ladders & Covers",
+    "discipline": "Zone F",
+    "fileName": "Fixed Finishes - Steel Ladders & Covers.pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/_FIXED%20FINISHES%20%28ARC%29/By%20Element%20-%20L4%20Beach%20Villas/Fixed%20Finishes%20-%20Steel%20Ladders%20%26%20Covers.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-fixed-finishes-specification-l3-signature-villas-complete-book",
+    "section": null,
+    "title": "Fixed Finishes Specification - Type C Villas - COMPLETE BOOK",
+    "discipline": "Zone F",
+    "fileName": "Fixed Finishes Specification - Type C Villas - COMPLETE BOOK.pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/_FIXED%20FINISHES%20%28ARC%29/Fixed%20Finishes%20Specification%20-%20L3%20Signature%20Villas%20-%20COMPLETE%20BOOK.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-fixed-finishes-specification-l4-beach-villas-complete-book",
+    "section": null,
+    "title": "Fixed Finishes Specification - Type D Villas - COMPLETE BOOK",
+    "discipline": "Zone F",
+    "fileName": "Fixed Finishes Specification - Type D Villas - COMPLETE BOOK.pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/_FIXED%20FINISHES%20%28ARC%29/Fixed%20Finishes%20Specification%20-%20L4%20Beach%20Villas%20-%20COMPLETE%20BOOK.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-arc-architectural-id-specification-front-matter-index",
+    "section": null,
+    "title": "ARC - Architectural & ID Specification - Front Matter & Index",
+    "discipline": "Zone F",
+    "fileName": "ARC - Architectural & ID Specification - Front Matter & Index.pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/_FRONT%20MATTER%20%26%20INDEX/ARC%20-%20Architectural%20%26%20ID%20Specification%20-%20Front%20Matter%20%26%20Index.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-ele-electrical-specification-front-matter-index",
+    "section": null,
+    "title": "ELE - Electrical Specification - Front Matter & Index",
+    "discipline": "Zone F",
+    "fileName": "ELE - Electrical Specification - Front Matter & Index.pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/_FRONT%20MATTER%20%26%20INDEX/ELE%20-%20Electrical%20Specification%20-%20Front%20Matter%20%26%20Index.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-fac-facade-performance-specification-front-matter-index",
+    "section": null,
+    "title": "FAC - Facade Performance Specification - Front Matter & Index",
+    "discipline": "Zone F",
+    "fileName": "FAC - Facade Performance Specification - Front Matter & Index.pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/_FRONT%20MATTER%20%26%20INDEX/FAC%20-%20Facade%20Performance%20Specification%20-%20Front%20Matter%20%26%20Index.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-lsc-landscape-specification-front-matter-index",
+    "section": null,
+    "title": "LSC - Landscape Specification - Front Matter & Index",
+    "discipline": "Zone F",
+    "fileName": "LSC - Landscape Specification - Front Matter & Index.pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/_FRONT%20MATTER%20%26%20INDEX/LSC%20-%20Landscape%20Specification%20-%20Front%20Matter%20%26%20Index.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-mec-mechanical-specification-front-matter-index",
+    "section": null,
+    "title": "MEC - Mechanical Specification - Front Matter & Index",
+    "discipline": "Zone F",
+    "fileName": "MEC - Mechanical Specification - Front Matter & Index.pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/_FRONT%20MATTER%20%26%20INDEX/MEC%20-%20Mechanical%20Specification%20-%20Front%20Matter%20%26%20Index.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-str-structural-specification-front-matter-index",
+    "section": null,
+    "title": "STR - Structural Specification - Front Matter & Index",
+    "discipline": "Zone F",
+    "fileName": "STR - Structural Specification - Front Matter & Index.pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/_FRONT%20MATTER%20%26%20INDEX/STR%20-%20Structural%20Specification%20-%20Front%20Matter%20%26%20Index.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-sustainability-specification-l3-signature-villas-front-matter",
+    "section": null,
+    "title": "Sustainability Specification - Type C Villas - Front Matter",
+    "discipline": "Zone F",
+    "fileName": "Sustainability Specification - Type C Villas - Front Matter.pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/_FRONT%20MATTER%20%26%20INDEX/Sustainability%20Specification%20-%20L3%20Signature%20Villas%20-%20Front%20Matter.pdf"
+  },
+  {
+    "id": "spec-5f-zone-f-sustainability-specification-l4-beach-villas-front-matter",
+    "section": null,
+    "title": "Sustainability Specification - Type D Villas - Front Matter",
+    "discipline": "Zone F",
+    "fileName": "Sustainability Specification - Type D Villas - Front Matter.pdf",
+    "publicPath": "/specs/5f.%20Zone%20F/_FRONT%20MATTER%20%26%20INDEX/Sustainability%20Specification%20-%20L4%20Beach%20Villas%20-%20Front%20Matter.pdf"
+  }
+]

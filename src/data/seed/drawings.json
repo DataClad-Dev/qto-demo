@@ -1,0 +1,1568 @@
+[
+  {
+    "id": "dwg-architecture-l00-arc-vc4100",
+    "discipline": "Architecture",
+    "fileName": "L00-ARC-VC4100 - GF Plan.pdf",
+    "sheetCode": "L00-ARC-VC4100",
+    "title": "GF Plan",
+    "revision": null,
+    "publicPath": "/drawings/01%20Architecture/L00-ARC-VC4100%20-%20GF%20Plan.pdf"
+  },
+  {
+    "id": "dwg-architecture-l00-arc-vc4110",
+    "discipline": "Architecture",
+    "fileName": "L00-ARC-VC4110 - RCP GF Plan.pdf",
+    "sheetCode": "L00-ARC-VC4110",
+    "title": "RCP GF Plan",
+    "revision": null,
+    "publicPath": "/drawings/01%20Architecture/L00-ARC-VC4110%20-%20RCP%20GF%20Plan.pdf"
+  },
+  {
+    "id": "dwg-architecture-l00-arc-vc4120",
+    "discipline": "Architecture",
+    "fileName": "L00-ARC-VC4120 - Floor Types GF Plan.pdf",
+    "sheetCode": "L00-ARC-VC4120",
+    "title": "Floor Types GF Plan",
+    "revision": null,
+    "publicPath": "/drawings/01%20Architecture/L00-ARC-VC4120%20-%20Floor%20Types%20GF%20Plan.pdf"
+  },
+  {
+    "id": "dwg-architecture-l00-arc-vc4130",
+    "discipline": "Architecture",
+    "fileName": "L00-ARC-VC4130 - Wall Types GF Plan.pdf",
+    "sheetCode": "L00-ARC-VC4130",
+    "title": "Wall Types GF Plan",
+    "revision": null,
+    "publicPath": "/drawings/01%20Architecture/L00-ARC-VC4130%20-%20Wall%20Types%20GF%20Plan.pdf"
+  },
+  {
+    "id": "dwg-architecture-l01-arc-vc4101",
+    "discipline": "Architecture",
+    "fileName": "L01-ARC-VC4101 - 1F Plan.pdf",
+    "sheetCode": "L01-ARC-VC4101",
+    "title": "1F Plan",
+    "revision": null,
+    "publicPath": "/drawings/01%20Architecture/L01-ARC-VC4101%20-%201F%20Plan.pdf"
+  },
+  {
+    "id": "dwg-architecture-l01-arc-vc4111",
+    "discipline": "Architecture",
+    "fileName": "L01-ARC-VC4111 - RCP 1F Plan.pdf",
+    "sheetCode": "L01-ARC-VC4111",
+    "title": "RCP 1F Plan",
+    "revision": null,
+    "publicPath": "/drawings/01%20Architecture/L01-ARC-VC4111%20-%20RCP%201F%20Plan.pdf"
+  },
+  {
+    "id": "dwg-architecture-l01-arc-vc4121",
+    "discipline": "Architecture",
+    "fileName": "L01-ARC-VC4121 - Floor Types 1F Plan.pdf",
+    "sheetCode": "L01-ARC-VC4121",
+    "title": "Floor Types 1F Plan",
+    "revision": null,
+    "publicPath": "/drawings/01%20Architecture/L01-ARC-VC4121%20-%20Floor%20Types%201F%20Plan.pdf"
+  },
+  {
+    "id": "dwg-architecture-l01-arc-vc4131",
+    "discipline": "Architecture",
+    "fileName": "L01-ARC-VC4131 - Wall Types 1F Plan.pdf",
+    "sheetCode": "L01-ARC-VC4131",
+    "title": "Wall Types 1F Plan",
+    "revision": null,
+    "publicPath": "/drawings/01%20Architecture/L01-ARC-VC4131%20-%20Wall%20Types%201F%20Plan.pdf"
+  },
+  {
+    "id": "dwg-architecture-l02-arc-vc4102",
+    "discipline": "Architecture",
+    "fileName": "L02-ARC-VC4102 - 2F Plan.pdf",
+    "sheetCode": "L02-ARC-VC4102",
+    "title": "2F Plan",
+    "revision": null,
+    "publicPath": "/drawings/01%20Architecture/L02-ARC-VC4102%20-%202F%20Plan.pdf"
+  },
+  {
+    "id": "dwg-architecture-l02-arc-vc4112",
+    "discipline": "Architecture",
+    "fileName": "L02-ARC-VC4112 - RCP 2F Plan.pdf",
+    "sheetCode": "L02-ARC-VC4112",
+    "title": "RCP 2F Plan",
+    "revision": null,
+    "publicPath": "/drawings/01%20Architecture/L02-ARC-VC4112%20-%20RCP%202F%20Plan.pdf"
+  },
+  {
+    "id": "dwg-architecture-l02-arc-vc4122",
+    "discipline": "Architecture",
+    "fileName": "L02-ARC-VC4122 - Floor Types 2F Plan.pdf",
+    "sheetCode": "L02-ARC-VC4122",
+    "title": "Floor Types 2F Plan",
+    "revision": null,
+    "publicPath": "/drawings/01%20Architecture/L02-ARC-VC4122%20-%20Floor%20Types%202F%20Plan.pdf"
+  },
+  {
+    "id": "dwg-architecture-l02-arc-vc4132",
+    "discipline": "Architecture",
+    "fileName": "L02-ARC-VC4132 - Wall Types 2F Plan.pdf",
+    "sheetCode": "L02-ARC-VC4132",
+    "title": "Wall Types 2F Plan",
+    "revision": null,
+    "publicPath": "/drawings/01%20Architecture/L02-ARC-VC4132%20-%20Wall%20Types%202F%20Plan.pdf"
+  },
+  {
+    "id": "dwg-architecture-tor-arc-vc4103",
+    "discipline": "Architecture",
+    "fileName": "TOR-ARC-VC4103 - TOP Of Roof Plan.pdf",
+    "sheetCode": "TOR-ARC-VC4103",
+    "title": "TOP Of Roof Plan",
+    "revision": null,
+    "publicPath": "/drawings/01%20Architecture/TOR-ARC-VC4103%20-%20TOP%20Of%20Roof%20Plan.pdf"
+  },
+  {
+    "id": "dwg-architecture-tor-arc-vc4123",
+    "discipline": "Architecture",
+    "fileName": "TOR-ARC-VC4123 - Floor Types Roof Plan.pdf",
+    "sheetCode": "TOR-ARC-VC4123",
+    "title": "Floor Types Roof Plan",
+    "revision": null,
+    "publicPath": "/drawings/01%20Architecture/TOR-ARC-VC4123%20-%20Floor%20Types%20Roof%20Plan.pdf"
+  },
+  {
+    "id": "dwg-architecture-zzz-arc-vc4000",
+    "discipline": "Architecture",
+    "fileName": "ZZZ-ARC-VC4000 - Cover Page.pdf",
+    "sheetCode": "ZZZ-ARC-VC4000",
+    "title": "Cover Page",
+    "revision": null,
+    "publicPath": "/drawings/01%20Architecture/ZZZ-ARC-VC4000%20-%20Cover%20Page.pdf"
+  },
+  {
+    "id": "dwg-architecture-zzz-arc-vc4001",
+    "discipline": "Architecture",
+    "fileName": "ZZZ-ARC-VC4001 - Dwg List, Gen Notes _ Symbols & Abbr.pdf",
+    "sheetCode": "ZZZ-ARC-VC4001",
+    "title": "Dwg List, Gen Notes _ Symbols & Abbr",
+    "revision": null,
+    "publicPath": "/drawings/01%20Architecture/ZZZ-ARC-VC4001%20-%20Dwg%20List%2C%20Gen%20Notes%20_%20Symbols%20%26%20Abbr.pdf"
+  },
+  {
+    "id": "dwg-architecture-zzz-arc-vc4020",
+    "discipline": "Architecture",
+    "fileName": "ZZZ-ARC-VC4020 - Areas _ BUA, GFA.pdf",
+    "sheetCode": "ZZZ-ARC-VC4020",
+    "title": "Areas _ BUA, GFA",
+    "revision": null,
+    "publicPath": "/drawings/01%20Architecture/ZZZ-ARC-VC4020%20-%20Areas%20_%20BUA%2C%20GFA.pdf"
+  },
+  {
+    "id": "dwg-architecture-zzz-arc-vc4030",
+    "discipline": "Architecture",
+    "fileName": "ZZZ-ARC-VC4030 - Perspective Views.pdf",
+    "sheetCode": "ZZZ-ARC-VC4030",
+    "title": "Perspective Views",
+    "revision": null,
+    "publicPath": "/drawings/01%20Architecture/ZZZ-ARC-VC4030%20-%20Perspective%20Views.pdf"
+  },
+  {
+    "id": "dwg-architecture-zzz-arc-vc4200",
+    "discipline": "Architecture",
+    "fileName": "ZZZ-ARC-VC4200 - Bldg Elev Sh1.pdf",
+    "sheetCode": "ZZZ-ARC-VC4200",
+    "title": "Bldg Elev Sh1",
+    "revision": null,
+    "publicPath": "/drawings/01%20Architecture/ZZZ-ARC-VC4200%20-%20Bldg%20Elev%20Sh1.pdf"
+  },
+  {
+    "id": "dwg-architecture-zzz-arc-vc4201",
+    "discipline": "Architecture",
+    "fileName": "ZZZ-ARC-VC4201 - Bldg Elev Sh2.pdf",
+    "sheetCode": "ZZZ-ARC-VC4201",
+    "title": "Bldg Elev Sh2",
+    "revision": null,
+    "publicPath": "/drawings/01%20Architecture/ZZZ-ARC-VC4201%20-%20Bldg%20Elev%20Sh2.pdf"
+  },
+  {
+    "id": "dwg-architecture-zzz-arc-vc4210",
+    "discipline": "Architecture",
+    "fileName": "ZZZ-ARC-VC4210 - Cladding Det.pdf",
+    "sheetCode": "ZZZ-ARC-VC4210",
+    "title": "Cladding Det",
+    "revision": null,
+    "publicPath": "/drawings/01%20Architecture/ZZZ-ARC-VC4210%20-%20Cladding%20Det.pdf"
+  },
+  {
+    "id": "dwg-architecture-zzz-arc-vc4300",
+    "discipline": "Architecture",
+    "fileName": "ZZZ-ARC-VC4300 - Building Sections.pdf",
+    "sheetCode": "ZZZ-ARC-VC4300",
+    "title": "Building Sections",
+    "revision": null,
+    "publicPath": "/drawings/01%20Architecture/ZZZ-ARC-VC4300%20-%20Building%20Sections.pdf"
+  },
+  {
+    "id": "dwg-architecture-zzz-arc-vc4400",
+    "discipline": "Architecture",
+    "fileName": "ZZZ-ARC-VC4400 - Wall Sections Sh1.pdf",
+    "sheetCode": "ZZZ-ARC-VC4400",
+    "title": "Wall Sections Sh1",
+    "revision": null,
+    "publicPath": "/drawings/01%20Architecture/ZZZ-ARC-VC4400%20-%20Wall%20Sections%20Sh1.pdf"
+  },
+  {
+    "id": "dwg-architecture-zzz-arc-vc4401",
+    "discipline": "Architecture",
+    "fileName": "ZZZ-ARC-VC4401 - Wall Sections Sh2.pdf",
+    "sheetCode": "ZZZ-ARC-VC4401",
+    "title": "Wall Sections Sh2",
+    "revision": null,
+    "publicPath": "/drawings/01%20Architecture/ZZZ-ARC-VC4401%20-%20Wall%20Sections%20Sh2.pdf"
+  },
+  {
+    "id": "dwg-architecture-zzz-arc-vc4410",
+    "discipline": "Architecture",
+    "fileName": "ZZZ-ARC-VC4410 - Enlarged Stairs.pdf",
+    "sheetCode": "ZZZ-ARC-VC4410",
+    "title": "Enlarged Stairs",
+    "revision": null,
+    "publicPath": "/drawings/01%20Architecture/ZZZ-ARC-VC4410%20-%20Enlarged%20Stairs.pdf"
+  },
+  {
+    "id": "dwg-architecture-zzz-arc-vc4411",
+    "discipline": "Architecture",
+    "fileName": "ZZZ-ARC-VC4411 - Enlarged Lift.pdf",
+    "sheetCode": "ZZZ-ARC-VC4411",
+    "title": "Enlarged Lift",
+    "revision": null,
+    "publicPath": "/drawings/01%20Architecture/ZZZ-ARC-VC4411%20-%20Enlarged%20Lift.pdf"
+  },
+  {
+    "id": "dwg-architecture-zzz-arc-vc4420",
+    "discipline": "Architecture",
+    "fileName": "ZZZ-ARC-VC4420 - Enlarged Utility & Garage Area Sh1.pdf",
+    "sheetCode": "ZZZ-ARC-VC4420",
+    "title": "Enlarged Utility & Garage Area Sh1",
+    "revision": null,
+    "publicPath": "/drawings/01%20Architecture/ZZZ-ARC-VC4420%20-%20Enlarged%20Utility%20%26%20Garage%20Area%20Sh1.pdf"
+  },
+  {
+    "id": "dwg-architecture-zzz-arc-vc4421",
+    "discipline": "Architecture",
+    "fileName": "ZZZ-ARC-VC4421 - Enlarged Utility & Garage Area Sh2.pdf",
+    "sheetCode": "ZZZ-ARC-VC4421",
+    "title": "Enlarged Utility & Garage Area Sh2",
+    "revision": null,
+    "publicPath": "/drawings/01%20Architecture/ZZZ-ARC-VC4421%20-%20Enlarged%20Utility%20%26%20Garage%20Area%20Sh2.pdf"
+  },
+  {
+    "id": "dwg-architecture-zzz-arc-vc4430",
+    "discipline": "Architecture",
+    "fileName": "ZZZ-ARC-VC4430 - Enlarged Water Tank & Pump Room.pdf",
+    "sheetCode": "ZZZ-ARC-VC4430",
+    "title": "Enlarged Water Tank & Pump Room",
+    "revision": null,
+    "publicPath": "/drawings/01%20Architecture/ZZZ-ARC-VC4430%20-%20Enlarged%20Water%20Tank%20%26%20Pump%20Room.pdf"
+  },
+  {
+    "id": "dwg-architecture-zzz-arc-vc4440",
+    "discipline": "Architecture",
+    "fileName": "ZZZ-ARC-VC4440 - Boundary Wall Det Sh1.pdf",
+    "sheetCode": "ZZZ-ARC-VC4440",
+    "title": "Boundary Wall Det Sh1",
+    "revision": null,
+    "publicPath": "/drawings/01%20Architecture/ZZZ-ARC-VC4440%20-%20Boundary%20Wall%20Det%20Sh1.pdf"
+  },
+  {
+    "id": "dwg-architecture-zzz-arc-vc4441",
+    "discipline": "Architecture",
+    "fileName": "ZZZ-ARC-VC4441 - Boundary Wall Det Sh2.pdf",
+    "sheetCode": "ZZZ-ARC-VC4441",
+    "title": "Boundary Wall Det Sh2",
+    "revision": null,
+    "publicPath": "/drawings/01%20Architecture/ZZZ-ARC-VC4441%20-%20Boundary%20Wall%20Det%20Sh2.pdf"
+  },
+  {
+    "id": "dwg-architecture-zzz-arc-vc4442",
+    "discipline": "Architecture",
+    "fileName": "ZZZ-ARC-VC4442 - Boundary Wall Det Sh3.pdf",
+    "sheetCode": "ZZZ-ARC-VC4442",
+    "title": "Boundary Wall Det Sh3",
+    "revision": null,
+    "publicPath": "/drawings/01%20Architecture/ZZZ-ARC-VC4442%20-%20Boundary%20Wall%20Det%20Sh3.pdf"
+  },
+  {
+    "id": "dwg-architecture-zzz-arc-vc4500",
+    "discipline": "Architecture",
+    "fileName": "ZZZ-ARC-VC4500 - Enlarged Det Sh1.pdf",
+    "sheetCode": "ZZZ-ARC-VC4500",
+    "title": "Enlarged Det Sh1",
+    "revision": null,
+    "publicPath": "/drawings/01%20Architecture/ZZZ-ARC-VC4500%20-%20Enlarged%20Det%20Sh1.pdf"
+  },
+  {
+    "id": "dwg-architecture-zzz-arc-vc4501",
+    "discipline": "Architecture",
+    "fileName": "ZZZ-ARC-VC4501 - Enlarged Det Sh2.pdf",
+    "sheetCode": "ZZZ-ARC-VC4501",
+    "title": "Enlarged Det Sh2",
+    "revision": null,
+    "publicPath": "/drawings/01%20Architecture/ZZZ-ARC-VC4501%20-%20Enlarged%20Det%20Sh2.pdf"
+  },
+  {
+    "id": "dwg-architecture-zzz-arc-vc4510",
+    "discipline": "Architecture",
+    "fileName": "ZZZ-ARC-VC4510 - Door Det Sh1.pdf",
+    "sheetCode": "ZZZ-ARC-VC4510",
+    "title": "Door Det Sh1",
+    "revision": null,
+    "publicPath": "/drawings/01%20Architecture/ZZZ-ARC-VC4510%20-%20Door%20Det%20Sh1.pdf"
+  },
+  {
+    "id": "dwg-architecture-zzz-arc-vc4511",
+    "discipline": "Architecture",
+    "fileName": "ZZZ-ARC-VC4511 - Door Det Sh2.pdf",
+    "sheetCode": "ZZZ-ARC-VC4511",
+    "title": "Door Det Sh2",
+    "revision": null,
+    "publicPath": "/drawings/01%20Architecture/ZZZ-ARC-VC4511%20-%20Door%20Det%20Sh2.pdf"
+  },
+  {
+    "id": "dwg-architecture-zzz-arc-vc4512",
+    "discipline": "Architecture",
+    "fileName": "ZZZ-ARC-VC4512 - Door Det Sh3.pdf",
+    "sheetCode": "ZZZ-ARC-VC4512",
+    "title": "Door Det Sh3",
+    "revision": null,
+    "publicPath": "/drawings/01%20Architecture/ZZZ-ARC-VC4512%20-%20Door%20Det%20Sh3.pdf"
+  },
+  {
+    "id": "dwg-architecture-zzz-arc-vc4520",
+    "discipline": "Architecture",
+    "fileName": "ZZZ-ARC-VC4520 - Wall Types Det.pdf",
+    "sheetCode": "ZZZ-ARC-VC4520",
+    "title": "Wall Types Det",
+    "revision": null,
+    "publicPath": "/drawings/01%20Architecture/ZZZ-ARC-VC4520%20-%20Wall%20Types%20Det.pdf"
+  },
+  {
+    "id": "dwg-architecture-zzz-arc-vc4530",
+    "discipline": "Architecture",
+    "fileName": "ZZZ-ARC-VC4530 - Floor Types Det.pdf",
+    "sheetCode": "ZZZ-ARC-VC4530",
+    "title": "Floor Types Det",
+    "revision": null,
+    "publicPath": "/drawings/01%20Architecture/ZZZ-ARC-VC4530%20-%20Floor%20Types%20Det.pdf"
+  },
+  {
+    "id": "dwg-architecture-zzz-arc-vc4540",
+    "discipline": "Architecture",
+    "fileName": "ZZZ-ARC-VC4540 - Miscellaneous Det Sh1.pdf",
+    "sheetCode": "ZZZ-ARC-VC4540",
+    "title": "Miscellaneous Det Sh1",
+    "revision": null,
+    "publicPath": "/drawings/01%20Architecture/ZZZ-ARC-VC4540%20-%20Miscellaneous%20Det%20Sh1.pdf"
+  },
+  {
+    "id": "dwg-architecture-zzz-arc-vc4541",
+    "discipline": "Architecture",
+    "fileName": "ZZZ-ARC-VC4541 - Miscellaneous Det Sh2.pdf",
+    "sheetCode": "ZZZ-ARC-VC4541",
+    "title": "Miscellaneous Det Sh2",
+    "revision": null,
+    "publicPath": "/drawings/01%20Architecture/ZZZ-ARC-VC4541%20-%20Miscellaneous%20Det%20Sh2.pdf"
+  },
+  {
+    "id": "dwg-architecture-zzz-arc-vc4542",
+    "discipline": "Architecture",
+    "fileName": "ZZZ-ARC-VC4542 - Miscellaneous Det Sh3.pdf",
+    "sheetCode": "ZZZ-ARC-VC4542",
+    "title": "Miscellaneous Det Sh3",
+    "revision": null,
+    "publicPath": "/drawings/01%20Architecture/ZZZ-ARC-VC4542%20-%20Miscellaneous%20Det%20Sh3.pdf"
+  },
+  {
+    "id": "dwg-architecture-zzz-arc-vc4600",
+    "discipline": "Architecture",
+    "fileName": "ZZZ-ARC-VC4600 - Glazing Sched Sh1.pdf",
+    "sheetCode": "ZZZ-ARC-VC4600",
+    "title": "Glazing Sched Sh1",
+    "revision": null,
+    "publicPath": "/drawings/01%20Architecture/ZZZ-ARC-VC4600%20-%20Glazing%20Sched%20Sh1.pdf"
+  },
+  {
+    "id": "dwg-architecture-zzz-arc-vc4601",
+    "discipline": "Architecture",
+    "fileName": "ZZZ-ARC-VC4601 - Glazing Sched Sh2.pdf",
+    "sheetCode": "ZZZ-ARC-VC4601",
+    "title": "Glazing Sched Sh2",
+    "revision": null,
+    "publicPath": "/drawings/01%20Architecture/ZZZ-ARC-VC4601%20-%20Glazing%20Sched%20Sh2.pdf"
+  },
+  {
+    "id": "dwg-architecture-zzz-arc-vc4602",
+    "discipline": "Architecture",
+    "fileName": "ZZZ-ARC-VC4602 - Glazing Sched Sh3.pdf",
+    "sheetCode": "ZZZ-ARC-VC4602",
+    "title": "Glazing Sched Sh3",
+    "revision": null,
+    "publicPath": "/drawings/01%20Architecture/ZZZ-ARC-VC4602%20-%20Glazing%20Sched%20Sh3.pdf"
+  },
+  {
+    "id": "dwg-architecture-zzz-arc-vc4610",
+    "discipline": "Architecture",
+    "fileName": "ZZZ-ARC-VC4610 - Door Sched Sh1.pdf",
+    "sheetCode": "ZZZ-ARC-VC4610",
+    "title": "Door Sched Sh1",
+    "revision": null,
+    "publicPath": "/drawings/01%20Architecture/ZZZ-ARC-VC4610%20-%20Door%20Sched%20Sh1.pdf"
+  },
+  {
+    "id": "dwg-architecture-zzz-arc-vc4611",
+    "discipline": "Architecture",
+    "fileName": "ZZZ-ARC-VC4611 - Door Sched Sh2.pdf",
+    "sheetCode": "ZZZ-ARC-VC4611",
+    "title": "Door Sched Sh2",
+    "revision": null,
+    "publicPath": "/drawings/01%20Architecture/ZZZ-ARC-VC4611%20-%20Door%20Sched%20Sh2.pdf"
+  },
+  {
+    "id": "dwg-architecture-zzz-arc-vc4620",
+    "discipline": "Architecture",
+    "fileName": "ZZZ-ARC-VC4620 - Decorative & MEP Louvers Sched.pdf",
+    "sheetCode": "ZZZ-ARC-VC4620",
+    "title": "Decorative & MEP Louvers Sched",
+    "revision": null,
+    "publicPath": "/drawings/01%20Architecture/ZZZ-ARC-VC4620%20-%20Decorative%20%26%20MEP%20Louvers%20Sched.pdf"
+  },
+  {
+    "id": "dwg-architecture-zzz-arc-vc4630",
+    "discipline": "Architecture",
+    "fileName": "ZZZ-ARC-VC4630 - U Value Calc Sh1.pdf",
+    "sheetCode": "ZZZ-ARC-VC4630",
+    "title": "U Value Calc Sh1",
+    "revision": null,
+    "publicPath": "/drawings/01%20Architecture/ZZZ-ARC-VC4630%20-%20U%20Value%20Calc%20Sh1.pdf"
+  },
+  {
+    "id": "dwg-architecture-zzz-arc-vc4631",
+    "discipline": "Architecture",
+    "fileName": "ZZZ-ARC-VC4631 - U Value Calc Sh2.pdf",
+    "sheetCode": "ZZZ-ARC-VC4631",
+    "title": "U Value Calc Sh2",
+    "revision": null,
+    "publicPath": "/drawings/01%20Architecture/ZZZ-ARC-VC4631%20-%20U%20Value%20Calc%20Sh2.pdf"
+  },
+  {
+    "id": "dwg-structure-l00-str-vc4201",
+    "discipline": "Structure",
+    "fileName": "L00-STR-VC4201 - GF Columns & Walls Setting Out.pdf",
+    "sheetCode": "L00-STR-VC4201",
+    "title": "GF Columns & Walls Setting Out",
+    "revision": null,
+    "publicPath": "/drawings/02%20Structure/L00-STR-VC4201%20-%20GF%20Columns%20%26%20Walls%20Setting%20Out.pdf"
+  },
+  {
+    "id": "dwg-structure-l00-str-vc4300",
+    "discipline": "Structure",
+    "fileName": "L00-STR-VC4300 - Fdn Layout_GF Framing Plan.pdf",
+    "sheetCode": "L00-STR-VC4300",
+    "title": "Fdn Layout_GF Framing Plan",
+    "revision": null,
+    "publicPath": "/drawings/02%20Structure/L00-STR-VC4300%20-%20Fdn%20Layout_GF%20Framing%20Plan.pdf"
+  },
+  {
+    "id": "dwg-structure-l00-str-vc4400",
+    "discipline": "Structure",
+    "fileName": "L00-STR-VC4400 - Fdn_GF Reinf Plan.pdf",
+    "sheetCode": "L00-STR-VC4400",
+    "title": "Fdn_GF Reinf Plan",
+    "revision": null,
+    "publicPath": "/drawings/02%20Structure/L00-STR-VC4400%20-%20Fdn_GF%20Reinf%20Plan.pdf"
+  },
+  {
+    "id": "dwg-structure-l00-str-vc4404",
+    "discipline": "Structure",
+    "fileName": "L00-STR-VC4404 - Boundary Wall Layout Plan.pdf",
+    "sheetCode": "L00-STR-VC4404",
+    "title": "Boundary Wall Layout Plan",
+    "revision": null,
+    "publicPath": "/drawings/02%20Structure/L00-STR-VC4404%20-%20Boundary%20Wall%20Layout%20Plan.pdf"
+  },
+  {
+    "id": "dwg-structure-l01-str-vc4202",
+    "discipline": "Structure",
+    "fileName": "L01-STR-VC4202 - 1F Columns & Walls Setting Out.pdf",
+    "sheetCode": "L01-STR-VC4202",
+    "title": "1F Columns & Walls Setting Out",
+    "revision": null,
+    "publicPath": "/drawings/02%20Structure/L01-STR-VC4202%20-%201F%20Columns%20%26%20Walls%20Setting%20Out.pdf"
+  },
+  {
+    "id": "dwg-structure-l01-str-vc4301",
+    "discipline": "Structure",
+    "fileName": "L01-STR-VC4301 - 1F Framing Plan.pdf",
+    "sheetCode": "L01-STR-VC4301",
+    "title": "1F Framing Plan",
+    "revision": null,
+    "publicPath": "/drawings/02%20Structure/L01-STR-VC4301%20-%201F%20Framing%20Plan.pdf"
+  },
+  {
+    "id": "dwg-structure-l01-str-vc4401",
+    "discipline": "Structure",
+    "fileName": "L01-STR-VC4401 - 1F Reinf Plan.pdf",
+    "sheetCode": "L01-STR-VC4401",
+    "title": "1F Reinf Plan",
+    "revision": null,
+    "publicPath": "/drawings/02%20Structure/L01-STR-VC4401%20-%201F%20Reinf%20Plan.pdf"
+  },
+  {
+    "id": "dwg-structure-l02-str-vc4203",
+    "discipline": "Structure",
+    "fileName": "L02-STR-VC4203 - 2F Columns & Walls Setting Out.pdf",
+    "sheetCode": "L02-STR-VC4203",
+    "title": "2F Columns & Walls Setting Out",
+    "revision": null,
+    "publicPath": "/drawings/02%20Structure/L02-STR-VC4203%20-%202F%20Columns%20%26%20Walls%20Setting%20Out.pdf"
+  },
+  {
+    "id": "dwg-structure-l02-str-vc4302",
+    "discipline": "Structure",
+    "fileName": "L02-STR-VC4302 - 2F Framing Plan.pdf",
+    "sheetCode": "L02-STR-VC4302",
+    "title": "2F Framing Plan",
+    "revision": null,
+    "publicPath": "/drawings/02%20Structure/L02-STR-VC4302%20-%202F%20Framing%20Plan.pdf"
+  },
+  {
+    "id": "dwg-structure-l02-str-vc4402",
+    "discipline": "Structure",
+    "fileName": "L02-STR-VC4402 - 2F Reinf Plan.pdf",
+    "sheetCode": "L02-STR-VC4402",
+    "title": "2F Reinf Plan",
+    "revision": null,
+    "publicPath": "/drawings/02%20Structure/L02-STR-VC4402%20-%202F%20Reinf%20Plan.pdf"
+  },
+  {
+    "id": "dwg-structure-rof-str-vc4303",
+    "discipline": "Structure",
+    "fileName": "ROF-STR-VC4303 - Roof Floor Framing Plan.pdf",
+    "sheetCode": "ROF-STR-VC4303",
+    "title": "Roof Floor Framing Plan",
+    "revision": null,
+    "publicPath": "/drawings/02%20Structure/ROF-STR-VC4303%20-%20Roof%20Floor%20Framing%20Plan.pdf"
+  },
+  {
+    "id": "dwg-structure-rof-str-vc4403",
+    "discipline": "Structure",
+    "fileName": "ROF-STR-VC4403 - Roof Reinf Plan.pdf",
+    "sheetCode": "ROF-STR-VC4403",
+    "title": "Roof Reinf Plan",
+    "revision": null,
+    "publicPath": "/drawings/02%20Structure/ROF-STR-VC4403%20-%20Roof%20Reinf%20Plan.pdf"
+  },
+  {
+    "id": "dwg-structure-zzz-str-vc4000",
+    "discipline": "Structure",
+    "fileName": "ZZZ-STR-VC4000 - Cover Page.pdf",
+    "sheetCode": "ZZZ-STR-VC4000",
+    "title": "Cover Page",
+    "revision": null,
+    "publicPath": "/drawings/02%20Structure/ZZZ-STR-VC4000%20-%20Cover%20Page.pdf"
+  },
+  {
+    "id": "dwg-structure-zzz-str-vc4001",
+    "discipline": "Structure",
+    "fileName": "ZZZ-STR-VC4001 - Dwg List.pdf",
+    "sheetCode": "ZZZ-STR-VC4001",
+    "title": "Dwg List",
+    "revision": null,
+    "publicPath": "/drawings/02%20Structure/ZZZ-STR-VC4001%20-%20Dwg%20List.pdf"
+  },
+  {
+    "id": "dwg-structure-zzz-str-vc4010",
+    "discipline": "Structure",
+    "fileName": "ZZZ-STR-VC4010 - 3D View - Overall.pdf",
+    "sheetCode": "ZZZ-STR-VC4010",
+    "title": "3D View - Overall",
+    "revision": null,
+    "publicPath": "/drawings/02%20Structure/ZZZ-STR-VC4010%20-%203D%20View%20-%20Overall.pdf"
+  },
+  {
+    "id": "dwg-structure-zzz-str-vc4011",
+    "discipline": "Structure",
+    "fileName": "ZZZ-STR-VC4011 - 3D View - Floor Levels.pdf",
+    "sheetCode": "ZZZ-STR-VC4011",
+    "title": "3D View - Floor Levels",
+    "revision": null,
+    "publicPath": "/drawings/02%20Structure/ZZZ-STR-VC4011%20-%203D%20View%20-%20Floor%20Levels.pdf"
+  },
+  {
+    "id": "dwg-structure-zzz-str-vc4050",
+    "discipline": "Structure",
+    "fileName": "ZZZ-STR-VC4050 - First, Second & Roof Floor Loading Plans.pdf",
+    "sheetCode": "ZZZ-STR-VC4050",
+    "title": "First, Second & Roof Floor Loading Plans",
+    "revision": null,
+    "publicPath": "/drawings/02%20Structure/ZZZ-STR-VC4050%20-%20First%2C%20Second%20%26%20Roof%20Floor%20Loading%20Plans.pdf"
+  },
+  {
+    "id": "dwg-structure-zzz-str-vc4500",
+    "discipline": "Structure",
+    "fileName": "ZZZ-STR-VC4500 - Sections & Det Sh1.pdf",
+    "sheetCode": "ZZZ-STR-VC4500",
+    "title": "Sections & Det Sh1",
+    "revision": null,
+    "publicPath": "/drawings/02%20Structure/ZZZ-STR-VC4500%20-%20Sections%20%26%20Det%20Sh1.pdf"
+  },
+  {
+    "id": "dwg-structure-zzz-str-vc4501",
+    "discipline": "Structure",
+    "fileName": "ZZZ-STR-VC4501 - Sections & Det Sh2.pdf",
+    "sheetCode": "ZZZ-STR-VC4501",
+    "title": "Sections & Det Sh2",
+    "revision": null,
+    "publicPath": "/drawings/02%20Structure/ZZZ-STR-VC4501%20-%20Sections%20%26%20Det%20Sh2.pdf"
+  },
+  {
+    "id": "dwg-structure-zzz-str-vc4520",
+    "discipline": "Structure",
+    "fileName": "ZZZ-STR-VC4520 - Building Sections.pdf",
+    "sheetCode": "ZZZ-STR-VC4520",
+    "title": "Building Sections",
+    "revision": null,
+    "publicPath": "/drawings/02%20Structure/ZZZ-STR-VC4520%20-%20Building%20Sections.pdf"
+  },
+  {
+    "id": "dwg-structure-zzz-str-vc4530",
+    "discipline": "Structure",
+    "fileName": "ZZZ-STR-VC4530 - Typical Connection Det.pdf",
+    "sheetCode": "ZZZ-STR-VC4530",
+    "title": "Typical Connection Det",
+    "revision": null,
+    "publicPath": "/drawings/02%20Structure/ZZZ-STR-VC4530%20-%20Typical%20Connection%20Det.pdf"
+  },
+  {
+    "id": "dwg-structure-zzz-str-vc4550",
+    "discipline": "Structure",
+    "fileName": "ZZZ-STR-VC4550 - STAIRCASE-01 Plans & Det.pdf",
+    "sheetCode": "ZZZ-STR-VC4550",
+    "title": "STAIRCASE-01 Plans & Det",
+    "revision": null,
+    "publicPath": "/drawings/02%20Structure/ZZZ-STR-VC4550%20-%20STAIRCASE-01%20Plans%20%26%20Det.pdf"
+  },
+  {
+    "id": "dwg-structure-zzz-str-vc4600",
+    "discipline": "Structure",
+    "fileName": "ZZZ-STR-VC4600 - Beams Sched & Det.pdf",
+    "sheetCode": "ZZZ-STR-VC4600",
+    "title": "Beams Sched & Det",
+    "revision": null,
+    "publicPath": "/drawings/02%20Structure/ZZZ-STR-VC4600%20-%20Beams%20Sched%20%26%20Det.pdf"
+  },
+  {
+    "id": "dwg-structure-zzz-str-vc4610",
+    "discipline": "Structure",
+    "fileName": "ZZZ-STR-VC4610 - Columns & Walls Sched & Det Sh1.pdf",
+    "sheetCode": "ZZZ-STR-VC4610",
+    "title": "Columns & Walls Sched & Det Sh1",
+    "revision": null,
+    "publicPath": "/drawings/02%20Structure/ZZZ-STR-VC4610%20-%20Columns%20%26%20Walls%20Sched%20%26%20Det%20Sh1.pdf"
+  },
+  {
+    "id": "dwg-structure-zzz-str-vc4611",
+    "discipline": "Structure",
+    "fileName": "ZZZ-STR-VC4611 - Columns & Walls Sched & Det Sh2.pdf",
+    "sheetCode": "ZZZ-STR-VC4611",
+    "title": "Columns & Walls Sched & Det Sh2",
+    "revision": null,
+    "publicPath": "/drawings/02%20Structure/ZZZ-STR-VC4611%20-%20Columns%20%26%20Walls%20Sched%20%26%20Det%20Sh2.pdf"
+  },
+  {
+    "id": "dwg-structure-zzz-str-vc4612",
+    "discipline": "Structure",
+    "fileName": "ZZZ-STR-VC4612 - Columns & Walls Sched & Det Sh3.pdf",
+    "sheetCode": "ZZZ-STR-VC4612",
+    "title": "Columns & Walls Sched & Det Sh3",
+    "revision": null,
+    "publicPath": "/drawings/02%20Structure/ZZZ-STR-VC4612%20-%20Columns%20%26%20Walls%20Sched%20%26%20Det%20Sh3.pdf"
+  },
+  {
+    "id": "dwg-interior-design-l00-int-vc4100",
+    "discipline": "Interior Design",
+    "fileName": "L00-INT-VC4100 - Furniture Plan (GF).pdf",
+    "sheetCode": "L00-INT-VC4100",
+    "title": "Furniture Plan (GF)",
+    "revision": null,
+    "publicPath": "/drawings/04%20Interior%20Design/L00-INT-VC4100%20-%20Furniture%20Plan%20%28GF%29.pdf"
+  },
+  {
+    "id": "dwg-interior-design-l00-int-vc4110",
+    "discipline": "Interior Design",
+    "fileName": "L00-INT-VC4110 - Setting Out (GF).pdf",
+    "sheetCode": "L00-INT-VC4110",
+    "title": "Setting Out (GF)",
+    "revision": null,
+    "publicPath": "/drawings/04%20Interior%20Design/L00-INT-VC4110%20-%20Setting%20Out%20%28GF%29.pdf"
+  },
+  {
+    "id": "dwg-interior-design-l00-int-vc4120",
+    "discipline": "Interior Design",
+    "fileName": "L00-INT-VC4120 - Floor Finishes Plan (GF).pdf",
+    "sheetCode": "L00-INT-VC4120",
+    "title": "Floor Finishes Plan (GF)",
+    "revision": null,
+    "publicPath": "/drawings/04%20Interior%20Design/L00-INT-VC4120%20-%20Floor%20Finishes%20Plan%20%28GF%29.pdf"
+  },
+  {
+    "id": "dwg-interior-design-l00-int-vc4140",
+    "discipline": "Interior Design",
+    "fileName": "L00-INT-VC4140 - Wall Finishes Plan (GF).pdf",
+    "sheetCode": "L00-INT-VC4140",
+    "title": "Wall Finishes Plan (GF)",
+    "revision": null,
+    "publicPath": "/drawings/04%20Interior%20Design/L00-INT-VC4140%20-%20Wall%20Finishes%20Plan%20%28GF%29.pdf"
+  },
+  {
+    "id": "dwg-interior-design-l00-int-vc4150",
+    "discipline": "Interior Design",
+    "fileName": "L00-INT-VC4150 - Small Power (GF).pdf",
+    "sheetCode": "L00-INT-VC4150",
+    "title": "Small Power (GF)",
+    "revision": null,
+    "publicPath": "/drawings/04%20Interior%20Design/L00-INT-VC4150%20-%20Small%20Power%20%28GF%29.pdf"
+  },
+  {
+    "id": "dwg-interior-design-l00-int-vc4160",
+    "discipline": "Interior Design",
+    "fileName": "L00-INT-VC4160 - RCP (GF).pdf",
+    "sheetCode": "L00-INT-VC4160",
+    "title": "RCP (GF)",
+    "revision": null,
+    "publicPath": "/drawings/04%20Interior%20Design/L00-INT-VC4160%20-%20RCP%20%28GF%29.pdf"
+  },
+  {
+    "id": "dwg-interior-design-l00-int-vc4200",
+    "discipline": "Interior Design",
+    "fileName": "L00-INT-VC4200 - Gen Sect Elev Sh1 (GF).pdf",
+    "sheetCode": "L00-INT-VC4200",
+    "title": "Gen Sect Elev Sh1 (GF)",
+    "revision": null,
+    "publicPath": "/drawings/04%20Interior%20Design/L00-INT-VC4200%20-%20Gen%20Sect%20Elev%20Sh1%20%28GF%29.pdf"
+  },
+  {
+    "id": "dwg-interior-design-l00-int-vc4201",
+    "discipline": "Interior Design",
+    "fileName": "L00-INT-VC4201 - Gen Sect Elev Sh2 (GF).pdf",
+    "sheetCode": "L00-INT-VC4201",
+    "title": "Gen Sect Elev Sh2 (GF)",
+    "revision": null,
+    "publicPath": "/drawings/04%20Interior%20Design/L00-INT-VC4201%20-%20Gen%20Sect%20Elev%20Sh2%20%28GF%29.pdf"
+  },
+  {
+    "id": "dwg-interior-design-l00-int-vc4202",
+    "discipline": "Interior Design",
+    "fileName": "L00-INT-VC4202 - Gen Sect Elev Sh3 (GF).pdf",
+    "sheetCode": "L00-INT-VC4202",
+    "title": "Gen Sect Elev Sh3 (GF)",
+    "revision": null,
+    "publicPath": "/drawings/04%20Interior%20Design/L00-INT-VC4202%20-%20Gen%20Sect%20Elev%20Sh3%20%28GF%29.pdf"
+  },
+  {
+    "id": "dwg-interior-design-l00-int-vc4203",
+    "discipline": "Interior Design",
+    "fileName": "L00-INT-VC4203 - Gen Sect Elev Sh4 (GF).pdf",
+    "sheetCode": "L00-INT-VC4203",
+    "title": "Gen Sect Elev Sh4 (GF)",
+    "revision": null,
+    "publicPath": "/drawings/04%20Interior%20Design/L00-INT-VC4203%20-%20Gen%20Sect%20Elev%20Sh4%20%28GF%29.pdf"
+  },
+  {
+    "id": "dwg-interior-design-l00-int-vc4204",
+    "discipline": "Interior Design",
+    "fileName": "L00-INT-VC4204 - Gen Sect Elev Sh5 (GF).pdf",
+    "sheetCode": "L00-INT-VC4204",
+    "title": "Gen Sect Elev Sh5 (GF)",
+    "revision": null,
+    "publicPath": "/drawings/04%20Interior%20Design/L00-INT-VC4204%20-%20Gen%20Sect%20Elev%20Sh5%20%28GF%29.pdf"
+  },
+  {
+    "id": "dwg-interior-design-l00-int-vc4308",
+    "discipline": "Interior Design",
+    "fileName": "L00-INT-VC4308 - Guest WC Enlarged Det (GF).pdf",
+    "sheetCode": "L00-INT-VC4308",
+    "title": "Guest WC Enlarged Det (GF)",
+    "revision": null,
+    "publicPath": "/drawings/04%20Interior%20Design/L00-INT-VC4308%20-%20Guest%20WC%20Enlarged%20Det%20%28GF%29.pdf"
+  },
+  {
+    "id": "dwg-interior-design-l00-int-vc4309",
+    "discipline": "Interior Design",
+    "fileName": "L00-INT-VC4309 - Family WC Enlarged Det (GF).pdf",
+    "sheetCode": "L00-INT-VC4309",
+    "title": "Family WC Enlarged Det (GF)",
+    "revision": null,
+    "publicPath": "/drawings/04%20Interior%20Design/L00-INT-VC4309%20-%20Family%20WC%20Enlarged%20Det%20%28GF%29.pdf"
+  },
+  {
+    "id": "dwg-interior-design-l00-int-vc4312",
+    "discipline": "Interior Design",
+    "fileName": "L00-INT-VC4312 - Maids Bathroom Enlarged Plan.pdf",
+    "sheetCode": "L00-INT-VC4312",
+    "title": "Maids Bathroom Enlarged Plan",
+    "revision": null,
+    "publicPath": "/drawings/04%20Interior%20Design/L00-INT-VC4312%20-%20Maids%20Bathroom%20Enlarged%20Plan.pdf"
+  },
+  {
+    "id": "dwg-interior-design-l00-int-vc4313",
+    "discipline": "Interior Design",
+    "fileName": "L00-INT-VC4313 - Drivers Bathroom Enlarged Plan.pdf",
+    "sheetCode": "L00-INT-VC4313",
+    "title": "Drivers Bathroom Enlarged Plan",
+    "revision": null,
+    "publicPath": "/drawings/04%20Interior%20Design/L00-INT-VC4313%20-%20Drivers%20Bathroom%20Enlarged%20Plan.pdf"
+  },
+  {
+    "id": "dwg-interior-design-l00-int-vc4400",
+    "discipline": "Interior Design",
+    "fileName": "L00-INT-VC4400 - Show Kitchen Enlarged Det.pdf",
+    "sheetCode": "L00-INT-VC4400",
+    "title": "Show Kitchen Enlarged Det",
+    "revision": null,
+    "publicPath": "/drawings/04%20Interior%20Design/L00-INT-VC4400%20-%20Show%20Kitchen%20Enlarged%20Det.pdf"
+  },
+  {
+    "id": "dwg-interior-design-l00-int-vc4401",
+    "discipline": "Interior Design",
+    "fileName": "L00-INT-VC4401 - Heavy Kitchen Enlarged Det.pdf",
+    "sheetCode": "L00-INT-VC4401",
+    "title": "Heavy Kitchen Enlarged Det",
+    "revision": null,
+    "publicPath": "/drawings/04%20Interior%20Design/L00-INT-VC4401%20-%20Heavy%20Kitchen%20Enlarged%20Det.pdf"
+  },
+  {
+    "id": "dwg-interior-design-l01-int-vc4101",
+    "discipline": "Interior Design",
+    "fileName": "L01-INT-VC4101 - Furniture Plan (L01).pdf",
+    "sheetCode": "L01-INT-VC4101",
+    "title": "Furniture Plan (L01)",
+    "revision": null,
+    "publicPath": "/drawings/04%20Interior%20Design/L01-INT-VC4101%20-%20Furniture%20Plan%20%28L01%29.pdf"
+  },
+  {
+    "id": "dwg-interior-design-l01-int-vc4111",
+    "discipline": "Interior Design",
+    "fileName": "L01-INT-VC4111 - Setting Out (L01).pdf",
+    "sheetCode": "L01-INT-VC4111",
+    "title": "Setting Out (L01)",
+    "revision": null,
+    "publicPath": "/drawings/04%20Interior%20Design/L01-INT-VC4111%20-%20Setting%20Out%20%28L01%29.pdf"
+  },
+  {
+    "id": "dwg-interior-design-l01-int-vc4121",
+    "discipline": "Interior Design",
+    "fileName": "L01-INT-VC4121 - Floor Finishes Plan (L01).pdf",
+    "sheetCode": "L01-INT-VC4121",
+    "title": "Floor Finishes Plan (L01)",
+    "revision": null,
+    "publicPath": "/drawings/04%20Interior%20Design/L01-INT-VC4121%20-%20Floor%20Finishes%20Plan%20%28L01%29.pdf"
+  },
+  {
+    "id": "dwg-interior-design-l01-int-vc4141",
+    "discipline": "Interior Design",
+    "fileName": "L01-INT-VC4141 - Wall Finishes Plan (L01).pdf",
+    "sheetCode": "L01-INT-VC4141",
+    "title": "Wall Finishes Plan (L01)",
+    "revision": null,
+    "publicPath": "/drawings/04%20Interior%20Design/L01-INT-VC4141%20-%20Wall%20Finishes%20Plan%20%28L01%29.pdf"
+  },
+  {
+    "id": "dwg-interior-design-l01-int-vc4151",
+    "discipline": "Interior Design",
+    "fileName": "L01-INT-VC4151 - Small Power (L01).pdf",
+    "sheetCode": "L01-INT-VC4151",
+    "title": "Small Power (L01)",
+    "revision": null,
+    "publicPath": "/drawings/04%20Interior%20Design/L01-INT-VC4151%20-%20Small%20Power%20%28L01%29.pdf"
+  },
+  {
+    "id": "dwg-interior-design-l01-int-vc4161",
+    "discipline": "Interior Design",
+    "fileName": "L01-INT-VC4161 - RCP (L01).pdf",
+    "sheetCode": "L01-INT-VC4161",
+    "title": "RCP (L01)",
+    "revision": null,
+    "publicPath": "/drawings/04%20Interior%20Design/L01-INT-VC4161%20-%20RCP%20%28L01%29.pdf"
+  },
+  {
+    "id": "dwg-interior-design-l01-int-vc4210",
+    "discipline": "Interior Design",
+    "fileName": "L01-INT-VC4210 - Gen Sect Elev Sh1 (L01).pdf",
+    "sheetCode": "L01-INT-VC4210",
+    "title": "Gen Sect Elev Sh1 (L01)",
+    "revision": null,
+    "publicPath": "/drawings/04%20Interior%20Design/L01-INT-VC4210%20-%20Gen%20Sect%20Elev%20Sh1%20%28L01%29.pdf"
+  },
+  {
+    "id": "dwg-interior-design-l01-int-vc4211",
+    "discipline": "Interior Design",
+    "fileName": "L01-INT-VC4211 - Gen Sect Elev Sh2 (L01).pdf",
+    "sheetCode": "L01-INT-VC4211",
+    "title": "Gen Sect Elev Sh2 (L01)",
+    "revision": null,
+    "publicPath": "/drawings/04%20Interior%20Design/L01-INT-VC4211%20-%20Gen%20Sect%20Elev%20Sh2%20%28L01%29.pdf"
+  },
+  {
+    "id": "dwg-interior-design-l01-int-vc4212",
+    "discipline": "Interior Design",
+    "fileName": "L01-INT-VC4212 - Gen Sect Elev Sh3 (L01).pdf",
+    "sheetCode": "L01-INT-VC4212",
+    "title": "Gen Sect Elev Sh3 (L01)",
+    "revision": null,
+    "publicPath": "/drawings/04%20Interior%20Design/L01-INT-VC4212%20-%20Gen%20Sect%20Elev%20Sh3%20%28L01%29.pdf"
+  },
+  {
+    "id": "dwg-interior-design-l01-int-vc4213",
+    "discipline": "Interior Design",
+    "fileName": "L01-INT-VC4213 - Gen Sect Elev Sh4 (L01).pdf",
+    "sheetCode": "L01-INT-VC4213",
+    "title": "Gen Sect Elev Sh4 (L01)",
+    "revision": null,
+    "publicPath": "/drawings/04%20Interior%20Design/L01-INT-VC4213%20-%20Gen%20Sect%20Elev%20Sh4%20%28L01%29.pdf"
+  },
+  {
+    "id": "dwg-interior-design-l01-int-vc4300",
+    "discipline": "Interior Design",
+    "fileName": "L01-INT-VC4300 - Master Bathroom Enlarged Det Sh1 (L01).pdf",
+    "sheetCode": "L01-INT-VC4300",
+    "title": "Master Bathroom Enlarged Det Sh1 (L01)",
+    "revision": null,
+    "publicPath": "/drawings/04%20Interior%20Design/L01-INT-VC4300%20-%20Master%20Bathroom%20Enlarged%20Det%20Sh1%20%28L01%29.pdf"
+  },
+  {
+    "id": "dwg-interior-design-l01-int-vc4301",
+    "discipline": "Interior Design",
+    "fileName": "L01-INT-VC4301 - Master Bathroom Enlarged Det Sh2 (L01).pdf",
+    "sheetCode": "L01-INT-VC4301",
+    "title": "Master Bathroom Enlarged Det Sh2 (L01)",
+    "revision": null,
+    "publicPath": "/drawings/04%20Interior%20Design/L01-INT-VC4301%20-%20Master%20Bathroom%20Enlarged%20Det%20Sh2%20%28L01%29.pdf"
+  },
+  {
+    "id": "dwg-interior-design-l01-int-vc4302",
+    "discipline": "Interior Design",
+    "fileName": "L01-INT-VC4302 - Guest Bathroom Enlarged Plan (GF).pdf",
+    "sheetCode": "L01-INT-VC4302",
+    "title": "Guest Bathroom Enlarged Plan (GF)",
+    "revision": null,
+    "publicPath": "/drawings/04%20Interior%20Design/L01-INT-VC4302%20-%20Guest%20Bathroom%20Enlarged%20Plan%20%28GF%29.pdf"
+  },
+  {
+    "id": "dwg-interior-design-l01-int-vc4303",
+    "discipline": "Interior Design",
+    "fileName": "L01-INT-VC4303 - BATHROOM-1 Enlarged Det (L01).pdf",
+    "sheetCode": "L01-INT-VC4303",
+    "title": "BATHROOM-1 Enlarged Det (L01)",
+    "revision": null,
+    "publicPath": "/drawings/04%20Interior%20Design/L01-INT-VC4303%20-%20BATHROOM-1%20Enlarged%20Det%20%28L01%29.pdf"
+  },
+  {
+    "id": "dwg-interior-design-l01-int-vc4304",
+    "discipline": "Interior Design",
+    "fileName": "L01-INT-VC4304 - BATHROOM-2 Enlarged Det (L01).pdf",
+    "sheetCode": "L01-INT-VC4304",
+    "title": "BATHROOM-2 Enlarged Det (L01)",
+    "revision": null,
+    "publicPath": "/drawings/04%20Interior%20Design/L01-INT-VC4304%20-%20BATHROOM-2%20Enlarged%20Det%20%28L01%29.pdf"
+  },
+  {
+    "id": "dwg-interior-design-l01-int-vc4305",
+    "discipline": "Interior Design",
+    "fileName": "L01-INT-VC4305 - BATHROOM-3 Enlarged Det (L01).pdf",
+    "sheetCode": "L01-INT-VC4305",
+    "title": "BATHROOM-3 Enlarged Det (L01)",
+    "revision": null,
+    "publicPath": "/drawings/04%20Interior%20Design/L01-INT-VC4305%20-%20BATHROOM-3%20Enlarged%20Det%20%28L01%29.pdf"
+  },
+  {
+    "id": "dwg-interior-design-l01-int-vc4306",
+    "discipline": "Interior Design",
+    "fileName": "L01-INT-VC4306 - BATHROOM-4 Enlarged Det (L01).pdf",
+    "sheetCode": "L01-INT-VC4306",
+    "title": "BATHROOM-4 Enlarged Det (L01)",
+    "revision": null,
+    "publicPath": "/drawings/04%20Interior%20Design/L01-INT-VC4306%20-%20BATHROOM-4%20Enlarged%20Det%20%28L01%29.pdf"
+  },
+  {
+    "id": "dwg-interior-design-l02-int-vc4102",
+    "discipline": "Interior Design",
+    "fileName": "L02-INT-VC4102 - Furniture Plan (L02).pdf",
+    "sheetCode": "L02-INT-VC4102",
+    "title": "Furniture Plan (L02)",
+    "revision": null,
+    "publicPath": "/drawings/04%20Interior%20Design/L02-INT-VC4102%20-%20Furniture%20Plan%20%28L02%29.pdf"
+  },
+  {
+    "id": "dwg-interior-design-l02-int-vc4112",
+    "discipline": "Interior Design",
+    "fileName": "L02-INT-VC4112 - Setting Out (L02).pdf",
+    "sheetCode": "L02-INT-VC4112",
+    "title": "Setting Out (L02)",
+    "revision": null,
+    "publicPath": "/drawings/04%20Interior%20Design/L02-INT-VC4112%20-%20Setting%20Out%20%28L02%29.pdf"
+  },
+  {
+    "id": "dwg-interior-design-l02-int-vc4122",
+    "discipline": "Interior Design",
+    "fileName": "L02-INT-VC4122 - Floor Finishes Plan (L02).pdf",
+    "sheetCode": "L02-INT-VC4122",
+    "title": "Floor Finishes Plan (L02)",
+    "revision": null,
+    "publicPath": "/drawings/04%20Interior%20Design/L02-INT-VC4122%20-%20Floor%20Finishes%20Plan%20%28L02%29.pdf"
+  },
+  {
+    "id": "dwg-interior-design-l02-int-vc4142",
+    "discipline": "Interior Design",
+    "fileName": "L02-INT-VC4142 - Wall Finishes Plan (L02).pdf",
+    "sheetCode": "L02-INT-VC4142",
+    "title": "Wall Finishes Plan (L02)",
+    "revision": null,
+    "publicPath": "/drawings/04%20Interior%20Design/L02-INT-VC4142%20-%20Wall%20Finishes%20Plan%20%28L02%29.pdf"
+  },
+  {
+    "id": "dwg-interior-design-l02-int-vc4152",
+    "discipline": "Interior Design",
+    "fileName": "L02-INT-VC4152 - Small Power (L02).pdf",
+    "sheetCode": "L02-INT-VC4152",
+    "title": "Small Power (L02)",
+    "revision": null,
+    "publicPath": "/drawings/04%20Interior%20Design/L02-INT-VC4152%20-%20Small%20Power%20%28L02%29.pdf"
+  },
+  {
+    "id": "dwg-interior-design-l02-int-vc4162",
+    "discipline": "Interior Design",
+    "fileName": "L02-INT-VC4162 - RCP (L02).pdf",
+    "sheetCode": "L02-INT-VC4162",
+    "title": "RCP (L02)",
+    "revision": null,
+    "publicPath": "/drawings/04%20Interior%20Design/L02-INT-VC4162%20-%20RCP%20%28L02%29.pdf"
+  },
+  {
+    "id": "dwg-interior-design-l02-int-vc4220",
+    "discipline": "Interior Design",
+    "fileName": "L02-INT-VC4220 - Gen Sect Elev Sh1 (L02).pdf",
+    "sheetCode": "L02-INT-VC4220",
+    "title": "Gen Sect Elev Sh1 (L02)",
+    "revision": null,
+    "publicPath": "/drawings/04%20Interior%20Design/L02-INT-VC4220%20-%20Gen%20Sect%20Elev%20Sh1%20%28L02%29.pdf"
+  },
+  {
+    "id": "dwg-interior-design-l02-int-vc4221",
+    "discipline": "Interior Design",
+    "fileName": "L02-INT-VC4221 - Gen Sect Elev Sh2 (L02).pdf",
+    "sheetCode": "L02-INT-VC4221",
+    "title": "Gen Sect Elev Sh2 (L02)",
+    "revision": null,
+    "publicPath": "/drawings/04%20Interior%20Design/L02-INT-VC4221%20-%20Gen%20Sect%20Elev%20Sh2%20%28L02%29.pdf"
+  },
+  {
+    "id": "dwg-interior-design-l02-int-vc4307",
+    "discipline": "Interior Design",
+    "fileName": "L02-INT-VC4307 - BATHROOM-5 Enlarged Det (L02).pdf",
+    "sheetCode": "L02-INT-VC4307",
+    "title": "BATHROOM-5 Enlarged Det (L02)",
+    "revision": null,
+    "publicPath": "/drawings/04%20Interior%20Design/L02-INT-VC4307%20-%20BATHROOM-5%20Enlarged%20Det%20%28L02%29.pdf"
+  },
+  {
+    "id": "dwg-interior-design-l02-int-vc4310",
+    "discipline": "Interior Design",
+    "fileName": "L02-INT-VC4310 - Powder Room Enl Det (GF & LEVEL-02).pdf",
+    "sheetCode": "L02-INT-VC4310",
+    "title": "Powder Room Enl Det (GF & LEVEL-02)",
+    "revision": null,
+    "publicPath": "/drawings/04%20Interior%20Design/L02-INT-VC4310%20-%20Powder%20Room%20Enl%20Det%20%28GF%20%26%20LEVEL-02%29.pdf"
+  },
+  {
+    "id": "dwg-interior-design-zzz-int-vc4000",
+    "discipline": "Interior Design",
+    "fileName": "ZZZ-INT-VC4000 - Cover Page.pdf",
+    "sheetCode": "ZZZ-INT-VC4000",
+    "title": "Cover Page",
+    "revision": null,
+    "publicPath": "/drawings/04%20Interior%20Design/ZZZ-INT-VC4000%20-%20Cover%20Page.pdf"
+  },
+  {
+    "id": "dwg-interior-design-zzz-int-vc4403",
+    "discipline": "Interior Design",
+    "fileName": "ZZZ-INT-VC4403 - Pantry Enlarged Det.pdf",
+    "sheetCode": "ZZZ-INT-VC4403",
+    "title": "Pantry Enlarged Det",
+    "revision": null,
+    "publicPath": "/drawings/04%20Interior%20Design/ZZZ-INT-VC4403%20-%20Pantry%20Enlarged%20Det.pdf"
+  },
+  {
+    "id": "dwg-interior-design-zzz-int-vc4410",
+    "discipline": "Interior Design",
+    "fileName": "ZZZ-INT-VC4410 - Staircase - Plans.pdf",
+    "sheetCode": "ZZZ-INT-VC4410",
+    "title": "Staircase - Plans",
+    "revision": null,
+    "publicPath": "/drawings/04%20Interior%20Design/ZZZ-INT-VC4410%20-%20Staircase%20-%20Plans.pdf"
+  },
+  {
+    "id": "dwg-interior-design-zzz-int-vc4411",
+    "discipline": "Interior Design",
+    "fileName": "ZZZ-INT-VC4411 - Staircase - Section & Elev.pdf",
+    "sheetCode": "ZZZ-INT-VC4411",
+    "title": "Staircase - Section & Elev",
+    "revision": null,
+    "publicPath": "/drawings/04%20Interior%20Design/ZZZ-INT-VC4411%20-%20Staircase%20-%20Section%20%26%20Elev.pdf"
+  },
+  {
+    "id": "dwg-interior-design-zzz-int-vc4412",
+    "discipline": "Interior Design",
+    "fileName": "ZZZ-INT-VC4412 - Staircase - Section & Elev.pdf",
+    "sheetCode": "ZZZ-INT-VC4412",
+    "title": "Staircase - Section & Elev",
+    "revision": null,
+    "publicPath": "/drawings/04%20Interior%20Design/ZZZ-INT-VC4412%20-%20Staircase%20-%20Section%20%26%20Elev.pdf"
+  },
+  {
+    "id": "dwg-interior-design-zzz-int-vc4413",
+    "discipline": "Interior Design",
+    "fileName": "ZZZ-INT-VC4413 - Staircase - Blow-up Det.pdf",
+    "sheetCode": "ZZZ-INT-VC4413",
+    "title": "Staircase - Blow-up Det",
+    "revision": null,
+    "publicPath": "/drawings/04%20Interior%20Design/ZZZ-INT-VC4413%20-%20Staircase%20-%20Blow-up%20Det.pdf"
+  },
+  {
+    "id": "dwg-interior-design-zzz-int-vc4420",
+    "discipline": "Interior Design",
+    "fileName": "ZZZ-INT-VC4420 - Master Bedroom Wardrobe Det Sh1.pdf",
+    "sheetCode": "ZZZ-INT-VC4420",
+    "title": "Master Bedroom Wardrobe Det Sh1",
+    "revision": null,
+    "publicPath": "/drawings/04%20Interior%20Design/ZZZ-INT-VC4420%20-%20Master%20Bedroom%20Wardrobe%20Det%20Sh1.pdf"
+  },
+  {
+    "id": "dwg-interior-design-zzz-int-vc4421",
+    "discipline": "Interior Design",
+    "fileName": "ZZZ-INT-VC4421 - Master Bedroom Wardrobe Det Sh2.pdf",
+    "sheetCode": "ZZZ-INT-VC4421",
+    "title": "Master Bedroom Wardrobe Det Sh2",
+    "revision": null,
+    "publicPath": "/drawings/04%20Interior%20Design/ZZZ-INT-VC4421%20-%20Master%20Bedroom%20Wardrobe%20Det%20Sh2.pdf"
+  },
+  {
+    "id": "dwg-interior-design-zzz-int-vc4422",
+    "discipline": "Interior Design",
+    "fileName": "ZZZ-INT-VC4422 - Secondary Bedroom Wardrobe Det Sh1.pdf",
+    "sheetCode": "ZZZ-INT-VC4422",
+    "title": "Secondary Bedroom Wardrobe Det Sh1",
+    "revision": null,
+    "publicPath": "/drawings/04%20Interior%20Design/ZZZ-INT-VC4422%20-%20Secondary%20Bedroom%20Wardrobe%20Det%20Sh1.pdf"
+  },
+  {
+    "id": "dwg-interior-design-zzz-int-vc4423",
+    "discipline": "Interior Design",
+    "fileName": "ZZZ-INT-VC4423 - Secondary Bedroom Wardrobe Det Sh2.pdf",
+    "sheetCode": "ZZZ-INT-VC4423",
+    "title": "Secondary Bedroom Wardrobe Det Sh2",
+    "revision": null,
+    "publicPath": "/drawings/04%20Interior%20Design/ZZZ-INT-VC4423%20-%20Secondary%20Bedroom%20Wardrobe%20Det%20Sh2.pdf"
+  },
+  {
+    "id": "dwg-interior-design-zzz-int-vc4424",
+    "discipline": "Interior Design",
+    "fileName": "ZZZ-INT-VC4424 - Secondary Bedroom Wardrobe Det Sh3.pdf",
+    "sheetCode": "ZZZ-INT-VC4424",
+    "title": "Secondary Bedroom Wardrobe Det Sh3",
+    "revision": null,
+    "publicPath": "/drawings/04%20Interior%20Design/ZZZ-INT-VC4424%20-%20Secondary%20Bedroom%20Wardrobe%20Det%20Sh3.pdf"
+  },
+  {
+    "id": "dwg-interior-design-zzz-int-vc4425",
+    "discipline": "Interior Design",
+    "fileName": "ZZZ-INT-VC4425 - Secondary Bedroom Wardrobe Det Sh4.pdf",
+    "sheetCode": "ZZZ-INT-VC4425",
+    "title": "Secondary Bedroom Wardrobe Det Sh4",
+    "revision": null,
+    "publicPath": "/drawings/04%20Interior%20Design/ZZZ-INT-VC4425%20-%20Secondary%20Bedroom%20Wardrobe%20Det%20Sh4.pdf"
+  },
+  {
+    "id": "dwg-interior-design-zzz-int-vc4426",
+    "discipline": "Interior Design",
+    "fileName": "ZZZ-INT-VC4426 - Typical Wardrobe Det.pdf",
+    "sheetCode": "ZZZ-INT-VC4426",
+    "title": "Typical Wardrobe Det",
+    "revision": null,
+    "publicPath": "/drawings/04%20Interior%20Design/ZZZ-INT-VC4426%20-%20Typical%20Wardrobe%20Det.pdf"
+  },
+  {
+    "id": "dwg-interior-design-zzz-int-vc4500",
+    "discipline": "Interior Design",
+    "fileName": "ZZZ-INT-VC4500 - Typical Ceiling Det Sh1.pdf",
+    "sheetCode": "ZZZ-INT-VC4500",
+    "title": "Typical Ceiling Det Sh1",
+    "revision": null,
+    "publicPath": "/drawings/04%20Interior%20Design/ZZZ-INT-VC4500%20-%20Typical%20Ceiling%20Det%20Sh1.pdf"
+  },
+  {
+    "id": "dwg-interior-design-zzz-int-vc4501",
+    "discipline": "Interior Design",
+    "fileName": "ZZZ-INT-VC4501 - Typical Ceiling Det Sh2.pdf",
+    "sheetCode": "ZZZ-INT-VC4501",
+    "title": "Typical Ceiling Det Sh2",
+    "revision": null,
+    "publicPath": "/drawings/04%20Interior%20Design/ZZZ-INT-VC4501%20-%20Typical%20Ceiling%20Det%20Sh2.pdf"
+  },
+  {
+    "id": "dwg-interior-design-zzz-int-vc4510",
+    "discipline": "Interior Design",
+    "fileName": "ZZZ-INT-VC4510 - Typical Floor Det.pdf",
+    "sheetCode": "ZZZ-INT-VC4510",
+    "title": "Typical Floor Det",
+    "revision": null,
+    "publicPath": "/drawings/04%20Interior%20Design/ZZZ-INT-VC4510%20-%20Typical%20Floor%20Det.pdf"
+  },
+  {
+    "id": "dwg-interior-design-zzz-int-vc4520",
+    "discipline": "Interior Design",
+    "fileName": "ZZZ-INT-VC4520 - Typical Wall Det Sh1.pdf",
+    "sheetCode": "ZZZ-INT-VC4520",
+    "title": "Typical Wall Det Sh1",
+    "revision": null,
+    "publicPath": "/drawings/04%20Interior%20Design/ZZZ-INT-VC4520%20-%20Typical%20Wall%20Det%20Sh1.pdf"
+  },
+  {
+    "id": "dwg-interior-design-zzz-int-vc4521",
+    "discipline": "Interior Design",
+    "fileName": "ZZZ-INT-VC4521 - Typical Wall Det Sh2.pdf",
+    "sheetCode": "ZZZ-INT-VC4521",
+    "title": "Typical Wall Det Sh2",
+    "revision": null,
+    "publicPath": "/drawings/04%20Interior%20Design/ZZZ-INT-VC4521%20-%20Typical%20Wall%20Det%20Sh2.pdf"
+  },
+  {
+    "id": "dwg-interior-design-zzz-int-vc4530",
+    "discipline": "Interior Design",
+    "fileName": "ZZZ-INT-VC4530 - Master Bathroom Vanity Det.pdf",
+    "sheetCode": "ZZZ-INT-VC4530",
+    "title": "Master Bathroom Vanity Det",
+    "revision": null,
+    "publicPath": "/drawings/04%20Interior%20Design/ZZZ-INT-VC4530%20-%20Master%20Bathroom%20Vanity%20Det.pdf"
+  },
+  {
+    "id": "dwg-interior-design-zzz-int-vc4531",
+    "discipline": "Interior Design",
+    "fileName": "ZZZ-INT-VC4531 - Typical Secondary Bathroom Vanity Det.pdf",
+    "sheetCode": "ZZZ-INT-VC4531",
+    "title": "Typical Secondary Bathroom Vanity Det",
+    "revision": null,
+    "publicPath": "/drawings/04%20Interior%20Design/ZZZ-INT-VC4531%20-%20Typical%20Secondary%20Bathroom%20Vanity%20Det.pdf"
+  },
+  {
+    "id": "dwg-interior-design-zzz-int-vc4532",
+    "discipline": "Interior Design",
+    "fileName": "ZZZ-INT-VC4532 - Powder Room Vanity Det.pdf",
+    "sheetCode": "ZZZ-INT-VC4532",
+    "title": "Powder Room Vanity Det",
+    "revision": null,
+    "publicPath": "/drawings/04%20Interior%20Design/ZZZ-INT-VC4532%20-%20Powder%20Room%20Vanity%20Det.pdf"
+  },
+  {
+    "id": "dwg-interior-design-zzz-int-vc4533",
+    "discipline": "Interior Design",
+    "fileName": "ZZZ-INT-VC4533 - Master Bath Glass Partition Det.pdf",
+    "sheetCode": "ZZZ-INT-VC4533",
+    "title": "Master Bath Glass Partition Det",
+    "revision": null,
+    "publicPath": "/drawings/04%20Interior%20Design/ZZZ-INT-VC4533%20-%20Master%20Bath%20Glass%20Partition%20Det.pdf"
+  },
+  {
+    "id": "dwg-interior-design-zzz-int-vc4534",
+    "discipline": "Interior Design",
+    "fileName": "ZZZ-INT-VC4534 - Typical Secondary Glass Partition Det.pdf",
+    "sheetCode": "ZZZ-INT-VC4534",
+    "title": "Typical Secondary Glass Partition Det",
+    "revision": null,
+    "publicPath": "/drawings/04%20Interior%20Design/ZZZ-INT-VC4534%20-%20Typical%20Secondary%20Glass%20Partition%20Det.pdf"
+  },
+  {
+    "id": "dwg-interior-design-zzz-int-vc4535",
+    "discipline": "Interior Design",
+    "fileName": "ZZZ-INT-VC4535 - Typical Bathroom Det Sh1.pdf",
+    "sheetCode": "ZZZ-INT-VC4535",
+    "title": "Typical Bathroom Det Sh1",
+    "revision": null,
+    "publicPath": "/drawings/04%20Interior%20Design/ZZZ-INT-VC4535%20-%20Typical%20Bathroom%20Det%20Sh1.pdf"
+  },
+  {
+    "id": "dwg-interior-design-zzz-int-vc4536",
+    "discipline": "Interior Design",
+    "fileName": "ZZZ-INT-VC4536 - Typical Bathroom Det Sh2.pdf",
+    "sheetCode": "ZZZ-INT-VC4536",
+    "title": "Typical Bathroom Det Sh2",
+    "revision": null,
+    "publicPath": "/drawings/04%20Interior%20Design/ZZZ-INT-VC4536%20-%20Typical%20Bathroom%20Det%20Sh2.pdf"
+  },
+  {
+    "id": "dwg-interior-design-zzz-int-vc4540",
+    "discipline": "Interior Design",
+    "fileName": "ZZZ-INT-VC4540 - Typical Show Kitchen Det Sh1.pdf",
+    "sheetCode": "ZZZ-INT-VC4540",
+    "title": "Typical Show Kitchen Det Sh1",
+    "revision": null,
+    "publicPath": "/drawings/04%20Interior%20Design/ZZZ-INT-VC4540%20-%20Typical%20Show%20Kitchen%20Det%20Sh1.pdf"
+  },
+  {
+    "id": "dwg-interior-design-zzz-int-vc4541",
+    "discipline": "Interior Design",
+    "fileName": "ZZZ-INT-VC4541 - Typical Show Kitchen Det Sh2.pdf",
+    "sheetCode": "ZZZ-INT-VC4541",
+    "title": "Typical Show Kitchen Det Sh2",
+    "revision": null,
+    "publicPath": "/drawings/04%20Interior%20Design/ZZZ-INT-VC4541%20-%20Typical%20Show%20Kitchen%20Det%20Sh2.pdf"
+  },
+  {
+    "id": "dwg-interior-design-zzz-int-vc4542",
+    "discipline": "Interior Design",
+    "fileName": "ZZZ-INT-VC4542 - Typical Heavy Kitchen Det Sh1.pdf",
+    "sheetCode": "ZZZ-INT-VC4542",
+    "title": "Typical Heavy Kitchen Det Sh1",
+    "revision": null,
+    "publicPath": "/drawings/04%20Interior%20Design/ZZZ-INT-VC4542%20-%20Typical%20Heavy%20Kitchen%20Det%20Sh1.pdf"
+  },
+  {
+    "id": "dwg-interior-design-zzz-int-vc4543",
+    "discipline": "Interior Design",
+    "fileName": "ZZZ-INT-VC4543 - Typical Heavy Kitchen Det Sh2.pdf",
+    "sheetCode": "ZZZ-INT-VC4543",
+    "title": "Typical Heavy Kitchen Det Sh2",
+    "revision": null,
+    "publicPath": "/drawings/04%20Interior%20Design/ZZZ-INT-VC4543%20-%20Typical%20Heavy%20Kitchen%20Det%20Sh2.pdf"
+  },
+  {
+    "id": "dwg-interior-design-zzz-int-vc4544",
+    "discipline": "Interior Design",
+    "fileName": "ZZZ-INT-VC4544 - Typical Heavy Kitchen Det Sh3.pdf",
+    "sheetCode": "ZZZ-INT-VC4544",
+    "title": "Typical Heavy Kitchen Det Sh3",
+    "revision": null,
+    "publicPath": "/drawings/04%20Interior%20Design/ZZZ-INT-VC4544%20-%20Typical%20Heavy%20Kitchen%20Det%20Sh3.pdf"
+  },
+  {
+    "id": "dwg-interior-design-zzz-int-vc4545",
+    "discipline": "Interior Design",
+    "fileName": "ZZZ-INT-VC4545 - Typical Pantry Det Sh1.pdf",
+    "sheetCode": "ZZZ-INT-VC4545",
+    "title": "Typical Pantry Det Sh1",
+    "revision": null,
+    "publicPath": "/drawings/04%20Interior%20Design/ZZZ-INT-VC4545%20-%20Typical%20Pantry%20Det%20Sh1.pdf"
+  },
+  {
+    "id": "dwg-interior-design-zzz-int-vc4546",
+    "discipline": "Interior Design",
+    "fileName": "ZZZ-INT-VC4546 - Typical Pantry Det Sh2.pdf",
+    "sheetCode": "ZZZ-INT-VC4546",
+    "title": "Typical Pantry Det Sh2",
+    "revision": null,
+    "publicPath": "/drawings/04%20Interior%20Design/ZZZ-INT-VC4546%20-%20Typical%20Pantry%20Det%20Sh2.pdf"
+  },
+  {
+    "id": "dwg-interior-design-zzz-int-vc4547",
+    "discipline": "Interior Design",
+    "fileName": "ZZZ-INT-VC4547 - Typical Pantry Det Sh3.pdf",
+    "sheetCode": "ZZZ-INT-VC4547",
+    "title": "Typical Pantry Det Sh3",
+    "revision": null,
+    "publicPath": "/drawings/04%20Interior%20Design/ZZZ-INT-VC4547%20-%20Typical%20Pantry%20Det%20Sh3.pdf"
+  },
+  {
+    "id": "dwg-interior-design-zzz-int-vc4550",
+    "discipline": "Interior Design",
+    "fileName": "ZZZ-INT-VC4550 - Typical Mounting Heights Electrical Fixtures Sh1.pdf",
+    "sheetCode": "ZZZ-INT-VC4550",
+    "title": "Typical Mounting Heights Electrical Fixtures Sh1",
+    "revision": null,
+    "publicPath": "/drawings/04%20Interior%20Design/ZZZ-INT-VC4550%20-%20Typical%20Mounting%20Heights%20Electrical%20Fixtures%20Sh1.pdf"
+  },
+  {
+    "id": "dwg-interior-design-zzz-int-vc4551",
+    "discipline": "Interior Design",
+    "fileName": "ZZZ-INT-VC4551 - Typical Mounting Heights Electrical Fixtures Sh2.pdf",
+    "sheetCode": "ZZZ-INT-VC4551",
+    "title": "Typical Mounting Heights Electrical Fixtures Sh2",
+    "revision": null,
+    "publicPath": "/drawings/04%20Interior%20Design/ZZZ-INT-VC4551%20-%20Typical%20Mounting%20Heights%20Electrical%20Fixtures%20Sh2.pdf"
+  },
+  {
+    "id": "dwg-interior-design-zzz-int-vc4560",
+    "discipline": "Interior Design",
+    "fileName": "ZZZ-INT-VC4560 - Typical Door Det (DT-02).pdf",
+    "sheetCode": "ZZZ-INT-VC4560",
+    "title": "Typical Door Det (DT-02)",
+    "revision": null,
+    "publicPath": "/drawings/04%20Interior%20Design/ZZZ-INT-VC4560%20-%20Typical%20Door%20Det%20%28DT-02%29.pdf"
+  },
+  {
+    "id": "dwg-interior-design-zzz-int-vc4561",
+    "discipline": "Interior Design",
+    "fileName": "ZZZ-INT-VC4561 - Typical Door Det (DT-03).pdf",
+    "sheetCode": "ZZZ-INT-VC4561",
+    "title": "Typical Door Det (DT-03)",
+    "revision": null,
+    "publicPath": "/drawings/04%20Interior%20Design/ZZZ-INT-VC4561%20-%20Typical%20Door%20Det%20%28DT-03%29.pdf"
+  },
+  {
+    "id": "dwg-interior-design-zzz-int-vc4562",
+    "discipline": "Interior Design",
+    "fileName": "ZZZ-INT-VC4562 - Typical Door Det (DT-04).pdf",
+    "sheetCode": "ZZZ-INT-VC4562",
+    "title": "Typical Door Det (DT-04)",
+    "revision": null,
+    "publicPath": "/drawings/04%20Interior%20Design/ZZZ-INT-VC4562%20-%20Typical%20Door%20Det%20%28DT-04%29.pdf"
+  },
+  {
+    "id": "dwg-interior-design-zzz-int-vc4563",
+    "discipline": "Interior Design",
+    "fileName": "ZZZ-INT-VC4563 - Typical Door Det (DT-05).pdf",
+    "sheetCode": "ZZZ-INT-VC4563",
+    "title": "Typical Door Det (DT-05)",
+    "revision": null,
+    "publicPath": "/drawings/04%20Interior%20Design/ZZZ-INT-VC4563%20-%20Typical%20Door%20Det%20%28DT-05%29.pdf"
+  },
+  {
+    "id": "dwg-interior-design-zzz-int-vc4564",
+    "discipline": "Interior Design",
+    "fileName": "ZZZ-INT-VC4564 - Typical Door Det (DT-07).pdf",
+    "sheetCode": "ZZZ-INT-VC4564",
+    "title": "Typical Door Det (DT-07)",
+    "revision": null,
+    "publicPath": "/drawings/04%20Interior%20Design/ZZZ-INT-VC4564%20-%20Typical%20Door%20Det%20%28DT-07%29.pdf"
+  },
+  {
+    "id": "dwg-interior-design-zzz-int-vc4565",
+    "discipline": "Interior Design",
+    "fileName": "ZZZ-INT-VC4565 - Typical Door Det (DT-08).pdf",
+    "sheetCode": "ZZZ-INT-VC4565",
+    "title": "Typical Door Det (DT-08)",
+    "revision": null,
+    "publicPath": "/drawings/04%20Interior%20Design/ZZZ-INT-VC4565%20-%20Typical%20Door%20Det%20%28DT-08%29.pdf"
+  },
+  {
+    "id": "dwg-interior-design-zzz-int-vc4566",
+    "discipline": "Interior Design",
+    "fileName": "ZZZ-INT-VC4566 - Typical Door Det (DT-09).pdf",
+    "sheetCode": "ZZZ-INT-VC4566",
+    "title": "Typical Door Det (DT-09)",
+    "revision": null,
+    "publicPath": "/drawings/04%20Interior%20Design/ZZZ-INT-VC4566%20-%20Typical%20Door%20Det%20%28DT-09%29.pdf"
+  },
+  {
+    "id": "dwg-interior-design-zzz-int-vc4567",
+    "discipline": "Interior Design",
+    "fileName": "ZZZ-INT-VC4567 - Typical Door Det (DT-11).pdf",
+    "sheetCode": "ZZZ-INT-VC4567",
+    "title": "Typical Door Det (DT-11)",
+    "revision": null,
+    "publicPath": "/drawings/04%20Interior%20Design/ZZZ-INT-VC4567%20-%20Typical%20Door%20Det%20%28DT-11%29.pdf"
+  },
+  {
+    "id": "dwg-interior-design-zzz-int-vc4568",
+    "discipline": "Interior Design",
+    "fileName": "ZZZ-INT-VC4568 - Typical Door Det (DT-14).pdf",
+    "sheetCode": "ZZZ-INT-VC4568",
+    "title": "Typical Door Det (DT-14)",
+    "revision": null,
+    "publicPath": "/drawings/04%20Interior%20Design/ZZZ-INT-VC4568%20-%20Typical%20Door%20Det%20%28DT-14%29.pdf"
+  },
+  {
+    "id": "dwg-interior-design-zzz-int-vc4569",
+    "discipline": "Interior Design",
+    "fileName": "ZZZ-INT-VC4569 - Typical Door Det (DT-15).pdf",
+    "sheetCode": "ZZZ-INT-VC4569",
+    "title": "Typical Door Det (DT-15)",
+    "revision": null,
+    "publicPath": "/drawings/04%20Interior%20Design/ZZZ-INT-VC4569%20-%20Typical%20Door%20Det%20%28DT-15%29.pdf"
+  },
+  {
+    "id": "dwg-interior-design-zzz-int-vc4570",
+    "discipline": "Interior Design",
+    "fileName": "ZZZ-INT-VC4570 - Typical Door Det (DT-16).pdf",
+    "sheetCode": "ZZZ-INT-VC4570",
+    "title": "Typical Door Det (DT-16)",
+    "revision": null,
+    "publicPath": "/drawings/04%20Interior%20Design/ZZZ-INT-VC4570%20-%20Typical%20Door%20Det%20%28DT-16%29.pdf"
+  },
+  {
+    "id": "dwg-interior-design-zzz-int-vc4571",
+    "discipline": "Interior Design",
+    "fileName": "ZZZ-INT-VC4571 - Typical Door Det (DT-19).pdf",
+    "sheetCode": "ZZZ-INT-VC4571",
+    "title": "Typical Door Det (DT-19)",
+    "revision": null,
+    "publicPath": "/drawings/04%20Interior%20Design/ZZZ-INT-VC4571%20-%20Typical%20Door%20Det%20%28DT-19%29.pdf"
+  },
+  {
+    "id": "dwg-interior-design-zzz-int-vc4572",
+    "discipline": "Interior Design",
+    "fileName": "ZZZ-INT-VC4572 - Typical Door Det (DT-20).pdf",
+    "sheetCode": "ZZZ-INT-VC4572",
+    "title": "Typical Door Det (DT-20)",
+    "revision": null,
+    "publicPath": "/drawings/04%20Interior%20Design/ZZZ-INT-VC4572%20-%20Typical%20Door%20Det%20%28DT-20%29.pdf"
+  },
+  {
+    "id": "dwg-interior-design-zzz-int-vc4573",
+    "discipline": "Interior Design",
+    "fileName": "ZZZ-INT-VC4573 - Typical Door Det (DT-22).pdf",
+    "sheetCode": "ZZZ-INT-VC4573",
+    "title": "Typical Door Det (DT-22)",
+    "revision": null,
+    "publicPath": "/drawings/04%20Interior%20Design/ZZZ-INT-VC4573%20-%20Typical%20Door%20Det%20%28DT-22%29.pdf"
+  },
+  {
+    "id": "dwg-interior-design-zzz-int-vc4574",
+    "discipline": "Interior Design",
+    "fileName": "ZZZ-INT-VC4574 - Typical Door Det (DT-23).pdf",
+    "sheetCode": "ZZZ-INT-VC4574",
+    "title": "Typical Door Det (DT-23)",
+    "revision": null,
+    "publicPath": "/drawings/04%20Interior%20Design/ZZZ-INT-VC4574%20-%20Typical%20Door%20Det%20%28DT-23%29.pdf"
+  },
+  {
+    "id": "dwg-interior-design-zzz-int-vc4590",
+    "discipline": "Interior Design",
+    "fileName": "ZZZ-INT-VC4590 - Joinery Det Sh1.pdf",
+    "sheetCode": "ZZZ-INT-VC4590",
+    "title": "Joinery Det Sh1",
+    "revision": null,
+    "publicPath": "/drawings/04%20Interior%20Design/ZZZ-INT-VC4590%20-%20Joinery%20Det%20Sh1.pdf"
+  },
+  {
+    "id": "dwg-interior-design-zzz-int-vc4591",
+    "discipline": "Interior Design",
+    "fileName": "ZZZ-INT-VC4591 - Joinery Det Sh2.pdf",
+    "sheetCode": "ZZZ-INT-VC4591",
+    "title": "Joinery Det Sh2",
+    "revision": null,
+    "publicPath": "/drawings/04%20Interior%20Design/ZZZ-INT-VC4591%20-%20Joinery%20Det%20Sh2.pdf"
+  },
+  {
+    "id": "dwg-interior-design-zzz-int-vc4592",
+    "discipline": "Interior Design",
+    "fileName": "ZZZ-INT-VC4592 - Timber Partition Wall Det.pdf",
+    "sheetCode": "ZZZ-INT-VC4592",
+    "title": "Timber Partition Wall Det",
+    "revision": null,
+    "publicPath": "/drawings/04%20Interior%20Design/ZZZ-INT-VC4592%20-%20Timber%20Partition%20Wall%20Det.pdf"
+  },
+  {
+    "id": "dwg-interior-design-zzz-int-vc4700",
+    "discipline": "Interior Design",
+    "fileName": "ZZZ-INT-VC4700 - Lift CAR Enlarged Det.pdf",
+    "sheetCode": "ZZZ-INT-VC4700",
+    "title": "Lift CAR Enlarged Det",
+    "revision": null,
+    "publicPath": "/drawings/04%20Interior%20Design/ZZZ-INT-VC4700%20-%20Lift%20CAR%20Enlarged%20Det.pdf"
+  }
+]

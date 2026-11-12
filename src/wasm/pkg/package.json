@@ -1,0 +1,15 @@
+{
+  "name": "wasm-geometry",
+  "type": "module",
+  "version": "0.1.0",
+  "files": [
+    "wasm_geometry_bg.wasm",
+    "wasm_geometry.js",
+    "wasm_geometry.d.ts"
+  ],
+  "main": "wasm_geometry.js",
+  "types": "wasm_geometry.d.ts",
+  "sideEffects": [
+    "./snippets/*"
+  ]
+}
